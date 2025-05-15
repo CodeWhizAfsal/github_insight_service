@@ -1,0 +1,4 @@
+flask
+requests
+beautifulsoup4
+cohere  # Optional for AI summaries
