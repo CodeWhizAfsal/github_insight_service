@@ -20,8 +20,8 @@ A Flask-based web application that scrapes GitHub profiles based on a search que
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/github-insight-service.git
-cd github-insight-service
+git clone https://https://github.com/CodeWhizAfsal/github_insight_service
+cd github_insight_service
 ```
 ### 2. Create Virtual Environment
 ```bash
