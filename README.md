@@ -62,7 +62,7 @@ openai  # Optional for AI summaries
 - The keyword query returns enough users to populate insights meaningfully.
 - AI summarization is handled either via cohere.
 - HTML template (`results.html`) expects a non-null results list.
-- File `result.json` is used to cache or store intermediate results locally.
+- File `data.json` is used to cache or store intermediate results locally.
 
 ---
 
