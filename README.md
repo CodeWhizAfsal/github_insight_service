@@ -50,7 +50,7 @@ openai  # Optional for AI summaries
 - **Flask** – Web application framework  
 - **BeautifulSoup** – Web scraping GitHub profiles  
 - **Requests** – HTTP requests to GitHub  
-- **OpenAI API** – (Optional) for AI-based summarization  
+- **Cohere** –  for AI-based summarization  
 - **Jinja2** – HTML templating engine for Flask  
 - **JSON** – For internal data storage and caching  
 
