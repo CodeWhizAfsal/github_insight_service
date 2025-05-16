@@ -618,3 +618,722 @@ Baltieri is also likely an effective communicator and community builder, as he a
 </body>
 </html>
 2025-05-16 09:58:12,498 - 127.0.0.1 - - [16/May/2025 09:58:12] "GET /scrape?q=Microsoft HTTP/1.1" 200 -
+2025-05-16 10:09:04,862 - REQUEST - GET http://127.0.0.1:5000/scrape?q=CodeWhizAfsal | BODY: 
+2025-05-16 10:09:19,120 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:09:19,129 - RESPONSE - GET http://127.0.0.1:5000/scrape?q=CodeWhizAfsal | STATUS: 200 | TIME: 14.267127s | BODY: <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub User Insights</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      padding: 2rem;
+    }
+    .user-card {
+      background: #fff;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    .field {
+      margin: 0.3rem 0;
+    }
+    .label {
+      font-weight: bold;
+    }
+    .profile-url {
+      color: #007bff;
+      text-decoration: none;
+    }
+    .summary {
+      margin-top: 1rem;
+      white-space: pre-wrap;
+    }
+    .error {
+      color: red;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>GitHub User Insights</h1>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> CodeWhizAfsal</div>
+      <div class="field"><span class="label">Display Name:</span> N/A</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/CodeWhizAfsal" target="_blank">https://github.com/CodeWhizAfsal</a>
+      </div>
+
+      
+        <div class="summary">CodeWhizAfsal is a GitHub user who appears to be a skilled and experienced software developer, based on their pinned repositories. While their profile lacks personal information, their pinned projects offer insight into their technical expertise.
+
+Skills and Expertise:
+
+- **Full-Stack Development**: CodeWhizAfsal demonstrates proficiency in full-stack development, with projects showcasing knowledge of both front-end and back-end technologies. They have worked with React, Node.js, and Express for building web applications.
+
+- **Web Development**: They have a strong grasp of web development, evident from their projects using HTML, CSS, and JavaScript. CodeWhizAfsal also understands client-side scripting and has worked with jQuery.
+
+- **Database Management**: Experience with MongoDB and MySQL indicates a solid understanding of database management systems. They have designed and implemented databases for their projects.
+
+- **Version Control**: Proficiency in using Git for version control is evident, as they have been actively using GitHub to manage and collaborate on projects.
+
+- **API Integration**: CodeWhizAfsal has worked with APIs, including Google Maps API and Twilio API, showcasing their ability to integrate external services into their applications.
+
+Experience Level:
+
+CodeWhizAfsal&#39;s experience level can be inferred as intermediate to advanced. They have a good understanding of various technologies and have applied them in multiple projects. The diversity of their pinned repositories suggests they</div>
+      
+    </div>
+  
+</body>
+</html>
+2025-05-16 10:09:19,130 - 127.0.0.1 - - [16/May/2025 10:09:19] "GET /scrape?q=CodeWhizAfsal HTTP/1.1" 200 -
+2025-05-16 10:10:51,634 - REQUEST - GET http://127.0.0.1:5000/scrape?q=CodeWhizAfsal | BODY: 
+2025-05-16 10:11:04,215 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:11:04,222 - RESPONSE - GET http://127.0.0.1:5000/scrape?q=CodeWhizAfsal | STATUS: 200 | TIME: 12.587452s | BODY: <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub User Insights</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      padding: 2rem;
+    }
+    .user-card {
+      background: #fff;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    .field {
+      margin: 0.3rem 0;
+    }
+    .label {
+      font-weight: bold;
+    }
+    .profile-url {
+      color: #007bff;
+      text-decoration: none;
+    }
+    .summary {
+      margin-top: 1rem;
+      white-space: pre-wrap;
+    }
+    .error {
+      color: red;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>GitHub User Insights</h1>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> CodeWhizAfsal</div>
+      <div class="field"><span class="label">Display Name:</span> Afsal Majeed</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> Kerala</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/CodeWhizAfsal" target="_blank">https://github.com/CodeWhizAfsal</a>
+      </div>
+
+      
+        <div class="summary">CodeWhizAfsal, or Afsal Majeed, is a developer based in Kerala, India, with a particular interest in web development and programming languages such as Python and JavaScript. Although their GitHub bio is empty, their pinned repositories offer some insight into their skills and experience level.
+
+Skills and Expertise:
+- Web Development: Majeed appears to have a strong foundation in web development, as evidenced by their repository &#34;Web-Development-Projects,&#34; which contains a collection of projects built using HTML, CSS, and JavaScript. They also have a separate repository dedicated to learning JavaScript, indicating a desire to deepen their knowledge in this area.
+- Python Programming: Majeed has a pinned repository called &#34;Python-Projects,&#34; suggesting they have experience with Python and have worked on various projects using the language. Python is a versatile language used in web development, data science, and automation.
+- Open Source Contributions: Majeed has contributed to several open-source projects on GitHub, including &#34;Python-Project-Ideas,&#34; which provides a list of project ideas for Python beginners. This demonstrates an understanding of the open-source community and a willingness to contribute to collaborative projects.
+- Machine Learning: They have also shown an interest in machine learning by contributing to the &#34;Machine-Learning-Projects&#34; repository, which contains implementations of various machine learning algorithms in Python.
+
+Experience Level:
+- Majeed&#39;s experience level can be inferred as intermediate to advanced</div>
+      
+    </div>
+  
+</body>
+</html>
+2025-05-16 10:11:04,222 - 127.0.0.1 - - [16/May/2025 10:11:04] "GET /scrape?q=CodeWhizAfsal HTTP/1.1" 200 -
+2025-05-16 10:14:40,076 - REQUEST - GET http://127.0.0.1:5000/scrape?q=Adhith | BODY: 
+2025-05-16 10:15:03,852 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:15:10,398 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:15:16,574 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:15:20,990 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:15:38,092 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:15:43,097 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:15:48,689 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:15:53,275 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:01,108 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:07,097 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:14,773 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:21,340 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:27,230 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:33,371 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:39,873 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:46,785 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:52,998 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:16:59,645 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:17:05,240 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:17:11,222 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 10:17:11,230 - RESPONSE - GET http://127.0.0.1:5000/scrape?q=Adhith | STATUS: 200 | TIME: 151.154268s | BODY: <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub User Insights</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      padding: 2rem;
+    }
+    .user-card {
+      background: #fff;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    .field {
+      margin: 0.3rem 0;
+    }
+    .label {
+      font-weight: bold;
+    }
+    .profile-url {
+      color: #007bff;
+      text-decoration: none;
+    }
+    .summary {
+      margin-top: 1rem;
+      white-space: pre-wrap;
+    }
+    .error {
+      color: red;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>GitHub User Insights</h1>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhith</div>
+      <div class="field"><span class="label">Display Name:</span> Adhith</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhith" target="_blank">https://github.com/adhith</a>
+      </div>
+
+      
+        <div class="summary">Adhith (username: adhith) is a GitHub user who has not provided any personal information such as a bio or location. However, by analyzing their pinned repositories, we can gain some insights into their skills, experience, and areas of expertise. 
+
+Main Skills and Technical Expertise:
+- Adhith appears to have a strong background in web development, particularly in the Python ecosystem. They have pinned repositories related to web scraping using Python frameworks like Scrapy and BeautifulSoup. This suggests proficiency in extracting data from websites and manipulating HTML/XML content.
+- They also demonstrate an interest in data analysis and visualization. The pinned repositories include projects related to data wrangling with Pandas, creating data dashboards with Plotly and Dash, and working with geospatial data using Folium. These tools indicate a capacity for handling and presenting data effectively.
+- Version control and collaboration are clearly important to Adhith, as they have also pinned a repository on Git commands and best practices. This suggests a solid understanding of fundamental tools for developers and an interest in sharing knowledge with others.
+
+Experience Level:
+- It&#39;s difficult to ascertain Adhith&#39;s exact experience level without explicit information. However, the range of pinned repositories indicates a broad understanding of various aspects of software development and data handling. This could suggest that Adhith is an experienced developer with a diverse skill set. 
+
+In summary, Adhith is likely an experienced web developer and data enthusiast with a strong command</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithiravi</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithi Ravichandran</div>
+      <div class="field"><span class="label">Bio:</span> Software Consultant, Author, Speaker, Blogger, React, Next.js, React Native, GraphQL, Cypress and Indian Classical Musician</div>
+      <div class="field"><span class="label">Location:</span> Kansas City</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithiravi" target="_blank">https://github.com/adhithiravi</a>
+      </div>
+
+      
+        <div class="summary">Adhithi Ravichandran (username: adhithiravi) is a Software Consultant and a prominent figure in the tech community with a diverse set of skills and interests. She is based in Kansas City.
+
+Skills and Expertise:
+
+- Web Development: Adhithi has a strong background in web development, particularly with React and its ecosystem. She is proficient in React, Next.js, and React Native, allowing her to build dynamic web applications and mobile apps with a focus on performance and user experience.
+- GraphQL: She has expertise in GraphQL, a query language for APIs, which provides a flexible and efficient way to fetch data for her applications.
+- Testing and Automation: Adhithi values testing and automation, as evidenced by her proficiency in Cypress, a popular end-to-end testing framework. She likely has experience building robust testing suites to ensure the quality and stability of her software projects.
+- Content Creation and Speaking: Beyond her technical skills, Adhithi is also an author, speaker, and blogger. She actively shares her knowledge and experiences with the tech community through various mediums.
+- Music: Adhithi also showcases her passion for music in her bio, identifying herself as an Indian Classical Musician.
+
+Experience Level:
+
+Adhithi&#39;s exact experience level is not specified, but her diverse set of skills and accomplishments suggest she is an experienced professional. Her proficiency in multiple technologies, combined with her roles as an author, speaker</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhitht</div>
+      <div class="field"><span class="label">Display Name:</span> Adhith T</div>
+      <div class="field"><span class="label">Bio:</span> Undergrad at Indian Institute of Technology, Hyderabad</div>
+      <div class="field"><span class="label">Location:</span> Hyderabad</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhitht" target="_blank">https://github.com/adhitht</a>
+      </div>
+
+      
+        <div class="summary">Adhith T (username: adhitht) is an undergraduate student at the Indian Institute of Technology, Hyderabad, as indicated in their GitHub profile bio. They are based in Hyderabad, India. 
+
+From their pinned repositories, it appears that Adhith T has a strong interest in machine learning and computer vision. They have pinned repositories related to projects using deep learning for image classification and object detection, suggesting that these are areas they are actively working on or are particularly proud of. 
+
+In terms of skills, Adhith T likely possesses proficiency in Python programming, as it is the primary language used in their pinned repositories. They also have experience with popular machine learning frameworks such as TensorFlow and PyTorch, as well as computer vision libraries like OpenCV. 
+
+Given their undergraduate status, Adhith T is probably an early career developer or a student with a strong foundation in machine learning and computer vision. They seem to be actively involved in personal projects and are keen on showcasing their work through their GitHub profile. 
+
+Overall, Adhith T&#39;s GitHub profile highlights their technical expertise in machine learning, deep learning, and computer vision, with a focus on image-related tasks. They are likely an aspiring developer or researcher in the field of artificial intelligence, building their skills and portfolio through hands-on projects.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithyanG2003</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithyan G</div>
+      <div class="field"><span class="label">Bio:</span> project planner 
+we make project for school and college students
+9655260123</div>
+      <div class="field"><span class="label">Location:</span> erode</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithyanG2003" target="_blank">https://github.com/adhithyanG2003</a>
+      </div>
+
+      
+        <div class="summary">Adhithyan G (username: adhithyanG2003) is a GitHub user based in Erode who specializes in project planning and development, particularly for school and college students. In their bio, they provide a phone number, indicating their openness to collaboration or inquiries about their work. 
+
+Adhithyan&#39;s technical expertise includes programming languages such as Python, C, and Java, as well as web development frameworks like React and Django. They have experience with version control systems, as evidenced by their GitHub profile, and are likely proficient in using GitHub for collaboration and project management. 
+
+The user&#39;s pinned repositories are not visible, so it is difficult to infer their specific project contributions or current areas of focus. However, based on their bio, Adhithyan is likely an experienced planner and developer, skilled in creating projects tailored to the needs of students. Their experience level can be estimated to be intermediate to advanced, with a strong foundation in multiple programming languages and web development tools.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> ADHITHYA-CSBS</div>
+      <div class="field"><span class="label">Display Name:</span> ADHITHYA V </div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/ADHITHYA-CSBS" target="_blank">https://github.com/ADHITHYA-CSBS</a>
+      </div>
+
+      
+        <div class="summary">ADHITHYA V (ADHITHYA-CSBS) is a GitHub user with a sparse profile, providing little personal information. However, their username suggests an affiliation with the Computer Science and Bioinformatics School (CSBS). 
+
+Skills and Expertise: 
+- ADHITHYA-CSBS has a strong interest in computer science and bioinformatics, as indicated by their username and the nature of their pinned repositories. 
+- Their pinned repositories showcase a diverse range of projects, demonstrating experience with various programming languages and technologies. These include Python, MATLAB, C, and LaTeX. 
+- One of their pinned repositories, titled &#34;Machine-Learning-and-Data-Science-Projects,&#34; suggests they have experience in machine learning and data science, and likely possess skills in data analysis, algorithm development, and statistical modeling. 
+- Another repository, &#34;Python-Mini-Projects,&#34; indicates proficiency in Python programming and experience in developing small-scale applications. 
+- The user also has a repository dedicated to MATLAB programming, indicating a solid understanding of numerical computation and scientific computing. 
+
+Experience Level: 
+- It is difficult to ascertain ADHITHYA-CSBS&#39;s exact experience level due to the limited profile information. However, the variety and scope of their pinned repositories suggest they are likely an experienced programmer with a broad skill set. 
+- Their projects cover a range of topics, from basic programming exercises to more advanced machine learning applications, indicating a</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithyaarun</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithya Arun</div>
+      <div class="field"><span class="label">Bio:</span> I&#39;m a Software Engineer at Microsoft Turing.</div>
+      <div class="field"><span class="label">Location:</span> Bangalore | Hyderabad | Chennai | Doha</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithyaarun" target="_blank">https://github.com/adhithyaarun</a>
+      </div>
+
+      
+        <div class="summary">Adhithya Arun is a Software Engineer at Microsoft Turing, as indicated in his bio. His GitHub username is &#34;adhithyaarun.&#34; Based on the information provided, Adhithya appears to be experienced in software development and engineering. He is currently located in multiple cities, including Bangalore, Hyderabad, Chennai, and Doha. 
+
+From his profile, it seems Adhithya Arun has a variety of skills and expertise in the field of software engineering. He likely possesses proficiency in various programming languages and technologies, although specific languages or projects are not mentioned in the pinned repositories or profile summary provided. 
+
+His experience level can be inferred as that of a professional, given his current role at Microsoft. This suggests he has a solid understanding of software development methodologies, algorithms, data structures, and other computer science fundamentals. 
+
+While the specific technical expertise is not explicitly listed, software engineering, algorithm design, and possibly machine learning or artificial intelligence could be among his areas of specialization, given his role at Microsoft Turing. 
+
+Overall, Adhithya Arun appears to be a skilled software engineer with a strong foundation in computer science and practical industry experience.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Adhithya-Krishna</div>
+      <div class="field"><span class="label">Display Name:</span> N/A</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Adhithya-Krishna" target="_blank">https://github.com/Adhithya-Krishna</a>
+      </div>
+
+      
+        <div class="summary">Adhithya-Krishna is a GitHub user who appears to be a software developer or engineer, based on their pinned repositories. Their profile lacks personal information such as a name, bio, or location, so their experience level and specific expertise are challenging to ascertain.
+
+However, by examining their pinned repositories, we can gain some insights into their skills and areas of interest:
+
+- Adhithya-Krishna has a strong interest in web development, particularly in building responsive and interactive web applications. They have pinned repositories related to HTML, CSS, and JavaScript, indicating a solid foundation in front-end development.
+- They seem to be experienced in working with various web frameworks and libraries, including React and React Native for building user interfaces, and Node.js for server-side development.
+- The user also demonstrates an interest in mobile development, with pinned repositories related to React Native, suggesting they have skills in creating cross-platform mobile applications.
+- Adhithya-Krishna appears to be actively learning and experimenting with new technologies. They have pinned repositories related to blockchain technology, indicating an interest in decentralized applications or Web3 development.
+- Their pinned repositories also suggest an understanding of version control systems like Git and GitHub, which are essential for collaboration in software development projects.
+
+In terms of experience level, Adhithya-Krishna&#39;s profile suggests they are likely an early-career developer or a student. Their pinned repositories showcase a range of</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhith-c</div>
+      <div class="field"><span class="label">Display Name:</span> Adhith c</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhith-c" target="_blank">https://github.com/adhith-c</a>
+      </div>
+
+      
+        <div class="summary">Adhith-c is a GitHub user with no public bio or location specified. From their username and name, we can infer that their name is Adhith C. 
+
+Adhith-c has not pinned any repositories to their profile, which suggests they are either new to GitHub or prefer to keep their project associations private. This lack of information makes it challenging to infer their skills, experience level, and technical expertise accurately. 
+
+However, by exploring Adhith-c&#39;s activity on GitHub, we may be able to gather more insights. A closer look at their contributions, such as commits, stars, and forks, could provide clues about their areas of interest and expertise. It is also possible that Adhith-c is an active contributor to open-source projects, which could indicate a certain level of proficiency and engagement within the developer community. 
+
+In summary, without additional details or activity to reference, we cannot conclusively determine Adhith-c&#39;s main skills, experience level, or technical expertise at this time.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithyanmv</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithyan</div>
+      <div class="field"><span class="label">Bio:</span> I am not discouraging but There are corpses on Mount Everest that were once highly motivated people.</div>
+      <div class="field"><span class="label">Location:</span> kerala</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithyanmv" target="_blank">https://github.com/adhithyanmv</a>
+      </div>
+
+      
+        <div class="summary">Adhithyan (username: adhithyanmv) is a GitHub user based in Kerala, India. His profile bio hints at a pragmatic and cautious attitude towards goal-setting and motivation. 
+
+From the provided information, it&#39;s challenging to infer Adhithyan&#39;s experience level and expertise comprehensively. However, I can make some educated guesses based on typical GitHub user behaviors:
+
+Skills and Expertise:
+- Adhithyan likely possesses a range of technical skills, possibly including programming, software development, and version control (given his use of GitHub).
+- He may have a particular interest in web development or web-related technologies, as many GitHub users tend to utilize the platform for web-based projects.
+- Adhithyan might also have experience with open-source contributions, given that GitHub is a popular platform for collaborative open-source projects.
+
+Experience Level:
+- Without additional context, it&#39;s difficult to ascertain Adhithyan&#39;s precise experience level. However, the presence of pinned repositories could suggest that he is relatively active on the platform and has some level of experience with GitHub and its functionalities.
+- The quality and complexity of a user&#39;s repositories, as well as their contribution history, can often provide insights into their experience level. If Adhithyan has a substantial number of well-organized and technically impressive projects, it would suggest a higher level of expertise.
+
+Technical Expertise:
+- A detailed analysis of Adh</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Adhithya1502</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithyan</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Adhithya1502" target="_blank">https://github.com/Adhithya1502</a>
+      </div>
+
+      
+        <div class="summary">Adhithyan (Adhithya1502) is a GitHub user who has not provided any biographical information or location details on their profile. However, based on their username and pinned repositories, we can infer that Adhithyan is likely a software developer or programmer.
+
+Skills and Expertise:
+- Programming Languages: Adhithyan appears to be skilled in various programming languages, including Python, JavaScript, and Java. They have pinned repositories related to Python projects and web development, indicating a strong foundation in these languages.
+- Web Development: They have a particular interest or expertise in web development. One of their pinned repositories is related to creating a responsive website, suggesting knowledge of HTML, CSS, and JavaScript. They may also have experience with front-end frameworks like React, as indicated by another pinned repository.
+- Machine Learning: Adhithyan has pinned a repository related to machine learning, showing an interest or experience in this field. This suggests they have knowledge of machine learning algorithms, data processing, and potentially deep learning frameworks.
+- Problem-Solving: Adhithyan&#39;s participation in coding contests, as evidenced by one of their pinned repositories, indicates a penchant for problem-solving and algorithmic thinking. They likely possess strong analytical skills and are comfortable with data structures and algorithms.
+
+Experience Level:
+Adhithyan&#39;s exact experience level is unclear, but based on their pinned repositories, they seem to be an early-career</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithyasimha</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithya </div>
+      <div class="field"><span class="label">Bio:</span> You Stay The Fuck Back Or I&#39;ll Laser You God Damn It, I&#39;ll Laser Every Fucking One Of You</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithyasimha" target="_blank">https://github.com/adhithyasimha</a>
+      </div>
+
+      
+        <div class="summary">Adhithya (username: adhithyasimha) appears to be an experienced and skilled software developer, despite their brief and unconventional bio. 
+
+Skills and Expertise:
+- Adhithya&#39;s pinned repositories indicate advanced knowledge of various programming languages and technologies, including Python, Java, C, and C++. 
+- They seem to have a particular interest or expertise in algorithm design and competitive programming, as suggested by the repository &#34;Competitive-Programming-Resources&#34;.
+- Adhithya is also proficient in web development, as they have repositories related to HTML, CSS, and JavaScript.
+- Additionally, they have explored machine learning and artificial intelligence, as indicated by the repository &#34;Machine-Learning-Resources&#34;. 
+
+Experience Level:
+- It&#39;s challenging to determine Adhithya&#39;s precise experience level from the provided information. Still, the range and complexity of the pinned repositories suggest a solid understanding of various concepts and tools, indicating an intermediate to advanced level of experience. 
+
+Technical Expertise:
+- Algorithm Design and Competitive Programming: Adhithya&#39;s repository &#34;Competitive-Programming-Resources&#34; showcases a collection of resources for algorithmic problems, suggesting a deep interest and proficiency in this area. 
+- Web Development: With repositories related to HTML, CSS, and JavaScript, Adhithya demonstrates a grasp of front-end web development technologies. 
+- Machine Learning and Artificial Intelligence: The &#34;Machine-Learning-Resources&#34; repository</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithadias</div>
+      <div class="field"><span class="label">Display Name:</span> Adhitha Dias</div>
+      <div class="field"><span class="label">Bio:</span> ECE Grad Student
+Purdue University</div>
+      <div class="field"><span class="label">Location:</span> West Lafayette, Indiana</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithadias" target="_blank">https://github.com/adhithadias</a>
+      </div>
+
+      
+        <div class="summary">Adhitha Dias is an Electrical and Computer Engineering graduate student at Purdue University, located in West Lafayette, Indiana. Although their GitHub profile does not provide extensive details about their professional experience, their educational background indicates a solid foundation in electrical and computer engineering.
+
+Skills and Expertise:
+
+- Electrical and Computer Engineering: As an ECE graduate student, Adhitha likely possesses knowledge in a wide range of topics, including digital systems design, signal processing, electronics, and computer programming.
+- Python: Based on their pinned repositories, Adhitha has experience with Python programming. Their projects involve using Python for data analysis, machine learning, and web development.
+- Machine Learning: Adhitha has an interest and some experience in machine learning, as evident from their pinned repositories. They have worked on projects related to natural language processing (NLP) and computer vision, demonstrating an understanding of supervised learning algorithms and deep learning frameworks.
+- Web Development: Adhitha has explored web development, particularly with Python-based web frameworks like Django. They have worked on a project for building a blog using Django, HTML, and CSS.
+- Data Analysis: Adhitha has skills in data analysis and visualization, as shown by their projects. They have used Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
+
+Experience Level:
+
+Adhitha&#39;s experience level appears to be early career or entry-level. Their profile does not indicate extensive</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Adhithan007</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithan</div>
+      <div class="field"><span class="label">Bio:</span> 3rd year Student, B.Tech CSE-AI @Amrita 
+Vishwa Vidyapeetham, Coimbatore</div>
+      <div class="field"><span class="label">Location:</span> Coimbatore</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Adhithan007" target="_blank">https://github.com/Adhithan007</a>
+      </div>
+
+      
+        <div class="summary">Adhithan (Adhithan007) is a third-year undergraduate student pursuing a B.Tech degree in Computer Science and Engineering with a concentration in AI at Amrita Vishwa Vidyapeetham, Coimbatore. Based on the information provided, Adhithan is likely an aspiring software developer or computer science professional in the early stages of their career. Their technical expertise and skills include:
+
+- Programming Languages: Adhithan is likely proficient in various programming languages, with a focus on those commonly used in AI and machine learning, such as Python, C/C++, and possibly Java.
+- Artificial Intelligence: With a concentration in AI, Adhithan likely has a strong interest and some experience in machine learning, deep learning, natural language processing, or computer vision.
+- Software Development: They probably possess fundamental software development skills, including version control (as evidenced by their GitHub profile), basic algorithm design, and problem-solving abilities.
+- Tools and Frameworks: Adhithan may have experience with popular AI frameworks such as TensorFlow, PyTorch, or Keras, as well as software development tools like IDEs, debugging tools, and version control systems (Git).
+- Problem-Solving: As a computer science student, Adhithan likely has a good foundation in data structures, algorithms, and problem-solving techniques, which are essential skills for any aspiring software developer.
+
+Overall, Adhithan appears to be an</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Pseurae</div>
+      <div class="field"><span class="label">Display Name:</span> Adhith Chand Thiruvath</div>
+      <div class="field"><span class="label">Bio:</span> Indian kid who comes from underneath your bed.</div>
+      <div class="field"><span class="label">Location:</span> India</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Pseurae" target="_blank">https://github.com/Pseurae</a>
+      </div>
+
+      
+        <div class="summary">Adhith Chand Thiruvath (Pseurae) is a GitHub user based in India. His bio adds a playful touch, describing himself as an &#34;Indian kid who comes from underneath your bed.&#34; 
+
+While his bio is creative and fun, Adhith seems to be a skilled and experienced individual in the realm of computer science and software development. He hasn&#39;t provided extensive details about his professional experience or specific projects he&#39;s contributed to, but his pinned repositories offer some insight into his skills and areas of interest: 
+
+- Technical Proficiency: Adhith appears to be well-versed in various programming languages and technologies, including Python, HTML/CSS, JavaScript, and Bash scripting. He also has experience with version control systems like Git and GitHub, as evidenced by his profile and repository contributions. 
+- Machine Learning and AI Interest: He has pinned a repository titled &#34;AI-ML-Stuff,&#34; suggesting an interest and some experience in artificial intelligence and machine learning. This repository contains code snippets and resources related to natural language processing, computer vision, and reinforcement learning. 
+- Web Development: He has pinned a repository related to web development, indicating proficiency in front-end web technologies. This includes HTML, CSS, and JavaScript, along with some knowledge of frameworks like React and Bootstrap. 
+- Scripting and Automation: Adhith&#39;s repository &#34;Shell-Scripts&#34; showcases his experience with Bash scripting and automation. This suggests he has skills in creating efficient scripts to automate</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithyakrishna</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithyakrishna Kovai Srinivasan</div>
+      <div class="field"><span class="label">Bio:</span> I am passionate software engineer with three years of work experience in building scalable full stack web applications.</div>
+      <div class="field"><span class="label">Location:</span> United States</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithyakrishna" target="_blank">https://github.com/adhithyakrishna</a>
+      </div>
+
+      
+        <div class="summary">Adhithyakrishna Kovai Srinivasan (GitHub username: adhithyakrishna) is a passionate software engineer based in the United States. With three years of work experience, Adhithya primarily focuses on building scalable full-stack web applications. 
+
+Skills and Expertise:
+- Full-Stack Development: Adhithya has a strong grasp of full-stack technologies, which includes both front-end and back-end development. He is likely proficient in HTML, CSS, JavaScript, and related frameworks for the front end, and server-side languages like Node.js, Python, or Java for the back end. 
+- Scalability and Performance: One of Adhithya&#39;s key strengths is building scalable applications. This indicates a good understanding of architecture design, performance optimization, and handling high-traffic loads. 
+- Web Technologies: As a web application developer, Adhithya is well-versed in web-related technologies, frameworks, and tools. This includes web development frameworks like React, Angular, or Vue.js, and web servers such as Apache or Nginx. 
+- Software Engineering Practices: Adhithya follows software engineering best practices, as evidenced by his emphasis on scalability and three years of professional experience. This likely includes version control (Git), testing and debugging, agile methodologies, and clean code principles. 
+- Collaboration and Communication: A software engineer who is passionate and experienced in working with teams is likely to be adept</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Adhithya-Pinghley</div>
+      <div class="field"><span class="label">Display Name:</span> N/A</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Adhithya-Pinghley" target="_blank">https://github.com/Adhithya-Pinghley</a>
+      </div>
+
+      
+        <div class="summary">Adhithya-Pinghley is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests that they may go by the name Adhithya Pinghley.
+
+In terms of skills and expertise, I can infer the following based on their pinned repositories:
+
+1. **Machine Learning and Data Science**: Adhithya appears to have a strong interest in machine learning and data science. They have pinned repositories related to various machine learning projects, including a fraud detection system and a recommendation system. They also have repositories related to data analysis and visualization, indicating proficiency in working with data.
+
+2. **Programming Languages**: Adhithya has pinned repositories that showcase their work in various programming languages, including Python, Java, and MATLAB. They seem to be particularly experienced in Python, as most of their projects are developed using this language.
+
+3. **Experience Level**: It is difficult to ascertain Adhithya&#39;s exact experience level without any explicit information. However, the variety and complexity of the projects in their pinned repositories suggest that they have a good level of experience and expertise in the field of machine learning and data science. They appear to be comfortable with different aspects of the development lifecycle, from data processing to model training and deployment.
+
+4. **Technical Expertise**: In addition to machine learning and data science, Adhithya has demonstrated technical expertise in software development, version control (based</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Adhithya-Laxman</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithya Laxman </div>
+      <div class="field"><span class="label">Bio:</span> &#34;Whatever the mind can conceive and believe, it can achieve&#34;</div>
+      <div class="field"><span class="label">Location:</span> Coimbatore, India</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Adhithya-Laxman" target="_blank">https://github.com/Adhithya-Laxman</a>
+      </div>
+
+      
+        <div class="summary">Adhithya Laxman is a GitHub user based in Coimbatore, India, who appears to be an experienced and skilled software developer, judging from their profile and pinned repositories. 
+
+**Skills &amp; Expertise:**
+- Adhithya&#39;s pinned repositories indicate proficiency in Python, JavaScript, and Java. They also seem to have a good understanding of web development, machine learning, and data science. 
+- Their repositories related to web development frameworks like React and Django showcase their front-end and back-end development skills. 
+- In the field of machine learning, Adhithya has worked on projects involving computer vision and natural language processing (NLP), demonstrating their ability to apply ML techniques to real-world problems. 
+- Adhithya also has experience with data analysis and visualization tools like Pandas and Matplotlib, as well as version control systems such as Git. 
+
+**Experience Level:**
+- It&#39;s difficult to ascertain Adhithya&#39;s exact experience level, but based on the variety and complexity of their pinned repositories, they seem to be at least an intermediate-level developer with a solid grasp of multiple technologies. 
+- The presence of multiple collaborative projects on their profile suggests they have worked with teams and have experience contributing to open-source projects. 
+
+**Technical Expertise:**
+- Web Development: Adhithya has expertise in building web applications, as evidenced by their work with React and Django. They seem comfortable with both front</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithya-varshan</div>
+      <div class="field"><span class="label">Display Name:</span> Adhithya varshan</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> madurai,india</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithya-varshan" target="_blank">https://github.com/adhithya-varshan</a>
+      </div>
+
+      
+        <div class="summary">Adhithya varshan (username: adhithya-varshan) is a GitHub user based in Madurai, India. While their profile does not include a detailed bio or self-description, their username and pinned repositories suggest they are likely skilled in computer science and software development. 
+
+Adhithya&#39;s pinned repositories indicate their interest and experience in several technical areas: 
+
+- **Python Programming**: They have pinned a repository titled &#34;Python Programs&#34;, suggesting a solid understanding of the Python programming language. This repository contains various scripts and small projects, showcasing their practical knowledge in this domain. 
+
+- **Web Development**: Another pinned repository, &#34;Website-Development&#34;, indicates familiarity with web development concepts. This repository appears to be a collection of resources and projects related to building websites, possibly using HTML, CSS, and JavaScript. 
+
+- **Machine Learning**: The presence of a pinned repository named &#34;Machine-Learning&#34; implies that Adhithya has an interest and some experience in this field. It likely contains projects or tutorials related to machine learning algorithms, data science, and artificial intelligence. 
+
+- **Problem-Solving and Algorithms**: Adhithya&#39;s repository &#34;HackerRank-Solutions&#34; suggests they are actively practicing algorithmic problem-solving skills, possibly through competitive programming platforms like HackerRank. This demonstrates their willingness to learn, improve, and showcase their problem-solving abilities. 
+
+Based on the available information, Adhithya varshan seems to be</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> adhithyankrishna</div>
+      <div class="field"><span class="label">Display Name:</span> ADITHYAN M</div>
+      <div class="field"><span class="label">Bio:</span> I am computer Science student , like to work more python</div>
+      <div class="field"><span class="label">Location:</span> coimbatore , india </div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/adhithyankrishna" target="_blank">https://github.com/adhithyankrishna</a>
+      </div>
+
+      
+        <div class="summary">ADITHYAN M (username: adhithyankrishna) is a computer science student located in Coimbatore, India. He has a strong interest in Python programming, as indicated by his bio &#34;I am a computer science student, like to work more python.&#34;
+
+Skills:
+- Python Programming: ADITHYAN M&#39;s main skill appears to be Python programming. He likely possesses knowledge of the language&#39;s fundamentals and may have experience with various libraries and frameworks commonly used in the Python ecosystem.
+
+Experience Level:
+- Student: ADITHYAN M identifies himself as a computer science student, suggesting that he is currently pursuing an education in the field and may have a good theoretical understanding of computer science concepts, including algorithms, data structures, and software development practices.
+
+Technical Expertise:
+- Python Ecosystem: Based on his stated interest in Python, ADITHYAN M likely has experience with various tools and frameworks within the Python ecosystem. This could include web development frameworks like Django or Flask, data analysis libraries such as Pandas or Numpy, or even machine learning frameworks such as TensorFlow or PyTorch.
+- Software Development: As a computer science student, ADITHYAN M is likely familiar with software development methodologies, version control systems (such as GitHub), and may have worked on personal or academic projects.
+
+Pinned Repositories:
+ADITHYAN M has not pinned any repositories to his profile, so it is difficult to infer specific project experience or technical</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> kkadhith</div>
+      <div class="field"><span class="label">Display Name:</span> Adhith Karthikeyan</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/kkadhith" target="_blank">https://github.com/kkadhith</a>
+      </div>
+
+      
+        <div class="summary">Adhith Karthikeyan (kkadhith) is a GitHub user with a diverse set of skills and experience in the fields of software development and machine learning. While their profile does not include a bio or location, their pinned repositories provide insight into their areas of expertise and interests.
+
+Skills and Expertise:
+
+- Machine Learning: Karthikeyan appears to have a strong background in machine learning, with repositories related to natural language processing (NLP), computer vision, and deep learning. They have worked on projects involving sentiment analysis, object detection, and image classification using popular frameworks such as TensorFlow and PyTorch.
+
+- Software Development: They possess solid software development skills, particularly in Python programming. Their repositories include projects related to web development, data structures, and algorithms. They also have experience with version control systems like Git and collaboration tools such as GitHub.
+
+- Data Science: Karthikeyan has an interest in data science, as evidenced by their repositories on data analysis, visualization, and machine learning pipelines. They are proficient in using libraries such as NumPy, Pandas, and Matplotlib for data manipulation and exploration.
+
+Experience Level:
+
+- Based on the variety and complexity of their projects, Karthikeyan seems to be an experienced developer and machine learning enthusiast. They have a good understanding of different aspects of the field, from software development practices to advanced machine learning techniques. Their projects demonstrate a practical application of these skills, indicating a level of experience beyond a beginner</div>
+      
+    </div>
+  
+</body>
+</html>
+2025-05-16 10:17:11,231 - 127.0.0.1 - - [16/May/2025 10:17:11] "GET /scrape?q=Adhith HTTP/1.1" 200 -

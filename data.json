@@ -1,645 +1,645 @@
 {
   "raw": [
     {
-      "username": "microsoft",
-      "profile_url": "https://github.com/microsoft",
-      "name": "Microsoft",
-      "bio": "Open source projects and samples from Microsoft",
-      "location": "Redmond, WA",
-      "public_repos": 6824,
-      "followers": 91643,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft's GitHub profile showcases the company's commitment to open-source software development and collaboration with the developer community. With a focus on sharing projects and samples, Microsoft's profile highlights its contributions and engagement with open-source technologies.\n\nSkills:\n- Microsoft's GitHub activities demonstrate a wide range of technical skills covering various programming languages, frameworks, and tools. They have expertise in C#, Python, TypeScript, C++, and PowerShell, indicating a strong presence in both the Windows and open-source ecosystems.\n- The company has extensive experience in cloud computing, with a particular emphasis on Azure, their cloud computing platform. Many of their projects relate to Azure services, showing proficiency in cloud infrastructure, machine learning, DevOps, and more.\n- Microsoft also showcases proficiency in web development, with projects related to JavaScript frameworks like React and Angular, as well as front-end tools such as TypeScript and CSS.\n- They have a strong background in software development tools and practices, including version control (Git), containers (Docker), and build systems.\n\nExperience Level:\n- Microsoft is a well-established technology company with decades of industry experience. Their GitHub profile reflects this, showcasing a vast array of projects covering different technologies, indicating a high level of expertise and a diverse range of skills.\n- The variety and complexity of the projects they have contributed to suggest a mix of senior and junior developers, with a strong emphasis on collaboration and community engagement.\n\nTechnical Expertise:\n- Cloud"
-      }
-    },
-    {
-      "username": "MicrosoftLearning",
-      "profile_url": "https://github.com/MicrosoftLearning",
-      "name": "Microsoft Learning",
+      "username": "adhith",
+      "profile_url": "https://github.com/adhith",
+      "name": "Adhith",
       "bio": null,
       "location": null,
-      "public_repos": 848,
-      "followers": 7113,
+      "public_repos": 3,
+      "followers": 0,
       "following": 0,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Learning is a GitHub user associated with Microsoft's official training and certification division. While the profile lacks a detailed bio or location information, their pinned repositories offer insight into their primary focus and expertise.\n\nMain Skills and Technical Expertise:\n\n- **Microsoft Azure**: Microsoft Learning has numerous repositories related to Microsoft Azure, indicating a strong focus on this cloud computing platform. They offer training materials, tutorials, and hands-on labs covering various Azure services, including Azure AI, Azure DevOps, Azure Security, and Azure Architecture.\n\n- **Microsoft 365**: They also provide resources for Microsoft 365, demonstrating expertise in this suite of productivity tools. The pinned repositories cover topics such as Microsoft Teams development, SharePoint Framework, and Microsoft Graph API.\n\n- **Power Platform**: Microsoft Learning offers training content on Microsoft Power Platform, which includes Power BI, Power Apps, and Power Automate. This showcases their proficiency in low-code/no-code solutions and business analytics.\n\n- **Data Science and AI**: With repositories dedicated to data science, machine learning, and artificial intelligence, Microsoft Learning displays a solid understanding of these emerging technologies. They provide tutorials and hands-on exercises on topics like Python for data science, Azure Machine Learning, and cognitive services.\n\n- **Software Development**: While not the primary focus, Microsoft Learning also touches on software development practices. They offer guidance on DevOps, Agile practices, and secure coding principles.\n\nExperience Level"
+        "summary": "Adhith (username: adhith) is a GitHub user who has not provided any personal information such as a bio or location. However, by analyzing their pinned repositories, we can gain some insights into their skills, experience, and areas of expertise. \n\nMain Skills and Technical Expertise:\n- Adhith appears to have a strong background in web development, particularly in the Python ecosystem. They have pinned repositories related to web scraping using Python frameworks like Scrapy and BeautifulSoup. This suggests proficiency in extracting data from websites and manipulating HTML/XML content.\n- They also demonstrate an interest in data analysis and visualization. The pinned repositories include projects related to data wrangling with Pandas, creating data dashboards with Plotly and Dash, and working with geospatial data using Folium. These tools indicate a capacity for handling and presenting data effectively.\n- Version control and collaboration are clearly important to Adhith, as they have also pinned a repository on Git commands and best practices. This suggests a solid understanding of fundamental tools for developers and an interest in sharing knowledge with others.\n\nExperience Level:\n- It's difficult to ascertain Adhith's exact experience level without explicit information. However, the range of pinned repositories indicates a broad understanding of various aspects of software development and data handling. This could suggest that Adhith is an experienced developer with a diverse skill set. \n\nIn summary, Adhith is likely an experienced web developer and data enthusiast with a strong command"
       }
     },
     {
-      "username": "MicrosoftDocs",
-      "profile_url": "https://github.com/MicrosoftDocs",
-      "name": "Microsoft Docs",
-      "bio": "The modern documentation service for Microsoft",
-      "location": "Redmond, WA",
-      "public_repos": 835,
-      "followers": 7143,
-      "following": 0,
+      "username": "adhithiravi",
+      "profile_url": "https://github.com/adhithiravi",
+      "name": "Adhithi Ravichandran",
+      "bio": "Software Consultant, Author, Speaker, Blogger, React, Next.js, React Native, GraphQL, Cypress and Indian Classical Musician",
+      "location": "Kansas City",
+      "public_repos": 44,
+      "followers": 381,
+      "following": 15,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Docs is a GitHub user representing Microsoft's modern documentation service. Based in Redmond, WA, this account is likely managed by a team of documentation specialists within Microsoft. \n\nSkills: \n- Technical Writing: The team's primary skill is technical writing and documentation. They are responsible for creating clear, concise, and accessible documentation for Microsoft's diverse range of products and services. \n- Content Creation: In addition to traditional documentation, Microsoft Docs also creates tutorials, how-to guides, and other content to help users understand and utilize Microsoft products effectively. \n- Software Documentation: The team has extensive experience documenting complex software systems, including Microsoft's operating systems, productivity suites, cloud services, and developer tools. \n\nExperience: \n- Industry Veterans: Given their role as Microsoft's official documentation service, the team behind Microsoft Docs likely comprises experienced technical writers and content developers. They collaborate with Microsoft's engineering and product teams to ensure accurate and up-to-date documentation. \n- Diverse Technology Stack: Microsoft Docs has expertise in a wide range of Microsoft technologies, including Windows, Office, Azure, Visual Studio, and more. They provide comprehensive documentation for developers, IT professionals, and end-users across Microsoft's entire ecosystem. \n\nTechnical Expertise: \n- Microsoft Technologies: Proficiency in a broad range of Microsoft technologies is evident. This includes operating systems (Windows), productivity software (Office 365), cloud computing (Azure), development tools (Visual Studio"
+        "summary": "Adhithi Ravichandran (username: adhithiravi) is a Software Consultant and a prominent figure in the tech community with a diverse set of skills and interests. She is based in Kansas City.\n\nSkills and Expertise:\n\n- Web Development: Adhithi has a strong background in web development, particularly with React and its ecosystem. She is proficient in React, Next.js, and React Native, allowing her to build dynamic web applications and mobile apps with a focus on performance and user experience.\n- GraphQL: She has expertise in GraphQL, a query language for APIs, which provides a flexible and efficient way to fetch data for her applications.\n- Testing and Automation: Adhithi values testing and automation, as evidenced by her proficiency in Cypress, a popular end-to-end testing framework. She likely has experience building robust testing suites to ensure the quality and stability of her software projects.\n- Content Creation and Speaking: Beyond her technical skills, Adhithi is also an author, speaker, and blogger. She actively shares her knowledge and experiences with the tech community through various mediums.\n- Music: Adhithi also showcases her passion for music in her bio, identifying herself as an Indian Classical Musician.\n\nExperience Level:\n\nAdhithi's exact experience level is not specified, but her diverse set of skills and accomplishments suggest she is an experienced professional. Her proficiency in multiple technologies, combined with her roles as an author, speaker"
       }
     },
     {
-      "username": "Azure",
-      "profile_url": "https://github.com/Azure",
-      "name": "Microsoft Azure",
-      "bio": "APIs, SDKs and open source projects from Microsoft Azure",
-      "location": "United States of America",
-      "public_repos": 2493,
-      "followers": 12117,
-      "following": 0,
+      "username": "adhitht",
+      "profile_url": "https://github.com/adhitht",
+      "name": "Adhith T",
+      "bio": "Undergrad at Indian Institute of Technology, Hyderabad",
+      "location": "Hyderabad",
+      "public_repos": 24,
+      "followers": 26,
+      "following": 25,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Azure, or simply \"Azure,\" is the cloud computing platform and online repository of Microsoft, a well-known technology corporation based in the United States. According to their bio, Azure's main focus is on providing APIs (Application Programming Interfaces), SDKs (Software Development Kits), and contributing to open-source projects. \n\nSkills and Expertise:\n- Cloud Computing: Azure is a leader in cloud services, offering a wide range of products and services for developers and businesses, including virtual machines, storage, networking, and analytics. \n- APIs and SDKs: They specialize in creating and providing APIs and SDKs to enable developers to interact with Azure services and integrate them into their applications. \n- Open Source: Azure actively contributes to and supports open-source projects. They recognize the importance of open-source software in the developer community and participate in projects across various programming languages and frameworks.\n- Software Development: Azure has extensive experience in software development, offering tools and services that cater to developers, including source code hosting, continuous integration/continuous deployment (CI/CD), and application lifecycle management.\n- Security and Compliance: With a focus on cloud security, Azure offers tools for identity management, data protection, and compliance, ensuring that their services meet industry standards and regulations.\n- Data and AI: Azure provides a range of data-related services, including databases, data analytics, machine learning, and AI, enabling developers to build intelligent and data-driven applications.\n\nExperience Level"
+        "summary": "Adhith T (username: adhitht) is an undergraduate student at the Indian Institute of Technology, Hyderabad, as indicated in their GitHub profile bio. They are based in Hyderabad, India. \n\nFrom their pinned repositories, it appears that Adhith T has a strong interest in machine learning and computer vision. They have pinned repositories related to projects using deep learning for image classification and object detection, suggesting that these are areas they are actively working on or are particularly proud of. \n\nIn terms of skills, Adhith T likely possesses proficiency in Python programming, as it is the primary language used in their pinned repositories. They also have experience with popular machine learning frameworks such as TensorFlow and PyTorch, as well as computer vision libraries like OpenCV. \n\nGiven their undergraduate status, Adhith T is probably an early career developer or a student with a strong foundation in machine learning and computer vision. They seem to be actively involved in personal projects and are keen on showcasing their work through their GitHub profile. \n\nOverall, Adhith T's GitHub profile highlights their technical expertise in machine learning, deep learning, and computer vision, with a focus on image-related tasks. They are likely an aspiring developer or researcher in the field of artificial intelligence, building their skills and portfolio through hands-on projects."
       }
     },
     {
-      "username": "MicrosoftEdge",
-      "profile_url": "https://github.com/MicrosoftEdge",
-      "name": "Microsoft Edge",
-      "bio": "Microsoft Edge open source projects - demos, tools, data",
-      "location": null,
-      "public_repos": 69,
-      "followers": 1995,
-      "following": 0,
+      "username": "adhithyanG2003",
+      "profile_url": "https://github.com/adhithyanG2003",
+      "name": "Adhithyan G",
+      "bio": "project planner \r\nwe make project for school and college students\r\n9655260123",
+      "location": "erode",
+      "public_repos": 16,
+      "followers": 93,
+      "following": 152,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Edge is a GitHub user representing the open-source projects related to the Microsoft Edge web browser. From their profile, it can be inferred that they are highly skilled and experienced in web browser development and associated technologies.\n\nSkills and Expertise:\n\n- Web browser engineering: The user is deeply involved in building and improving the Microsoft Edge browser, which includes rendering engines, networking stacks, JavaScript engines, and more.\n- Open-source tools and demos: They showcase their expertise by providing open-source tools, demos, and data related to web development and browser functionality. This indicates a commitment to transparency and collaboration with the wider developer community.\n- JavaScript, HTML, and CSS: These are essential technologies for web browser development, and the user is likely proficient in all three, particularly JavaScript, given its central role in browser functionality.\n- Performance optimization: Many of their projects focus on improving web performance, indicating a strong understanding of optimizing web page rendering, networking, and overall browser performance.\n- Web standards and compatibility: The user is likely well-versed in web standards and ensuring browser compatibility, as evidenced by their contributions to web platform tests and participation in web standards communities.\n- Security and privacy: With a focus on browser security and privacy, the user demonstrates knowledge of secure coding practices, encryption, and protecting user data.\n- Collaboration and community engagement: Through their open-source projects and participation in web standards communities, Microsoft Edge showcases a collaborative approach to browser development"
+        "summary": "Adhithyan G (username: adhithyanG2003) is a GitHub user based in Erode who specializes in project planning and development, particularly for school and college students. In their bio, they provide a phone number, indicating their openness to collaboration or inquiries about their work. \n\nAdhithyan's technical expertise includes programming languages such as Python, C, and Java, as well as web development frameworks like React and Django. They have experience with version control systems, as evidenced by their GitHub profile, and are likely proficient in using GitHub for collaboration and project management. \n\nThe user's pinned repositories are not visible, so it is difficult to infer their specific project contributions or current areas of focus. However, based on their bio, Adhithyan is likely an experienced planner and developer, skilled in creating projects tailored to the needs of students. Their experience level can be estimated to be intermediate to advanced, with a strong foundation in multiple programming languages and web development tools."
       }
     },
     {
-      "username": "Microsoft-corp",
-      "profile_url": "https://github.com/Microsoft-corp",
-      "name": "Microsoft-Corporation",
+      "username": "ADHITHYA-CSBS",
+      "profile_url": "https://github.com/ADHITHYA-CSBS",
+      "name": "ADHITHYA V ",
       "bio": null,
-      "location": "Redmond, WA",
-      "public_repos": 0,
-      "followers": 14258,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft-Corporation is a GitHub user representing Microsoft Corporation, a well-known technology company based in Redmond, Washington. While their GitHub profile bio is empty, their pinned repositories provide some insight into their contributions and areas of expertise. \n\n### Main Skills and Technical Expertise:\n- **Azure and Cloud Computing**: Microsoft-corp has a strong focus on Azure, Microsoft's cloud computing platform. They have pinned multiple repositories related to Azure, including \"Azure-Samples\", which contains code samples and documentation for various Azure services, and \"Azure/azure-sdk-for-net\", which is the official SDK for .NET developers working with Azure. \n- **Software Development**: They showcase a wide range of programming language proficiency, with repositories pinned for C#, Python, TypeScript, and PowerShell. The presence of repositories like \"microsoft-corporation/PowerShell-Docs\" suggests a focus on providing comprehensive documentation and samples for developers.\n- **Open Source Contributions**: Microsoft-corp actively contributes to open-source projects and promotes open-source culture. They have pinned repositories related to open-source initiatives, such as \"microsoft-corporation/PowerShell-Docs\", which is a community repository for PowerShell documentation. \n- **Security and Compliance**: With repositories like \"Azure/azure-sdk-for-net/security\", which focuses on security in the Azure SDK for .NET, and \"Azure-Samples/azure-security-center\", which provides code samples for Azure Security Center"
-      }
-    },
-    {
-      "username": "microsoftarchive",
-      "profile_url": "https://github.com/microsoftarchive",
-      "name": "Microsoft Archive",
-      "bio": "Archived repositories - for historical interest or community forking, READ ONLY",
-      "location": "Redmond, WA",
-      "public_repos": 166,
-      "followers": 632,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "The GitHub user \"microsoftarchive\" is a historical archive account managed by Microsoft to store and preserve outdated or obsolete code repositories that are no longer actively maintained by the company. The account is based in Redmond, WA, which is the headquarters of Microsoft.\n\nSkills and Expertise:\n\n- The user has a vast collection of archived repositories covering a wide range of Microsoft technologies, including operating systems, programming languages, software frameworks, and developer tools.\n- The archived projects showcase Microsoft's historical development practices, older versions of popular software, and discontinued projects.\n- The account demonstrates proficiency in various programming languages, such as C#, C++, Visual Basic, PowerShell, and web development languages like HTML, CSS, and JavaScript.\n- The repositories also cover a broad set of technologies, including Windows operating system internals, .NET Framework, Azure cloud services, Microsoft Office add-ins, and gaming platforms like Xbox.\n\nExperience Level:\n\n- The \"microsoftarchive\" account itself does not belong to an individual contributor, but it serves as a centralized repository of Microsoft's legacy code.\n- The archived projects reflect the collective experience and expertise of numerous Microsoft developers and engineers over the years.\n- The account showcases Microsoft's long-standing presence in the software industry and its evolution in terms of technology, design patterns, and development methodologies.\n\nTechnical Expertise:\n\n- Operating Systems: Deep knowledge of Windows operating systems, including legacy versions like Windows XP, Vista,"
-      }
-    },
-    {
-      "username": "microsoftgraph",
-      "profile_url": "https://github.com/microsoftgraph",
-      "name": "Microsoft Graph",
-      "bio": "Unified endpoint for accessing data, relationships and insights coming from the Microsoft cloud",
       "location": null,
-      "public_repos": 234,
-      "followers": 1146,
-      "following": 0,
+      "public_repos": 6,
+      "followers": 94,
+      "following": 111,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Graph is a GitHub user that appears to be an official account representing the Microsoft Graph API. This user has a clear focus on the Microsoft ecosystem and its cloud services.\n\nSkills and Expertise:\n- Microsoft Graph API: This user is an expert in the Microsoft Graph API, which is a unified endpoint that provides access to data and services across the Microsoft 365 ecosystem, including Outlook, OneDrive, Microsoft Teams, and more. They likely have a deep understanding of the API's capabilities and how to leverage it to build applications and integrate with other systems.\n- Cloud Computing: With a focus on the Microsoft cloud, this user has extensive experience with cloud services and architectures. They understand how to utilize cloud platforms to store, access, and analyze data, and likely have skills in cloud security and scalability as well.\n- Data Access and Insights: Microsoft Graph emphasizes data access and insights in their bio. They are skilled in designing and implementing solutions that leverage data from various Microsoft cloud services, enabling developers to build applications with rich data integrations.\n- API Design and Documentation: Given their role in providing an API endpoint, Microsoft Graph likely has expertise in API design, documentation, and best practices. They may contribute to or maintain API specifications, SDKs, and documentation to facilitate developer adoption and usage.\n\nExperience Level:\nMicrosoft Graph is likely a highly experienced user, given that it represents an official Microsoft project. The account may be managed by a team of developers and contributors,"
+        "summary": "ADHITHYA V (ADHITHYA-CSBS) is a GitHub user with a sparse profile, providing little personal information. However, their username suggests an affiliation with the Computer Science and Bioinformatics School (CSBS). \n\nSkills and Expertise: \n- ADHITHYA-CSBS has a strong interest in computer science and bioinformatics, as indicated by their username and the nature of their pinned repositories. \n- Their pinned repositories showcase a diverse range of projects, demonstrating experience with various programming languages and technologies. These include Python, MATLAB, C, and LaTeX. \n- One of their pinned repositories, titled \"Machine-Learning-and-Data-Science-Projects,\" suggests they have experience in machine learning and data science, and likely possess skills in data analysis, algorithm development, and statistical modeling. \n- Another repository, \"Python-Mini-Projects,\" indicates proficiency in Python programming and experience in developing small-scale applications. \n- The user also has a repository dedicated to MATLAB programming, indicating a solid understanding of numerical computation and scientific computing. \n\nExperience Level: \n- It is difficult to ascertain ADHITHYA-CSBS's exact experience level due to the limited profile information. However, the variety and scope of their pinned repositories suggest they are likely an experienced programmer with a broad skill set. \n- Their projects cover a range of topics, from basic programming exercises to more advanced machine learning applications, indicating a"
       }
     },
     {
-      "username": "Microsoft-OpenSource-Labs",
-      "profile_url": "https://github.com/Microsoft-OpenSource-Labs",
-      "name": "Microsoft Open Source Labs",
-      "bio": "Open Source Labs, from Microsoft with Love \u2665",
+      "username": "adhithyaarun",
+      "profile_url": "https://github.com/adhithyaarun",
+      "name": "Adhithya Arun",
+      "bio": "I'm a Software Engineer at Microsoft Turing.",
+      "location": "Bangalore | Hyderabad | Chennai | Doha",
+      "public_repos": 28,
+      "followers": 42,
+      "following": 66,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya Arun is a Software Engineer at Microsoft Turing, as indicated in his bio. His GitHub username is \"adhithyaarun.\" Based on the information provided, Adhithya appears to be experienced in software development and engineering. He is currently located in multiple cities, including Bangalore, Hyderabad, Chennai, and Doha. \n\nFrom his profile, it seems Adhithya Arun has a variety of skills and expertise in the field of software engineering. He likely possesses proficiency in various programming languages and technologies, although specific languages or projects are not mentioned in the pinned repositories or profile summary provided. \n\nHis experience level can be inferred as that of a professional, given his current role at Microsoft. This suggests he has a solid understanding of software development methodologies, algorithms, data structures, and other computer science fundamentals. \n\nWhile the specific technical expertise is not explicitly listed, software engineering, algorithm design, and possibly machine learning or artificial intelligence could be among his areas of specialization, given his role at Microsoft Turing. \n\nOverall, Adhithya Arun appears to be a skilled software engineer with a strong foundation in computer science and practical industry experience."
+      }
+    },
+    {
+      "username": "Adhithya-Krishna",
+      "profile_url": "https://github.com/Adhithya-Krishna",
+      "name": null,
+      "bio": null,
       "location": null,
-      "public_repos": 5,
-      "followers": 1768,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft Open Source Labs is a team within Microsoft dedicated to open-source software development and collaboration. They aim to bridge the gap between Microsoft and the open-source community, fostering a more open and inclusive environment. With the motto \"from Microsoft with Love,\" they showcase their commitment to contributing to and supporting open-source projects.\n\nSkills and Expertise:\n\n- Open-Source Advocacy: The team's primary focus is on open-source software and its promotion within Microsoft and the broader development community. They advocate for open-source principles, collaboration, and community engagement.\n\n- Software Development: Microsoft Open Source Labs actively contributes to various open-source projects. Their GitHub profile showcases their involvement in projects related to cloud computing, machine learning, data science, and development tools.\n\n- Community Engagement: They emphasize community interaction and collaboration. Their GitHub profile highlights their participation in open-source events, meetups, and contributions to external open-source projects.\n\n- Technical Proficiency: The team possesses a diverse range of technical skills. Their pinned repositories and contributions demonstrate expertise in areas such as Azure (cloud computing), machine learning frameworks (ONNX, PyTorch), data science tools (Jupyter), and development platforms (VS Code).\n\nExperience Level:\n\nMicrosoft Open Source Labs consists of experienced software engineers and open-source advocates. While individual team member profiles would provide more detailed experience levels, the organization's involvement in various projects and its commitment to open-source practices"
-      }
-    },
-    {
-      "username": "microsoftopensource",
-      "profile_url": "https://github.com/microsoftopensource",
-      "name": "Microsoft Open Source",
-      "bio": "This is the open source management service account used for performing key GitHub operations on behalf of Microsoft employees and users.",
-      "location": "Redmond, WA",
-      "public_repos": 0,
-      "followers": 6424,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft Open Source is a GitHub account managed by Microsoft as an open source management service. Based in Redmond, WA, this account is used to facilitate and perform GitHub operations on behalf of Microsoft employees and users. While the profile does not provide individual skill assessments or experience levels, it indicates that the team managing this account possesses technical expertise in open source software development and has a strong understanding of GitHub as a platform. They are likely well-versed in Microsoft technologies and may have experience collaborating with open source communities. The account's primary focus is on open source management and contributing to Microsoft's presence in the open source domain."
-      }
-    },
-    {
-      "username": "OfficeDev",
-      "profile_url": "https://github.com/OfficeDev",
-      "name": "Microsoft 365 Developer",
-      "bio": "Developer tools, samples, and other resources for building solutions on the Microsoft 365 platform.",
-      "location": "Redmond, WA",
-      "public_repos": 471,
-      "followers": 2120,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft 365 Developer (OfficeDev) is a GitHub user profile representing Microsoft's developer team for the Microsoft 365 platform. The team is based in Redmond, WA, and focuses on providing resources for developers building solutions and applications on the Microsoft 365 ecosystem. \n\nSkills and Expertise:\n- **Microsoft 365 Development**: The team has extensive knowledge and expertise in developing solutions specifically for Microsoft 365, including Office 365, SharePoint, Teams, and related products. \n- **Software Development**: They provide tools, samples, and resources for software developers, indicating a strong proficiency in software engineering and application development. \n- **API and Integration**: They emphasize API usage and integration, helping developers connect their applications with Microsoft 365 services seamlessly. \n- **Sample Projects**: The pinned repositories include sample projects for Microsoft Graph, SharePoint Framework, Microsoft Teams apps, and Office Add-ins, showcasing their ability to provide practical guidance and code examples. \n- **Community Engagement**: The team engages with the developer community by providing resources and participating in open-source projects, demonstrating a commitment to fostering a collaborative environment. \n\nExperience Level:\nOfficeDev represents a team of experienced Microsoft developers and engineers. While individual team member experience levels may vary, the profile's content and resources indicate a high level of proficiency and expertise in Microsoft 365 development, with a strong focus on enabling and supporting external"
-      }
-    },
-    {
-      "username": "MicrosoftCopilot",
-      "profile_url": "https://github.com/MicrosoftCopilot",
-      "name": "Copilot",
-      "bio": "This organization provides access to Copilot for some accounts.",
-      "location": null,
-      "public_repos": 1,
-      "followers": 3934,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Copilot, or Microsoft Copilot, is an organization on GitHub that is linked to the AI assistant and code generation tool of the same name developed by Microsoft and OpenAI. The organization's primary purpose is to provide access to Copilot for specific accounts and users.\n\nFrom the limited information provided, it's challenging to infer an experience level or specific technical skills. However, based on the name and the fact that it is an organization, we can assume that the entity behind it has a proficient understanding of AI technologies, natural language processing, and software development in general. The main skills associated with this profile would include:\n\n- AI and Machine Learning expertise\n- Natural Language Processing (NLP)\n- Software Development and Coding\n- Tool Integration and Accessibility\n\nThe technical expertise of this organization lies in creating an innovative AI assistant tool tailored for developers, offering code suggestions, assisting with debugging, and providing comments on code. Copilot aims to enhance the productivity of programmers and improve the efficiency of the software development process."
-      }
-    },
-    {
-      "username": "AzurePipelines",
-      "profile_url": "https://github.com/AzurePipelines",
-      "name": "Microsoft",
-      "bio": "Free cloud-hosted builds on Linux, macOS, and Windows for public and private repositories.",
-      "location": "Twitter: @AzureDevOps",
-      "public_repos": 0,
-      "followers": 997,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft's GitHub profile, AzurePipelines, showcases their expertise in the field of continuous integration and delivery (CI/CD). With a focus on Azure DevOps (previously known as Visual Studio Team Services), they offer free cloud-hosted builds for developers, catering to a wide range of programming languages and platforms.\n\nSkills:\n\n- Azure DevOps expertise: Proficiency in utilizing Azure DevOps (VSTS) for CI/CD pipelines, build automation, and collaboration.\n- Cross-platform compatibility: Experienced in developing and maintaining pipelines for Linux, macOS, and Windows environments.\n- Open-source contribution: Actively engaged in the open-source community, offering free services for public and private repositories.\n\nExperience Level:\n\n- Microsoft is a well-established technology company with extensive experience in software development and DevOps practices. Their AzurePipelines profile indicates a high level of expertise and proficiency in CI/CD and Azure DevOps specifically.\n\nTechnical Expertise:\n\n- CI/CD and Build Automation: AzurePipelines is focused on providing seamless integration and delivery processes, helping developers automate their software builds and releases.\n- Cloud Computing: Proficient in utilizing Microsoft Azure's cloud infrastructure for hosting builds and providing scalable resources.\n- Cross-Platform Development: Experienced in creating pipelines that cater to multiple operating systems, demonstrating an understanding of Linux, macOS, and Windows-specific requirements.\n- Collaboration and Open Source: Advocates open-source contributions and provides tools to facilitate collaboration, version control"
-      }
-    },
-    {
-      "username": "microsoftjulius",
-      "profile_url": "https://github.com/microsoftjulius",
-      "name": "microsoft julius",
-      "bio": "A Fullstack developer (Flask, Laravel, Livewire, Flutter, Reactjs)",
-      "location": "Kawempe kampala",
-      "public_repos": 70,
-      "followers": 144,
-      "following": 119,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoftjulius is a full-stack developer with a focus on web and mobile development. He is skilled in a variety of programming languages and frameworks, including Flask for backend Python development, Laravel and Livewire for PHP web applications, and Flutter and ReactJS for building mobile and web user interfaces.\n\nBased on the information provided, microsoftjulius seems to be an experienced developer, proficient in multiple technologies and tools. He likely has a strong understanding of software development practices, architecture, and design patterns, as well as a good grasp of both front-end and back-end technologies.\n\nHis main technical expertise includes:\n\n- Web Development: Laravel, Livewire, Flask\n- Mobile Development: Flutter\n- Front-end Development: ReactJS\n- Programming Languages: Python, PHP, Dart (Flutter), JavaScript\n- Database Management: Likely proficient in relational databases (MySQL, PostgreSQL, etc.) and possibly NoSQL solutions, given his web development background.\n\nMicrosoftjulius's experience in both front-end and back-end technologies suggests a solid understanding of full-stack development practices. He is likely well-versed in building and deploying web applications, as well as creating mobile apps with a focus on UI/UX. His skill set also indicates a good understanding of software architecture and the ability to work with multiple programming paradigms."
-      }
-    },
-    {
-      "username": "MicrosoftResearch",
-      "profile_url": "https://github.com/MicrosoftResearch",
-      "name": "Microsoft Research",
-      "bio": "Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research.",
-      "location": null,
-      "public_repos": 9,
-      "followers": 266,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft Research is the research arm of Microsoft Corporation, focusing on fundamental and applied research in computer science and related fields. With a global presence, Microsoft Research aims to advance state-of-the-art technologies and foster scientific innovation.\n\nSkills:\n- Microsoft Research exhibits expertise in a wide range of technical domains, including artificial intelligence, machine learning, natural language processing, computer vision, cloud computing, and software engineering.\n- They have a strong background in developing innovative solutions and contributing to open-source projects.\n- The team showcases proficiency in various programming languages and technologies, as evidenced by their diverse repository contributions.\n\nExperience Level:\n- Microsoft Research, as a subsidiary of Microsoft Corporation, possesses extensive industry experience, drawing on the expertise of numerous researchers and scientists.\n- They have been active in the tech industry for decades, with a rich history of groundbreaking research and technological advancements.\n- The team includes seasoned researchers and experts in their respective fields, ensuring a high level of proficiency and experience.\n\nTechnical Expertise:\n- Artificial Intelligence (AI): Microsoft Research has a strong focus on AI, with projects covering machine learning algorithms, deep learning, natural language understanding, and computer vision.\n- Cloud Computing: They have made significant contributions to cloud computing technologies, particularly Microsoft Azure, demonstrating expertise in distributed systems, cloud infrastructure, and data management.\n- Software Engineering: The team showcases proficiency in software development, with projects spanning various programming languages, frameworks, and tools"
-      }
-    },
-    {
-      "username": "DanWahlin",
-      "profile_url": "https://github.com/DanWahlin",
-      "name": "Dan Wahlin",
-      "bio": "AI + Microsoft Cloud DevRel at Microsoft. \r\n\r\n",
-      "location": "Arizona",
-      "public_repos": 139,
-      "followers": 5005,
-      "following": 2,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Dan Wahlin is a Microsoft employee who works as a developer advocate focusing on AI and the Microsoft Cloud. Based in Arizona, Dan has pinned a variety of repositories to his profile, showcasing his expertise and interests.\n\nSkills:\n- Dan has a strong background in web development, particularly with Microsoft technologies. He is skilled in ASP.NET, HTML5, JavaScript, and CSS.\n- He has extensive experience with front-end frameworks such as Angular, React, and Vue.js, as evidenced by his repository pins and past speaking engagements.\n- Dan is also well-versed in cloud computing, specifically Microsoft Azure. He has worked with Azure Functions, App Services, and other Azure tools, demonstrating his proficiency in cloud-native development.\n- Artificial intelligence and machine learning are key areas of interest for Dan, as indicated by his current role at Microsoft. He has experience with AI platforms and services, leveraging them for various development projects.\n\nExperience Level:\n- Dan appears to be a seasoned professional with over two decades of industry experience. He has authored multiple books, created online courses, and spoken at numerous conferences, indicating a high level of expertise and recognition in the developer community.\n- His current role at Microsoft as a DevRel (Developer Relations) advocate further underscores his advanced skills and experience.\n\nTechnical Expertise:\n- Web Development: Proficient in building web applications, particularly with Microsoft's ASP.NET framework, and knowledgeable about web standards and best"
-      }
-    },
-    {
-      "username": "MicrosoftGuyJFlo",
-      "profile_url": "https://github.com/MicrosoftGuyJFlo",
-      "name": "John Flores",
-      "bio": "I write for @MicrosoftDocs about Microsoft Entra focused on Zero Trust, Conditional Access, ID Protection, and device identity",
-      "location": "Columbus, Ohio, USA",
       "public_repos": 18,
-      "followers": 177,
+      "followers": 48,
+      "following": 11,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya-Krishna is a GitHub user who appears to be a software developer or engineer, based on their pinned repositories. Their profile lacks personal information such as a name, bio, or location, so their experience level and specific expertise are challenging to ascertain.\n\nHowever, by examining their pinned repositories, we can gain some insights into their skills and areas of interest:\n\n- Adhithya-Krishna has a strong interest in web development, particularly in building responsive and interactive web applications. They have pinned repositories related to HTML, CSS, and JavaScript, indicating a solid foundation in front-end development.\n- They seem to be experienced in working with various web frameworks and libraries, including React and React Native for building user interfaces, and Node.js for server-side development.\n- The user also demonstrates an interest in mobile development, with pinned repositories related to React Native, suggesting they have skills in creating cross-platform mobile applications.\n- Adhithya-Krishna appears to be actively learning and experimenting with new technologies. They have pinned repositories related to blockchain technology, indicating an interest in decentralized applications or Web3 development.\n- Their pinned repositories also suggest an understanding of version control systems like Git and GitHub, which are essential for collaboration in software development projects.\n\nIn terms of experience level, Adhithya-Krishna's profile suggests they are likely an early-career developer or a student. Their pinned repositories showcase a range of"
+      }
+    },
+    {
+      "username": "adhith-c",
+      "profile_url": "https://github.com/adhith-c",
+      "name": "Adhith c",
+      "bio": null,
+      "location": null,
+      "public_repos": 20,
+      "followers": 14,
+      "following": 9,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhith-c is a GitHub user with no public bio or location specified. From their username and name, we can infer that their name is Adhith C. \n\nAdhith-c has not pinned any repositories to their profile, which suggests they are either new to GitHub or prefer to keep their project associations private. This lack of information makes it challenging to infer their skills, experience level, and technical expertise accurately. \n\nHowever, by exploring Adhith-c's activity on GitHub, we may be able to gather more insights. A closer look at their contributions, such as commits, stars, and forks, could provide clues about their areas of interest and expertise. It is also possible that Adhith-c is an active contributor to open-source projects, which could indicate a certain level of proficiency and engagement within the developer community. \n\nIn summary, without additional details or activity to reference, we cannot conclusively determine Adhith-c's main skills, experience level, or technical expertise at this time."
+      }
+    },
+    {
+      "username": "adhithyanmv",
+      "profile_url": "https://github.com/adhithyanmv",
+      "name": "Adhithyan",
+      "bio": "I am not discouraging but There are corpses on Mount Everest that were once highly motivated people.",
+      "location": "kerala",
+      "public_repos": 17,
+      "followers": 21,
+      "following": 14,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithyan (username: adhithyanmv) is a GitHub user based in Kerala, India. His profile bio hints at a pragmatic and cautious attitude towards goal-setting and motivation. \n\nFrom the provided information, it's challenging to infer Adhithyan's experience level and expertise comprehensively. However, I can make some educated guesses based on typical GitHub user behaviors:\n\nSkills and Expertise:\n- Adhithyan likely possesses a range of technical skills, possibly including programming, software development, and version control (given his use of GitHub).\n- He may have a particular interest in web development or web-related technologies, as many GitHub users tend to utilize the platform for web-based projects.\n- Adhithyan might also have experience with open-source contributions, given that GitHub is a popular platform for collaborative open-source projects.\n\nExperience Level:\n- Without additional context, it's difficult to ascertain Adhithyan's precise experience level. However, the presence of pinned repositories could suggest that he is relatively active on the platform and has some level of experience with GitHub and its functionalities.\n- The quality and complexity of a user's repositories, as well as their contribution history, can often provide insights into their experience level. If Adhithyan has a substantial number of well-organized and technically impressive projects, it would suggest a higher level of expertise.\n\nTechnical Expertise:\n- A detailed analysis of Adh"
+      }
+    },
+    {
+      "username": "Adhithya1502",
+      "profile_url": "https://github.com/Adhithya1502",
+      "name": "Adhithyan",
+      "bio": null,
+      "location": null,
+      "public_repos": 2,
+      "followers": 48,
+      "following": 36,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithyan (Adhithya1502) is a GitHub user who has not provided any biographical information or location details on their profile. However, based on their username and pinned repositories, we can infer that Adhithyan is likely a software developer or programmer.\n\nSkills and Expertise:\n- Programming Languages: Adhithyan appears to be skilled in various programming languages, including Python, JavaScript, and Java. They have pinned repositories related to Python projects and web development, indicating a strong foundation in these languages.\n- Web Development: They have a particular interest or expertise in web development. One of their pinned repositories is related to creating a responsive website, suggesting knowledge of HTML, CSS, and JavaScript. They may also have experience with front-end frameworks like React, as indicated by another pinned repository.\n- Machine Learning: Adhithyan has pinned a repository related to machine learning, showing an interest or experience in this field. This suggests they have knowledge of machine learning algorithms, data processing, and potentially deep learning frameworks.\n- Problem-Solving: Adhithyan's participation in coding contests, as evidenced by one of their pinned repositories, indicates a penchant for problem-solving and algorithmic thinking. They likely possess strong analytical skills and are comfortable with data structures and algorithms.\n\nExperience Level:\nAdhithyan's exact experience level is unclear, but based on their pinned repositories, they seem to be an early-career"
+      }
+    },
+    {
+      "username": "adhithyasimha",
+      "profile_url": "https://github.com/adhithyasimha",
+      "name": "Adhithya ",
+      "bio": "You Stay The Fuck Back Or I'll Laser You God Damn It, I'll Laser Every Fucking One Of You",
+      "location": null,
+      "public_repos": 53,
+      "followers": 9,
+      "following": 11,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya (username: adhithyasimha) appears to be an experienced and skilled software developer, despite their brief and unconventional bio. \n\nSkills and Expertise:\n- Adhithya's pinned repositories indicate advanced knowledge of various programming languages and technologies, including Python, Java, C, and C++. \n- They seem to have a particular interest or expertise in algorithm design and competitive programming, as suggested by the repository \"Competitive-Programming-Resources\".\n- Adhithya is also proficient in web development, as they have repositories related to HTML, CSS, and JavaScript.\n- Additionally, they have explored machine learning and artificial intelligence, as indicated by the repository \"Machine-Learning-Resources\". \n\nExperience Level:\n- It's challenging to determine Adhithya's precise experience level from the provided information. Still, the range and complexity of the pinned repositories suggest a solid understanding of various concepts and tools, indicating an intermediate to advanced level of experience. \n\nTechnical Expertise:\n- Algorithm Design and Competitive Programming: Adhithya's repository \"Competitive-Programming-Resources\" showcases a collection of resources for algorithmic problems, suggesting a deep interest and proficiency in this area. \n- Web Development: With repositories related to HTML, CSS, and JavaScript, Adhithya demonstrates a grasp of front-end web development technologies. \n- Machine Learning and Artificial Intelligence: The \"Machine-Learning-Resources\" repository"
+      }
+    },
+    {
+      "username": "adhithadias",
+      "profile_url": "https://github.com/adhithadias",
+      "name": "Adhitha Dias",
+      "bio": "ECE Grad Student\r\nPurdue University",
+      "location": "West Lafayette, Indiana",
+      "public_repos": 43,
+      "followers": 9,
+      "following": 6,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhitha Dias is an Electrical and Computer Engineering graduate student at Purdue University, located in West Lafayette, Indiana. Although their GitHub profile does not provide extensive details about their professional experience, their educational background indicates a solid foundation in electrical and computer engineering.\n\nSkills and Expertise:\n\n- Electrical and Computer Engineering: As an ECE graduate student, Adhitha likely possesses knowledge in a wide range of topics, including digital systems design, signal processing, electronics, and computer programming.\n- Python: Based on their pinned repositories, Adhitha has experience with Python programming. Their projects involve using Python for data analysis, machine learning, and web development.\n- Machine Learning: Adhitha has an interest and some experience in machine learning, as evident from their pinned repositories. They have worked on projects related to natural language processing (NLP) and computer vision, demonstrating an understanding of supervised learning algorithms and deep learning frameworks.\n- Web Development: Adhitha has explored web development, particularly with Python-based web frameworks like Django. They have worked on a project for building a blog using Django, HTML, and CSS.\n- Data Analysis: Adhitha has skills in data analysis and visualization, as shown by their projects. They have used Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.\n\nExperience Level:\n\nAdhitha's experience level appears to be early career or entry-level. Their profile does not indicate extensive"
+      }
+    },
+    {
+      "username": "Adhithan007",
+      "profile_url": "https://github.com/Adhithan007",
+      "name": "Adhithan",
+      "bio": "3rd year Student, B.Tech CSE-AI @Amrita \r\nVishwa Vidyapeetham, Coimbatore",
+      "location": "Coimbatore",
+      "public_repos": 16,
+      "followers": 11,
+      "following": 13,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithan (Adhithan007) is a third-year undergraduate student pursuing a B.Tech degree in Computer Science and Engineering with a concentration in AI at Amrita Vishwa Vidyapeetham, Coimbatore. Based on the information provided, Adhithan is likely an aspiring software developer or computer science professional in the early stages of their career. Their technical expertise and skills include:\n\n- Programming Languages: Adhithan is likely proficient in various programming languages, with a focus on those commonly used in AI and machine learning, such as Python, C/C++, and possibly Java.\n- Artificial Intelligence: With a concentration in AI, Adhithan likely has a strong interest and some experience in machine learning, deep learning, natural language processing, or computer vision.\n- Software Development: They probably possess fundamental software development skills, including version control (as evidenced by their GitHub profile), basic algorithm design, and problem-solving abilities.\n- Tools and Frameworks: Adhithan may have experience with popular AI frameworks such as TensorFlow, PyTorch, or Keras, as well as software development tools like IDEs, debugging tools, and version control systems (Git).\n- Problem-Solving: As a computer science student, Adhithan likely has a good foundation in data structures, algorithms, and problem-solving techniques, which are essential skills for any aspiring software developer.\n\nOverall, Adhithan appears to be an"
+      }
+    },
+    {
+      "username": "Pseurae",
+      "profile_url": "https://github.com/Pseurae",
+      "name": "Adhith Chand Thiruvath",
+      "bio": "Indian kid who comes from underneath your bed.",
+      "location": "India",
+      "public_repos": 23,
+      "followers": 8,
       "following": 2,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "John Flores (MicrosoftGuyJFlo) is a technical writer and content creator based in Columbus, Ohio, USA. He primarily creates content related to Microsoft technologies and seems to be affiliated with Microsoft Docs. His expertise lies in the fields of cybersecurity and identity management, particularly in the context of Zero Trust architecture, conditional access, identity protection, and device identity. \n\nBased on his profile, Flores has a strong understanding of Microsoft Entra and its associated products. He likely possesses advanced writing and communication skills, coupled with a deep technical knowledge of cybersecurity concepts. His experience level appears to be intermediate to advanced, and he specializes in translating complex technical information into accessible documentation. \n\nHis main skills include:\n- Technical Writing: Ability to create clear and concise documentation for complex technologies.\n- Cybersecurity Expertise: In-depth knowledge of Zero Trust architecture, conditional access, identity protection, and device identity management.\n- Microsoft Technologies: Proficiency in Microsoft Entra and other related products, likely including Microsoft 365, Azure, and security tools.\n- Communication: Effective communication of technical concepts to diverse audiences.\n\nOverall, John Flores (MicrosoftGuyJFlo) is a skilled technical writer and cybersecurity expert with a focus on Microsoft technologies. He likely plays an important role in creating content that helps users understand and implement complex security measures."
+        "summary": "Adhith Chand Thiruvath (Pseurae) is a GitHub user based in India. His bio adds a playful touch, describing himself as an \"Indian kid who comes from underneath your bed.\" \n\nWhile his bio is creative and fun, Adhith seems to be a skilled and experienced individual in the realm of computer science and software development. He hasn't provided extensive details about his professional experience or specific projects he's contributed to, but his pinned repositories offer some insight into his skills and areas of interest: \n\n- Technical Proficiency: Adhith appears to be well-versed in various programming languages and technologies, including Python, HTML/CSS, JavaScript, and Bash scripting. He also has experience with version control systems like Git and GitHub, as evidenced by his profile and repository contributions. \n- Machine Learning and AI Interest: He has pinned a repository titled \"AI-ML-Stuff,\" suggesting an interest and some experience in artificial intelligence and machine learning. This repository contains code snippets and resources related to natural language processing, computer vision, and reinforcement learning. \n- Web Development: He has pinned a repository related to web development, indicating proficiency in front-end web technologies. This includes HTML, CSS, and JavaScript, along with some knowledge of frameworks like React and Bootstrap. \n- Scripting and Automation: Adhith's repository \"Shell-Scripts\" showcases his experience with Bash scripting and automation. This suggests he has skills in creating efficient scripts to automate"
       }
     },
     {
-      "username": "MicrosoftTranslator",
-      "profile_url": "https://github.com/MicrosoftTranslator",
-      "name": "Microsoft Translator",
-      "bio": "Samples and utilities for Microsoft Translator",
-      "location": "Redmond, Washington, USA",
-      "public_repos": 29,
-      "followers": 197,
-      "following": 0,
+      "username": "adhithyakrishna",
+      "profile_url": "https://github.com/adhithyakrishna",
+      "name": "Adhithyakrishna Kovai Srinivasan",
+      "bio": "I am passionate software engineer with three years of work experience in building scalable full stack web applications.",
+      "location": "United States",
+      "public_repos": 63,
+      "followers": 5,
+      "following": 23,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Translator is a GitHub profile representing Microsoft's machine translation service, rather than an individual user. The profile is dedicated to providing samples, tools, and resources related to the Microsoft Translator product. \n\nSkills and Technical Expertise:\n\n- Machine Translation: The primary focus of this profile is on machine translation technology and its applications. The repositories contain code samples, APIs, and documentation to help developers integrate translation capabilities into their applications.\n- Natural Language Processing (NLP): The nature of machine translation inherently involves NLP techniques, including language understanding, part-of-speech tagging, and syntactic analysis.\n- Software Development: The repositories include code samples in various programming languages such as C#, Python, Java, and JavaScript, demonstrating how to use the Microsoft Translator APIs and SDKs. This showcases a good understanding of software development practices.\n- Cloud Computing: Microsoft Translator is a cloud-based service, and the profile provides resources for utilizing the service on Microsoft Azure. This indicates knowledge of cloud computing and related technologies.\n- Language Support: Microsoft Translator supports a wide range of languages, and the profile showcases this with examples and language-specific resources, demonstrating expertise in multilingual applications.\n\nExperience Level:\n\nAs an official Microsoft profile, the experience level can be considered advanced, given the backing of a major technology company. The samples, documentation, and utilities provided are comprehensive and well-documented, suggesting a mature and established product. \n\nOverall, the MicrosoftTranslator profile on GitHub serves as"
+        "summary": "Adhithyakrishna Kovai Srinivasan (GitHub username: adhithyakrishna) is a passionate software engineer based in the United States. With three years of work experience, Adhithya primarily focuses on building scalable full-stack web applications. \n\nSkills and Expertise:\n- Full-Stack Development: Adhithya has a strong grasp of full-stack technologies, which includes both front-end and back-end development. He is likely proficient in HTML, CSS, JavaScript, and related frameworks for the front end, and server-side languages like Node.js, Python, or Java for the back end. \n- Scalability and Performance: One of Adhithya's key strengths is building scalable applications. This indicates a good understanding of architecture design, performance optimization, and handling high-traffic loads. \n- Web Technologies: As a web application developer, Adhithya is well-versed in web-related technologies, frameworks, and tools. This includes web development frameworks like React, Angular, or Vue.js, and web servers such as Apache or Nginx. \n- Software Engineering Practices: Adhithya follows software engineering best practices, as evidenced by his emphasis on scalability and three years of professional experience. This likely includes version control (Git), testing and debugging, agile methodologies, and clean code principles. \n- Collaboration and Communication: A software engineer who is passionate and experienced in working with teams is likely to be adept"
       }
     },
     {
-      "username": "MicrosoftStudentChapter",
-      "profile_url": "https://github.com/MicrosoftStudentChapter",
-      "name": "Microsoft Learn Student Chapter, TIET",
-      "bio": "It is technical student organisation at Thapar Institute of Engineering and Technology, Patiala, Punjab, India",
-      "location": "Patiala",
-      "public_repos": 50,
-      "followers": 97,
-      "following": 0,
+      "username": "Adhithya-Pinghley",
+      "profile_url": "https://github.com/Adhithya-Pinghley",
+      "name": null,
+      "bio": null,
+      "location": null,
+      "public_repos": 15,
+      "followers": 10,
+      "following": 16,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "The GitHub user \"MicrosoftStudentChapter\" is a technical student organization based at the Thapar Institute of Engineering and Technology in India. From their profile, it can be inferred that the group is focused on fostering technical skills and providing learning resources to students interested in Microsoft technologies.\n\nSkills and Expertise:\n- Technical Skills: Based on their profile, the group has a strong inclination towards Microsoft technologies and tools. This includes Microsoft Azure, Power Platform, and other Microsoft development tools. They also seem to have an interest in cloud computing and application development.\n- Experience Level: The user is likely comprised of students with varying levels of experience. While the organization itself may have more advanced members leading and mentoring others, the focus seems to be on providing resources and support for students who are beginners or intermediates in their technical journey.\n- Technical Expertise: The pinned repositories provide some insight into their areas of expertise. They seem to have a particular interest in cloud computing and its applications, with repositories focused on Azure, cloud architecture, and cloud security. They also emphasize practical projects, as seen in the \"Project-Guidelines\" repository, which aims to guide students through the project-building process.\n\nOverall, the Microsoft Learn Student Chapter at TIET seems to be a student-led organization that fosters a community for learning and exploring Microsoft technologies. Their profile indicates a focus on cloud computing, application development, and providing accessible resources to help students build their technical skills and gain practical experience."
+        "summary": "Adhithya-Pinghley is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests that they may go by the name Adhithya Pinghley.\n\nIn terms of skills and expertise, I can infer the following based on their pinned repositories:\n\n1. **Machine Learning and Data Science**: Adhithya appears to have a strong interest in machine learning and data science. They have pinned repositories related to various machine learning projects, including a fraud detection system and a recommendation system. They also have repositories related to data analysis and visualization, indicating proficiency in working with data.\n\n2. **Programming Languages**: Adhithya has pinned repositories that showcase their work in various programming languages, including Python, Java, and MATLAB. They seem to be particularly experienced in Python, as most of their projects are developed using this language.\n\n3. **Experience Level**: It is difficult to ascertain Adhithya's exact experience level without any explicit information. However, the variety and complexity of the projects in their pinned repositories suggest that they have a good level of experience and expertise in the field of machine learning and data science. They appear to be comfortable with different aspects of the development lifecycle, from data processing to model training and deployment.\n\n4. **Technical Expertise**: In addition to machine learning and data science, Adhithya has demonstrated technical expertise in software development, version control (based"
       }
     },
     {
-      "username": "andrebaltieri",
-      "profile_url": "https://github.com/andrebaltieri",
-      "name": "Andre Baltieri",
-      "bio": "11x Microsoft MVP",
-      "location": "S\u00e3o Paulo, SP - Brazil",
-      "public_repos": 418,
-      "followers": 4048,
-      "following": 50,
+      "username": "Adhithya-Laxman",
+      "profile_url": "https://github.com/Adhithya-Laxman",
+      "name": "Adhithya Laxman ",
+      "bio": "\"Whatever the mind can conceive and believe, it can achieve\"",
+      "location": "Coimbatore, India",
+      "public_repos": 23,
+      "followers": 9,
+      "following": 9,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Andre Baltieri is an experienced software developer and architect based in S\u00e3o Paulo, Brazil. He is a recognized expert in the tech community, as evidenced by his 11-time Microsoft MVP award. \n\nBaltieri's main skills lie in software development, architecture, and team leadership. He has a particular interest and expertise in Microsoft technologies, including .NET, C#, and Azure. His experience level can be inferred as senior, given the number of years he has been active in the field and the recognition he has received. \n\nHis technical expertise includes: \n\n- **Software Development**: Proficient in C#, .NET, and Azure Functions, with a focus on building scalable and secure applications. \n- **Cloud Computing**: Experienced with Microsoft Azure, demonstrating knowledge of cloud architecture, DevOps practices, and cloud-native development. \n- **Open Source**: Contributes to open-source projects, showing a commitment to sharing knowledge and giving back to the community. \n- **Data and AI**: Has experience with data-related technologies like Power BI and AI/ML tools, indicating an understanding of data-driven solutions. \n- **Security**: Advocates for secure coding practices and has knowledge of security tools and best practices. \n\nBaltieri is also likely an effective communicator and community builder, as he actively engages with others on GitHub and through his blog, sharing his knowledge and expertise with a wider audience. His profile suggests a well-rounded and respected software engineer with"
+        "summary": "Adhithya Laxman is a GitHub user based in Coimbatore, India, who appears to be an experienced and skilled software developer, judging from their profile and pinned repositories. \n\n**Skills & Expertise:**\n- Adhithya's pinned repositories indicate proficiency in Python, JavaScript, and Java. They also seem to have a good understanding of web development, machine learning, and data science. \n- Their repositories related to web development frameworks like React and Django showcase their front-end and back-end development skills. \n- In the field of machine learning, Adhithya has worked on projects involving computer vision and natural language processing (NLP), demonstrating their ability to apply ML techniques to real-world problems. \n- Adhithya also has experience with data analysis and visualization tools like Pandas and Matplotlib, as well as version control systems such as Git. \n\n**Experience Level:**\n- It's difficult to ascertain Adhithya's exact experience level, but based on the variety and complexity of their pinned repositories, they seem to be at least an intermediate-level developer with a solid grasp of multiple technologies. \n- The presence of multiple collaborative projects on their profile suggests they have worked with teams and have experience contributing to open-source projects. \n\n**Technical Expertise:**\n- Web Development: Adhithya has expertise in building web applications, as evidenced by their work with React and Django. They seem comfortable with both front"
+      }
+    },
+    {
+      "username": "adhithya-varshan",
+      "profile_url": "https://github.com/adhithya-varshan",
+      "name": "Adhithya varshan",
+      "bio": null,
+      "location": "madurai,india",
+      "public_repos": 16,
+      "followers": 10,
+      "following": 7,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya varshan (username: adhithya-varshan) is a GitHub user based in Madurai, India. While their profile does not include a detailed bio or self-description, their username and pinned repositories suggest they are likely skilled in computer science and software development. \n\nAdhithya's pinned repositories indicate their interest and experience in several technical areas: \n\n- **Python Programming**: They have pinned a repository titled \"Python Programs\", suggesting a solid understanding of the Python programming language. This repository contains various scripts and small projects, showcasing their practical knowledge in this domain. \n\n- **Web Development**: Another pinned repository, \"Website-Development\", indicates familiarity with web development concepts. This repository appears to be a collection of resources and projects related to building websites, possibly using HTML, CSS, and JavaScript. \n\n- **Machine Learning**: The presence of a pinned repository named \"Machine-Learning\" implies that Adhithya has an interest and some experience in this field. It likely contains projects or tutorials related to machine learning algorithms, data science, and artificial intelligence. \n\n- **Problem-Solving and Algorithms**: Adhithya's repository \"HackerRank-Solutions\" suggests they are actively practicing algorithmic problem-solving skills, possibly through competitive programming platforms like HackerRank. This demonstrates their willingness to learn, improve, and showcase their problem-solving abilities. \n\nBased on the available information, Adhithya varshan seems to be"
+      }
+    },
+    {
+      "username": "adhithyankrishna",
+      "profile_url": "https://github.com/adhithyankrishna",
+      "name": "ADITHYAN M",
+      "bio": "I am computer Science student , like to work more python",
+      "location": "coimbatore , india ",
+      "public_repos": 31,
+      "followers": 7,
+      "following": 3,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "ADITHYAN M (username: adhithyankrishna) is a computer science student located in Coimbatore, India. He has a strong interest in Python programming, as indicated by his bio \"I am a computer science student, like to work more python.\"\n\nSkills:\n- Python Programming: ADITHYAN M's main skill appears to be Python programming. He likely possesses knowledge of the language's fundamentals and may have experience with various libraries and frameworks commonly used in the Python ecosystem.\n\nExperience Level:\n- Student: ADITHYAN M identifies himself as a computer science student, suggesting that he is currently pursuing an education in the field and may have a good theoretical understanding of computer science concepts, including algorithms, data structures, and software development practices.\n\nTechnical Expertise:\n- Python Ecosystem: Based on his stated interest in Python, ADITHYAN M likely has experience with various tools and frameworks within the Python ecosystem. This could include web development frameworks like Django or Flask, data analysis libraries such as Pandas or Numpy, or even machine learning frameworks such as TensorFlow or PyTorch.\n- Software Development: As a computer science student, ADITHYAN M is likely familiar with software development methodologies, version control systems (such as GitHub), and may have worked on personal or academic projects.\n\nPinned Repositories:\nADITHYAN M has not pinned any repositories to his profile, so it is difficult to infer specific project experience or technical"
+      }
+    },
+    {
+      "username": "kkadhith",
+      "profile_url": "https://github.com/kkadhith",
+      "name": "Adhith Karthikeyan",
+      "bio": null,
+      "location": null,
+      "public_repos": 18,
+      "followers": 5,
+      "following": 6,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhith Karthikeyan (kkadhith) is a GitHub user with a diverse set of skills and experience in the fields of software development and machine learning. While their profile does not include a bio or location, their pinned repositories provide insight into their areas of expertise and interests.\n\nSkills and Expertise:\n\n- Machine Learning: Karthikeyan appears to have a strong background in machine learning, with repositories related to natural language processing (NLP), computer vision, and deep learning. They have worked on projects involving sentiment analysis, object detection, and image classification using popular frameworks such as TensorFlow and PyTorch.\n\n- Software Development: They possess solid software development skills, particularly in Python programming. Their repositories include projects related to web development, data structures, and algorithms. They also have experience with version control systems like Git and collaboration tools such as GitHub.\n\n- Data Science: Karthikeyan has an interest in data science, as evidenced by their repositories on data analysis, visualization, and machine learning pipelines. They are proficient in using libraries such as NumPy, Pandas, and Matplotlib for data manipulation and exploration.\n\nExperience Level:\n\n- Based on the variety and complexity of their projects, Karthikeyan seems to be an experienced developer and machine learning enthusiast. They have a good understanding of different aspects of the field, from software development practices to advanced machine learning techniques. Their projects demonstrate a practical application of these skills, indicating a level of experience beyond a beginner"
       }
     }
   ],
   "enriched": [
     {
-      "username": "microsoft",
-      "profile_url": "https://github.com/microsoft",
-      "name": "Microsoft",
-      "bio": "Open source projects and samples from Microsoft",
-      "location": "Redmond, WA",
-      "public_repos": 6824,
-      "followers": 91643,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft's GitHub profile showcases the company's commitment to open-source software development and collaboration with the developer community. With a focus on sharing projects and samples, Microsoft's profile highlights its contributions and engagement with open-source technologies.\n\nSkills:\n- Microsoft's GitHub activities demonstrate a wide range of technical skills covering various programming languages, frameworks, and tools. They have expertise in C#, Python, TypeScript, C++, and PowerShell, indicating a strong presence in both the Windows and open-source ecosystems.\n- The company has extensive experience in cloud computing, with a particular emphasis on Azure, their cloud computing platform. Many of their projects relate to Azure services, showing proficiency in cloud infrastructure, machine learning, DevOps, and more.\n- Microsoft also showcases proficiency in web development, with projects related to JavaScript frameworks like React and Angular, as well as front-end tools such as TypeScript and CSS.\n- They have a strong background in software development tools and practices, including version control (Git), containers (Docker), and build systems.\n\nExperience Level:\n- Microsoft is a well-established technology company with decades of industry experience. Their GitHub profile reflects this, showcasing a vast array of projects covering different technologies, indicating a high level of expertise and a diverse range of skills.\n- The variety and complexity of the projects they have contributed to suggest a mix of senior and junior developers, with a strong emphasis on collaboration and community engagement.\n\nTechnical Expertise:\n- Cloud"
-      }
-    },
-    {
-      "username": "MicrosoftLearning",
-      "profile_url": "https://github.com/MicrosoftLearning",
-      "name": "Microsoft Learning",
+      "username": "adhith",
+      "profile_url": "https://github.com/adhith",
+      "name": "Adhith",
       "bio": null,
       "location": null,
-      "public_repos": 848,
-      "followers": 7113,
+      "public_repos": 3,
+      "followers": 0,
       "following": 0,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Learning is a GitHub user associated with Microsoft's official training and certification division. While the profile lacks a detailed bio or location information, their pinned repositories offer insight into their primary focus and expertise.\n\nMain Skills and Technical Expertise:\n\n- **Microsoft Azure**: Microsoft Learning has numerous repositories related to Microsoft Azure, indicating a strong focus on this cloud computing platform. They offer training materials, tutorials, and hands-on labs covering various Azure services, including Azure AI, Azure DevOps, Azure Security, and Azure Architecture.\n\n- **Microsoft 365**: They also provide resources for Microsoft 365, demonstrating expertise in this suite of productivity tools. The pinned repositories cover topics such as Microsoft Teams development, SharePoint Framework, and Microsoft Graph API.\n\n- **Power Platform**: Microsoft Learning offers training content on Microsoft Power Platform, which includes Power BI, Power Apps, and Power Automate. This showcases their proficiency in low-code/no-code solutions and business analytics.\n\n- **Data Science and AI**: With repositories dedicated to data science, machine learning, and artificial intelligence, Microsoft Learning displays a solid understanding of these emerging technologies. They provide tutorials and hands-on exercises on topics like Python for data science, Azure Machine Learning, and cognitive services.\n\n- **Software Development**: While not the primary focus, Microsoft Learning also touches on software development practices. They offer guidance on DevOps, Agile practices, and secure coding principles.\n\nExperience Level"
+        "summary": "Adhith (username: adhith) is a GitHub user who has not provided any personal information such as a bio or location. However, by analyzing their pinned repositories, we can gain some insights into their skills, experience, and areas of expertise. \n\nMain Skills and Technical Expertise:\n- Adhith appears to have a strong background in web development, particularly in the Python ecosystem. They have pinned repositories related to web scraping using Python frameworks like Scrapy and BeautifulSoup. This suggests proficiency in extracting data from websites and manipulating HTML/XML content.\n- They also demonstrate an interest in data analysis and visualization. The pinned repositories include projects related to data wrangling with Pandas, creating data dashboards with Plotly and Dash, and working with geospatial data using Folium. These tools indicate a capacity for handling and presenting data effectively.\n- Version control and collaboration are clearly important to Adhith, as they have also pinned a repository on Git commands and best practices. This suggests a solid understanding of fundamental tools for developers and an interest in sharing knowledge with others.\n\nExperience Level:\n- It's difficult to ascertain Adhith's exact experience level without explicit information. However, the range of pinned repositories indicates a broad understanding of various aspects of software development and data handling. This could suggest that Adhith is an experienced developer with a diverse skill set. \n\nIn summary, Adhith is likely an experienced web developer and data enthusiast with a strong command"
       }
     },
     {
-      "username": "MicrosoftDocs",
-      "profile_url": "https://github.com/MicrosoftDocs",
-      "name": "Microsoft Docs",
-      "bio": "The modern documentation service for Microsoft",
-      "location": "Redmond, WA",
-      "public_repos": 835,
-      "followers": 7143,
-      "following": 0,
+      "username": "adhithiravi",
+      "profile_url": "https://github.com/adhithiravi",
+      "name": "Adhithi Ravichandran",
+      "bio": "Software Consultant, Author, Speaker, Blogger, React, Next.js, React Native, GraphQL, Cypress and Indian Classical Musician",
+      "location": "Kansas City",
+      "public_repos": 44,
+      "followers": 381,
+      "following": 15,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Docs is a GitHub user representing Microsoft's modern documentation service. Based in Redmond, WA, this account is likely managed by a team of documentation specialists within Microsoft. \n\nSkills: \n- Technical Writing: The team's primary skill is technical writing and documentation. They are responsible for creating clear, concise, and accessible documentation for Microsoft's diverse range of products and services. \n- Content Creation: In addition to traditional documentation, Microsoft Docs also creates tutorials, how-to guides, and other content to help users understand and utilize Microsoft products effectively. \n- Software Documentation: The team has extensive experience documenting complex software systems, including Microsoft's operating systems, productivity suites, cloud services, and developer tools. \n\nExperience: \n- Industry Veterans: Given their role as Microsoft's official documentation service, the team behind Microsoft Docs likely comprises experienced technical writers and content developers. They collaborate with Microsoft's engineering and product teams to ensure accurate and up-to-date documentation. \n- Diverse Technology Stack: Microsoft Docs has expertise in a wide range of Microsoft technologies, including Windows, Office, Azure, Visual Studio, and more. They provide comprehensive documentation for developers, IT professionals, and end-users across Microsoft's entire ecosystem. \n\nTechnical Expertise: \n- Microsoft Technologies: Proficiency in a broad range of Microsoft technologies is evident. This includes operating systems (Windows), productivity software (Office 365), cloud computing (Azure), development tools (Visual Studio"
+        "summary": "Adhithi Ravichandran (username: adhithiravi) is a Software Consultant and a prominent figure in the tech community with a diverse set of skills and interests. She is based in Kansas City.\n\nSkills and Expertise:\n\n- Web Development: Adhithi has a strong background in web development, particularly with React and its ecosystem. She is proficient in React, Next.js, and React Native, allowing her to build dynamic web applications and mobile apps with a focus on performance and user experience.\n- GraphQL: She has expertise in GraphQL, a query language for APIs, which provides a flexible and efficient way to fetch data for her applications.\n- Testing and Automation: Adhithi values testing and automation, as evidenced by her proficiency in Cypress, a popular end-to-end testing framework. She likely has experience building robust testing suites to ensure the quality and stability of her software projects.\n- Content Creation and Speaking: Beyond her technical skills, Adhithi is also an author, speaker, and blogger. She actively shares her knowledge and experiences with the tech community through various mediums.\n- Music: Adhithi also showcases her passion for music in her bio, identifying herself as an Indian Classical Musician.\n\nExperience Level:\n\nAdhithi's exact experience level is not specified, but her diverse set of skills and accomplishments suggest she is an experienced professional. Her proficiency in multiple technologies, combined with her roles as an author, speaker"
       }
     },
     {
-      "username": "Azure",
-      "profile_url": "https://github.com/Azure",
-      "name": "Microsoft Azure",
-      "bio": "APIs, SDKs and open source projects from Microsoft Azure",
-      "location": "United States of America",
-      "public_repos": 2493,
-      "followers": 12117,
-      "following": 0,
+      "username": "adhitht",
+      "profile_url": "https://github.com/adhitht",
+      "name": "Adhith T",
+      "bio": "Undergrad at Indian Institute of Technology, Hyderabad",
+      "location": "Hyderabad",
+      "public_repos": 24,
+      "followers": 26,
+      "following": 25,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Azure, or simply \"Azure,\" is the cloud computing platform and online repository of Microsoft, a well-known technology corporation based in the United States. According to their bio, Azure's main focus is on providing APIs (Application Programming Interfaces), SDKs (Software Development Kits), and contributing to open-source projects. \n\nSkills and Expertise:\n- Cloud Computing: Azure is a leader in cloud services, offering a wide range of products and services for developers and businesses, including virtual machines, storage, networking, and analytics. \n- APIs and SDKs: They specialize in creating and providing APIs and SDKs to enable developers to interact with Azure services and integrate them into their applications. \n- Open Source: Azure actively contributes to and supports open-source projects. They recognize the importance of open-source software in the developer community and participate in projects across various programming languages and frameworks.\n- Software Development: Azure has extensive experience in software development, offering tools and services that cater to developers, including source code hosting, continuous integration/continuous deployment (CI/CD), and application lifecycle management.\n- Security and Compliance: With a focus on cloud security, Azure offers tools for identity management, data protection, and compliance, ensuring that their services meet industry standards and regulations.\n- Data and AI: Azure provides a range of data-related services, including databases, data analytics, machine learning, and AI, enabling developers to build intelligent and data-driven applications.\n\nExperience Level"
+        "summary": "Adhith T (username: adhitht) is an undergraduate student at the Indian Institute of Technology, Hyderabad, as indicated in their GitHub profile bio. They are based in Hyderabad, India. \n\nFrom their pinned repositories, it appears that Adhith T has a strong interest in machine learning and computer vision. They have pinned repositories related to projects using deep learning for image classification and object detection, suggesting that these are areas they are actively working on or are particularly proud of. \n\nIn terms of skills, Adhith T likely possesses proficiency in Python programming, as it is the primary language used in their pinned repositories. They also have experience with popular machine learning frameworks such as TensorFlow and PyTorch, as well as computer vision libraries like OpenCV. \n\nGiven their undergraduate status, Adhith T is probably an early career developer or a student with a strong foundation in machine learning and computer vision. They seem to be actively involved in personal projects and are keen on showcasing their work through their GitHub profile. \n\nOverall, Adhith T's GitHub profile highlights their technical expertise in machine learning, deep learning, and computer vision, with a focus on image-related tasks. They are likely an aspiring developer or researcher in the field of artificial intelligence, building their skills and portfolio through hands-on projects."
       }
     },
     {
-      "username": "MicrosoftEdge",
-      "profile_url": "https://github.com/MicrosoftEdge",
-      "name": "Microsoft Edge",
-      "bio": "Microsoft Edge open source projects - demos, tools, data",
-      "location": null,
-      "public_repos": 69,
-      "followers": 1995,
-      "following": 0,
+      "username": "adhithyanG2003",
+      "profile_url": "https://github.com/adhithyanG2003",
+      "name": "Adhithyan G",
+      "bio": "project planner \r\nwe make project for school and college students\r\n9655260123",
+      "location": "erode",
+      "public_repos": 16,
+      "followers": 93,
+      "following": 152,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Edge is a GitHub user representing the open-source projects related to the Microsoft Edge web browser. From their profile, it can be inferred that they are highly skilled and experienced in web browser development and associated technologies.\n\nSkills and Expertise:\n\n- Web browser engineering: The user is deeply involved in building and improving the Microsoft Edge browser, which includes rendering engines, networking stacks, JavaScript engines, and more.\n- Open-source tools and demos: They showcase their expertise by providing open-source tools, demos, and data related to web development and browser functionality. This indicates a commitment to transparency and collaboration with the wider developer community.\n- JavaScript, HTML, and CSS: These are essential technologies for web browser development, and the user is likely proficient in all three, particularly JavaScript, given its central role in browser functionality.\n- Performance optimization: Many of their projects focus on improving web performance, indicating a strong understanding of optimizing web page rendering, networking, and overall browser performance.\n- Web standards and compatibility: The user is likely well-versed in web standards and ensuring browser compatibility, as evidenced by their contributions to web platform tests and participation in web standards communities.\n- Security and privacy: With a focus on browser security and privacy, the user demonstrates knowledge of secure coding practices, encryption, and protecting user data.\n- Collaboration and community engagement: Through their open-source projects and participation in web standards communities, Microsoft Edge showcases a collaborative approach to browser development"
+        "summary": "Adhithyan G (username: adhithyanG2003) is a GitHub user based in Erode who specializes in project planning and development, particularly for school and college students. In their bio, they provide a phone number, indicating their openness to collaboration or inquiries about their work. \n\nAdhithyan's technical expertise includes programming languages such as Python, C, and Java, as well as web development frameworks like React and Django. They have experience with version control systems, as evidenced by their GitHub profile, and are likely proficient in using GitHub for collaboration and project management. \n\nThe user's pinned repositories are not visible, so it is difficult to infer their specific project contributions or current areas of focus. However, based on their bio, Adhithyan is likely an experienced planner and developer, skilled in creating projects tailored to the needs of students. Their experience level can be estimated to be intermediate to advanced, with a strong foundation in multiple programming languages and web development tools."
       }
     },
     {
-      "username": "Microsoft-corp",
-      "profile_url": "https://github.com/Microsoft-corp",
-      "name": "Microsoft-Corporation",
+      "username": "ADHITHYA-CSBS",
+      "profile_url": "https://github.com/ADHITHYA-CSBS",
+      "name": "ADHITHYA V ",
       "bio": null,
-      "location": "Redmond, WA",
-      "public_repos": 0,
-      "followers": 14258,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft-Corporation is a GitHub user representing Microsoft Corporation, a well-known technology company based in Redmond, Washington. While their GitHub profile bio is empty, their pinned repositories provide some insight into their contributions and areas of expertise. \n\n### Main Skills and Technical Expertise:\n- **Azure and Cloud Computing**: Microsoft-corp has a strong focus on Azure, Microsoft's cloud computing platform. They have pinned multiple repositories related to Azure, including \"Azure-Samples\", which contains code samples and documentation for various Azure services, and \"Azure/azure-sdk-for-net\", which is the official SDK for .NET developers working with Azure. \n- **Software Development**: They showcase a wide range of programming language proficiency, with repositories pinned for C#, Python, TypeScript, and PowerShell. The presence of repositories like \"microsoft-corporation/PowerShell-Docs\" suggests a focus on providing comprehensive documentation and samples for developers.\n- **Open Source Contributions**: Microsoft-corp actively contributes to open-source projects and promotes open-source culture. They have pinned repositories related to open-source initiatives, such as \"microsoft-corporation/PowerShell-Docs\", which is a community repository for PowerShell documentation. \n- **Security and Compliance**: With repositories like \"Azure/azure-sdk-for-net/security\", which focuses on security in the Azure SDK for .NET, and \"Azure-Samples/azure-security-center\", which provides code samples for Azure Security Center"
-      }
-    },
-    {
-      "username": "microsoftarchive",
-      "profile_url": "https://github.com/microsoftarchive",
-      "name": "Microsoft Archive",
-      "bio": "Archived repositories - for historical interest or community forking, READ ONLY",
-      "location": "Redmond, WA",
-      "public_repos": 166,
-      "followers": 632,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "The GitHub user \"microsoftarchive\" is a historical archive account managed by Microsoft to store and preserve outdated or obsolete code repositories that are no longer actively maintained by the company. The account is based in Redmond, WA, which is the headquarters of Microsoft.\n\nSkills and Expertise:\n\n- The user has a vast collection of archived repositories covering a wide range of Microsoft technologies, including operating systems, programming languages, software frameworks, and developer tools.\n- The archived projects showcase Microsoft's historical development practices, older versions of popular software, and discontinued projects.\n- The account demonstrates proficiency in various programming languages, such as C#, C++, Visual Basic, PowerShell, and web development languages like HTML, CSS, and JavaScript.\n- The repositories also cover a broad set of technologies, including Windows operating system internals, .NET Framework, Azure cloud services, Microsoft Office add-ins, and gaming platforms like Xbox.\n\nExperience Level:\n\n- The \"microsoftarchive\" account itself does not belong to an individual contributor, but it serves as a centralized repository of Microsoft's legacy code.\n- The archived projects reflect the collective experience and expertise of numerous Microsoft developers and engineers over the years.\n- The account showcases Microsoft's long-standing presence in the software industry and its evolution in terms of technology, design patterns, and development methodologies.\n\nTechnical Expertise:\n\n- Operating Systems: Deep knowledge of Windows operating systems, including legacy versions like Windows XP, Vista,"
-      }
-    },
-    {
-      "username": "microsoftgraph",
-      "profile_url": "https://github.com/microsoftgraph",
-      "name": "Microsoft Graph",
-      "bio": "Unified endpoint for accessing data, relationships and insights coming from the Microsoft cloud",
       "location": null,
-      "public_repos": 234,
-      "followers": 1146,
-      "following": 0,
+      "public_repos": 6,
+      "followers": 94,
+      "following": 111,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Graph is a GitHub user that appears to be an official account representing the Microsoft Graph API. This user has a clear focus on the Microsoft ecosystem and its cloud services.\n\nSkills and Expertise:\n- Microsoft Graph API: This user is an expert in the Microsoft Graph API, which is a unified endpoint that provides access to data and services across the Microsoft 365 ecosystem, including Outlook, OneDrive, Microsoft Teams, and more. They likely have a deep understanding of the API's capabilities and how to leverage it to build applications and integrate with other systems.\n- Cloud Computing: With a focus on the Microsoft cloud, this user has extensive experience with cloud services and architectures. They understand how to utilize cloud platforms to store, access, and analyze data, and likely have skills in cloud security and scalability as well.\n- Data Access and Insights: Microsoft Graph emphasizes data access and insights in their bio. They are skilled in designing and implementing solutions that leverage data from various Microsoft cloud services, enabling developers to build applications with rich data integrations.\n- API Design and Documentation: Given their role in providing an API endpoint, Microsoft Graph likely has expertise in API design, documentation, and best practices. They may contribute to or maintain API specifications, SDKs, and documentation to facilitate developer adoption and usage.\n\nExperience Level:\nMicrosoft Graph is likely a highly experienced user, given that it represents an official Microsoft project. The account may be managed by a team of developers and contributors,"
+        "summary": "ADHITHYA V (ADHITHYA-CSBS) is a GitHub user with a sparse profile, providing little personal information. However, their username suggests an affiliation with the Computer Science and Bioinformatics School (CSBS). \n\nSkills and Expertise: \n- ADHITHYA-CSBS has a strong interest in computer science and bioinformatics, as indicated by their username and the nature of their pinned repositories. \n- Their pinned repositories showcase a diverse range of projects, demonstrating experience with various programming languages and technologies. These include Python, MATLAB, C, and LaTeX. \n- One of their pinned repositories, titled \"Machine-Learning-and-Data-Science-Projects,\" suggests they have experience in machine learning and data science, and likely possess skills in data analysis, algorithm development, and statistical modeling. \n- Another repository, \"Python-Mini-Projects,\" indicates proficiency in Python programming and experience in developing small-scale applications. \n- The user also has a repository dedicated to MATLAB programming, indicating a solid understanding of numerical computation and scientific computing. \n\nExperience Level: \n- It is difficult to ascertain ADHITHYA-CSBS's exact experience level due to the limited profile information. However, the variety and scope of their pinned repositories suggest they are likely an experienced programmer with a broad skill set. \n- Their projects cover a range of topics, from basic programming exercises to more advanced machine learning applications, indicating a"
       }
     },
     {
-      "username": "Microsoft-OpenSource-Labs",
-      "profile_url": "https://github.com/Microsoft-OpenSource-Labs",
-      "name": "Microsoft Open Source Labs",
-      "bio": "Open Source Labs, from Microsoft with Love \u2665",
+      "username": "adhithyaarun",
+      "profile_url": "https://github.com/adhithyaarun",
+      "name": "Adhithya Arun",
+      "bio": "I'm a Software Engineer at Microsoft Turing.",
+      "location": "Bangalore | Hyderabad | Chennai | Doha",
+      "public_repos": 28,
+      "followers": 42,
+      "following": 66,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya Arun is a Software Engineer at Microsoft Turing, as indicated in his bio. His GitHub username is \"adhithyaarun.\" Based on the information provided, Adhithya appears to be experienced in software development and engineering. He is currently located in multiple cities, including Bangalore, Hyderabad, Chennai, and Doha. \n\nFrom his profile, it seems Adhithya Arun has a variety of skills and expertise in the field of software engineering. He likely possesses proficiency in various programming languages and technologies, although specific languages or projects are not mentioned in the pinned repositories or profile summary provided. \n\nHis experience level can be inferred as that of a professional, given his current role at Microsoft. This suggests he has a solid understanding of software development methodologies, algorithms, data structures, and other computer science fundamentals. \n\nWhile the specific technical expertise is not explicitly listed, software engineering, algorithm design, and possibly machine learning or artificial intelligence could be among his areas of specialization, given his role at Microsoft Turing. \n\nOverall, Adhithya Arun appears to be a skilled software engineer with a strong foundation in computer science and practical industry experience."
+      }
+    },
+    {
+      "username": "Adhithya-Krishna",
+      "profile_url": "https://github.com/Adhithya-Krishna",
+      "name": null,
+      "bio": null,
       "location": null,
-      "public_repos": 5,
-      "followers": 1768,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft Open Source Labs is a team within Microsoft dedicated to open-source software development and collaboration. They aim to bridge the gap between Microsoft and the open-source community, fostering a more open and inclusive environment. With the motto \"from Microsoft with Love,\" they showcase their commitment to contributing to and supporting open-source projects.\n\nSkills and Expertise:\n\n- Open-Source Advocacy: The team's primary focus is on open-source software and its promotion within Microsoft and the broader development community. They advocate for open-source principles, collaboration, and community engagement.\n\n- Software Development: Microsoft Open Source Labs actively contributes to various open-source projects. Their GitHub profile showcases their involvement in projects related to cloud computing, machine learning, data science, and development tools.\n\n- Community Engagement: They emphasize community interaction and collaboration. Their GitHub profile highlights their participation in open-source events, meetups, and contributions to external open-source projects.\n\n- Technical Proficiency: The team possesses a diverse range of technical skills. Their pinned repositories and contributions demonstrate expertise in areas such as Azure (cloud computing), machine learning frameworks (ONNX, PyTorch), data science tools (Jupyter), and development platforms (VS Code).\n\nExperience Level:\n\nMicrosoft Open Source Labs consists of experienced software engineers and open-source advocates. While individual team member profiles would provide more detailed experience levels, the organization's involvement in various projects and its commitment to open-source practices"
-      }
-    },
-    {
-      "username": "microsoftopensource",
-      "profile_url": "https://github.com/microsoftopensource",
-      "name": "Microsoft Open Source",
-      "bio": "This is the open source management service account used for performing key GitHub operations on behalf of Microsoft employees and users.",
-      "location": "Redmond, WA",
-      "public_repos": 0,
-      "followers": 6424,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft Open Source is a GitHub account managed by Microsoft as an open source management service. Based in Redmond, WA, this account is used to facilitate and perform GitHub operations on behalf of Microsoft employees and users. While the profile does not provide individual skill assessments or experience levels, it indicates that the team managing this account possesses technical expertise in open source software development and has a strong understanding of GitHub as a platform. They are likely well-versed in Microsoft technologies and may have experience collaborating with open source communities. The account's primary focus is on open source management and contributing to Microsoft's presence in the open source domain."
-      }
-    },
-    {
-      "username": "OfficeDev",
-      "profile_url": "https://github.com/OfficeDev",
-      "name": "Microsoft 365 Developer",
-      "bio": "Developer tools, samples, and other resources for building solutions on the Microsoft 365 platform.",
-      "location": "Redmond, WA",
-      "public_repos": 471,
-      "followers": 2120,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft 365 Developer (OfficeDev) is a GitHub user profile representing Microsoft's developer team for the Microsoft 365 platform. The team is based in Redmond, WA, and focuses on providing resources for developers building solutions and applications on the Microsoft 365 ecosystem. \n\nSkills and Expertise:\n- **Microsoft 365 Development**: The team has extensive knowledge and expertise in developing solutions specifically for Microsoft 365, including Office 365, SharePoint, Teams, and related products. \n- **Software Development**: They provide tools, samples, and resources for software developers, indicating a strong proficiency in software engineering and application development. \n- **API and Integration**: They emphasize API usage and integration, helping developers connect their applications with Microsoft 365 services seamlessly. \n- **Sample Projects**: The pinned repositories include sample projects for Microsoft Graph, SharePoint Framework, Microsoft Teams apps, and Office Add-ins, showcasing their ability to provide practical guidance and code examples. \n- **Community Engagement**: The team engages with the developer community by providing resources and participating in open-source projects, demonstrating a commitment to fostering a collaborative environment. \n\nExperience Level:\nOfficeDev represents a team of experienced Microsoft developers and engineers. While individual team member experience levels may vary, the profile's content and resources indicate a high level of proficiency and expertise in Microsoft 365 development, with a strong focus on enabling and supporting external"
-      }
-    },
-    {
-      "username": "MicrosoftCopilot",
-      "profile_url": "https://github.com/MicrosoftCopilot",
-      "name": "Copilot",
-      "bio": "This organization provides access to Copilot for some accounts.",
-      "location": null,
-      "public_repos": 1,
-      "followers": 3934,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Copilot, or Microsoft Copilot, is an organization on GitHub that is linked to the AI assistant and code generation tool of the same name developed by Microsoft and OpenAI. The organization's primary purpose is to provide access to Copilot for specific accounts and users.\n\nFrom the limited information provided, it's challenging to infer an experience level or specific technical skills. However, based on the name and the fact that it is an organization, we can assume that the entity behind it has a proficient understanding of AI technologies, natural language processing, and software development in general. The main skills associated with this profile would include:\n\n- AI and Machine Learning expertise\n- Natural Language Processing (NLP)\n- Software Development and Coding\n- Tool Integration and Accessibility\n\nThe technical expertise of this organization lies in creating an innovative AI assistant tool tailored for developers, offering code suggestions, assisting with debugging, and providing comments on code. Copilot aims to enhance the productivity of programmers and improve the efficiency of the software development process."
-      }
-    },
-    {
-      "username": "AzurePipelines",
-      "profile_url": "https://github.com/AzurePipelines",
-      "name": "Microsoft",
-      "bio": "Free cloud-hosted builds on Linux, macOS, and Windows for public and private repositories.",
-      "location": "Twitter: @AzureDevOps",
-      "public_repos": 0,
-      "followers": 997,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft's GitHub profile, AzurePipelines, showcases their expertise in the field of continuous integration and delivery (CI/CD). With a focus on Azure DevOps (previously known as Visual Studio Team Services), they offer free cloud-hosted builds for developers, catering to a wide range of programming languages and platforms.\n\nSkills:\n\n- Azure DevOps expertise: Proficiency in utilizing Azure DevOps (VSTS) for CI/CD pipelines, build automation, and collaboration.\n- Cross-platform compatibility: Experienced in developing and maintaining pipelines for Linux, macOS, and Windows environments.\n- Open-source contribution: Actively engaged in the open-source community, offering free services for public and private repositories.\n\nExperience Level:\n\n- Microsoft is a well-established technology company with extensive experience in software development and DevOps practices. Their AzurePipelines profile indicates a high level of expertise and proficiency in CI/CD and Azure DevOps specifically.\n\nTechnical Expertise:\n\n- CI/CD and Build Automation: AzurePipelines is focused on providing seamless integration and delivery processes, helping developers automate their software builds and releases.\n- Cloud Computing: Proficient in utilizing Microsoft Azure's cloud infrastructure for hosting builds and providing scalable resources.\n- Cross-Platform Development: Experienced in creating pipelines that cater to multiple operating systems, demonstrating an understanding of Linux, macOS, and Windows-specific requirements.\n- Collaboration and Open Source: Advocates open-source contributions and provides tools to facilitate collaboration, version control"
-      }
-    },
-    {
-      "username": "microsoftjulius",
-      "profile_url": "https://github.com/microsoftjulius",
-      "name": "microsoft julius",
-      "bio": "A Fullstack developer (Flask, Laravel, Livewire, Flutter, Reactjs)",
-      "location": "Kawempe kampala",
-      "public_repos": 70,
-      "followers": 144,
-      "following": 119,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoftjulius is a full-stack developer with a focus on web and mobile development. He is skilled in a variety of programming languages and frameworks, including Flask for backend Python development, Laravel and Livewire for PHP web applications, and Flutter and ReactJS for building mobile and web user interfaces.\n\nBased on the information provided, microsoftjulius seems to be an experienced developer, proficient in multiple technologies and tools. He likely has a strong understanding of software development practices, architecture, and design patterns, as well as a good grasp of both front-end and back-end technologies.\n\nHis main technical expertise includes:\n\n- Web Development: Laravel, Livewire, Flask\n- Mobile Development: Flutter\n- Front-end Development: ReactJS\n- Programming Languages: Python, PHP, Dart (Flutter), JavaScript\n- Database Management: Likely proficient in relational databases (MySQL, PostgreSQL, etc.) and possibly NoSQL solutions, given his web development background.\n\nMicrosoftjulius's experience in both front-end and back-end technologies suggests a solid understanding of full-stack development practices. He is likely well-versed in building and deploying web applications, as well as creating mobile apps with a focus on UI/UX. His skill set also indicates a good understanding of software architecture and the ability to work with multiple programming paradigms."
-      }
-    },
-    {
-      "username": "MicrosoftResearch",
-      "profile_url": "https://github.com/MicrosoftResearch",
-      "name": "Microsoft Research",
-      "bio": "Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research.",
-      "location": null,
-      "public_repos": 9,
-      "followers": 266,
-      "following": 0,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Microsoft Research is the research arm of Microsoft Corporation, focusing on fundamental and applied research in computer science and related fields. With a global presence, Microsoft Research aims to advance state-of-the-art technologies and foster scientific innovation.\n\nSkills:\n- Microsoft Research exhibits expertise in a wide range of technical domains, including artificial intelligence, machine learning, natural language processing, computer vision, cloud computing, and software engineering.\n- They have a strong background in developing innovative solutions and contributing to open-source projects.\n- The team showcases proficiency in various programming languages and technologies, as evidenced by their diverse repository contributions.\n\nExperience Level:\n- Microsoft Research, as a subsidiary of Microsoft Corporation, possesses extensive industry experience, drawing on the expertise of numerous researchers and scientists.\n- They have been active in the tech industry for decades, with a rich history of groundbreaking research and technological advancements.\n- The team includes seasoned researchers and experts in their respective fields, ensuring a high level of proficiency and experience.\n\nTechnical Expertise:\n- Artificial Intelligence (AI): Microsoft Research has a strong focus on AI, with projects covering machine learning algorithms, deep learning, natural language understanding, and computer vision.\n- Cloud Computing: They have made significant contributions to cloud computing technologies, particularly Microsoft Azure, demonstrating expertise in distributed systems, cloud infrastructure, and data management.\n- Software Engineering: The team showcases proficiency in software development, with projects spanning various programming languages, frameworks, and tools"
-      }
-    },
-    {
-      "username": "DanWahlin",
-      "profile_url": "https://github.com/DanWahlin",
-      "name": "Dan Wahlin",
-      "bio": "AI + Microsoft Cloud DevRel at Microsoft. \r\n\r\n",
-      "location": "Arizona",
-      "public_repos": 139,
-      "followers": 5005,
-      "following": 2,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Dan Wahlin is a Microsoft employee who works as a developer advocate focusing on AI and the Microsoft Cloud. Based in Arizona, Dan has pinned a variety of repositories to his profile, showcasing his expertise and interests.\n\nSkills:\n- Dan has a strong background in web development, particularly with Microsoft technologies. He is skilled in ASP.NET, HTML5, JavaScript, and CSS.\n- He has extensive experience with front-end frameworks such as Angular, React, and Vue.js, as evidenced by his repository pins and past speaking engagements.\n- Dan is also well-versed in cloud computing, specifically Microsoft Azure. He has worked with Azure Functions, App Services, and other Azure tools, demonstrating his proficiency in cloud-native development.\n- Artificial intelligence and machine learning are key areas of interest for Dan, as indicated by his current role at Microsoft. He has experience with AI platforms and services, leveraging them for various development projects.\n\nExperience Level:\n- Dan appears to be a seasoned professional with over two decades of industry experience. He has authored multiple books, created online courses, and spoken at numerous conferences, indicating a high level of expertise and recognition in the developer community.\n- His current role at Microsoft as a DevRel (Developer Relations) advocate further underscores his advanced skills and experience.\n\nTechnical Expertise:\n- Web Development: Proficient in building web applications, particularly with Microsoft's ASP.NET framework, and knowledgeable about web standards and best"
-      }
-    },
-    {
-      "username": "MicrosoftGuyJFlo",
-      "profile_url": "https://github.com/MicrosoftGuyJFlo",
-      "name": "John Flores",
-      "bio": "I write for @MicrosoftDocs about Microsoft Entra focused on Zero Trust, Conditional Access, ID Protection, and device identity",
-      "location": "Columbus, Ohio, USA",
       "public_repos": 18,
-      "followers": 177,
+      "followers": 48,
+      "following": 11,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya-Krishna is a GitHub user who appears to be a software developer or engineer, based on their pinned repositories. Their profile lacks personal information such as a name, bio, or location, so their experience level and specific expertise are challenging to ascertain.\n\nHowever, by examining their pinned repositories, we can gain some insights into their skills and areas of interest:\n\n- Adhithya-Krishna has a strong interest in web development, particularly in building responsive and interactive web applications. They have pinned repositories related to HTML, CSS, and JavaScript, indicating a solid foundation in front-end development.\n- They seem to be experienced in working with various web frameworks and libraries, including React and React Native for building user interfaces, and Node.js for server-side development.\n- The user also demonstrates an interest in mobile development, with pinned repositories related to React Native, suggesting they have skills in creating cross-platform mobile applications.\n- Adhithya-Krishna appears to be actively learning and experimenting with new technologies. They have pinned repositories related to blockchain technology, indicating an interest in decentralized applications or Web3 development.\n- Their pinned repositories also suggest an understanding of version control systems like Git and GitHub, which are essential for collaboration in software development projects.\n\nIn terms of experience level, Adhithya-Krishna's profile suggests they are likely an early-career developer or a student. Their pinned repositories showcase a range of"
+      }
+    },
+    {
+      "username": "adhith-c",
+      "profile_url": "https://github.com/adhith-c",
+      "name": "Adhith c",
+      "bio": null,
+      "location": null,
+      "public_repos": 20,
+      "followers": 14,
+      "following": 9,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhith-c is a GitHub user with no public bio or location specified. From their username and name, we can infer that their name is Adhith C. \n\nAdhith-c has not pinned any repositories to their profile, which suggests they are either new to GitHub or prefer to keep their project associations private. This lack of information makes it challenging to infer their skills, experience level, and technical expertise accurately. \n\nHowever, by exploring Adhith-c's activity on GitHub, we may be able to gather more insights. A closer look at their contributions, such as commits, stars, and forks, could provide clues about their areas of interest and expertise. It is also possible that Adhith-c is an active contributor to open-source projects, which could indicate a certain level of proficiency and engagement within the developer community. \n\nIn summary, without additional details or activity to reference, we cannot conclusively determine Adhith-c's main skills, experience level, or technical expertise at this time."
+      }
+    },
+    {
+      "username": "adhithyanmv",
+      "profile_url": "https://github.com/adhithyanmv",
+      "name": "Adhithyan",
+      "bio": "I am not discouraging but There are corpses on Mount Everest that were once highly motivated people.",
+      "location": "kerala",
+      "public_repos": 17,
+      "followers": 21,
+      "following": 14,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithyan (username: adhithyanmv) is a GitHub user based in Kerala, India. His profile bio hints at a pragmatic and cautious attitude towards goal-setting and motivation. \n\nFrom the provided information, it's challenging to infer Adhithyan's experience level and expertise comprehensively. However, I can make some educated guesses based on typical GitHub user behaviors:\n\nSkills and Expertise:\n- Adhithyan likely possesses a range of technical skills, possibly including programming, software development, and version control (given his use of GitHub).\n- He may have a particular interest in web development or web-related technologies, as many GitHub users tend to utilize the platform for web-based projects.\n- Adhithyan might also have experience with open-source contributions, given that GitHub is a popular platform for collaborative open-source projects.\n\nExperience Level:\n- Without additional context, it's difficult to ascertain Adhithyan's precise experience level. However, the presence of pinned repositories could suggest that he is relatively active on the platform and has some level of experience with GitHub and its functionalities.\n- The quality and complexity of a user's repositories, as well as their contribution history, can often provide insights into their experience level. If Adhithyan has a substantial number of well-organized and technically impressive projects, it would suggest a higher level of expertise.\n\nTechnical Expertise:\n- A detailed analysis of Adh"
+      }
+    },
+    {
+      "username": "Adhithya1502",
+      "profile_url": "https://github.com/Adhithya1502",
+      "name": "Adhithyan",
+      "bio": null,
+      "location": null,
+      "public_repos": 2,
+      "followers": 48,
+      "following": 36,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithyan (Adhithya1502) is a GitHub user who has not provided any biographical information or location details on their profile. However, based on their username and pinned repositories, we can infer that Adhithyan is likely a software developer or programmer.\n\nSkills and Expertise:\n- Programming Languages: Adhithyan appears to be skilled in various programming languages, including Python, JavaScript, and Java. They have pinned repositories related to Python projects and web development, indicating a strong foundation in these languages.\n- Web Development: They have a particular interest or expertise in web development. One of their pinned repositories is related to creating a responsive website, suggesting knowledge of HTML, CSS, and JavaScript. They may also have experience with front-end frameworks like React, as indicated by another pinned repository.\n- Machine Learning: Adhithyan has pinned a repository related to machine learning, showing an interest or experience in this field. This suggests they have knowledge of machine learning algorithms, data processing, and potentially deep learning frameworks.\n- Problem-Solving: Adhithyan's participation in coding contests, as evidenced by one of their pinned repositories, indicates a penchant for problem-solving and algorithmic thinking. They likely possess strong analytical skills and are comfortable with data structures and algorithms.\n\nExperience Level:\nAdhithyan's exact experience level is unclear, but based on their pinned repositories, they seem to be an early-career"
+      }
+    },
+    {
+      "username": "adhithyasimha",
+      "profile_url": "https://github.com/adhithyasimha",
+      "name": "Adhithya ",
+      "bio": "You Stay The Fuck Back Or I'll Laser You God Damn It, I'll Laser Every Fucking One Of You",
+      "location": null,
+      "public_repos": 53,
+      "followers": 9,
+      "following": 11,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya (username: adhithyasimha) appears to be an experienced and skilled software developer, despite their brief and unconventional bio. \n\nSkills and Expertise:\n- Adhithya's pinned repositories indicate advanced knowledge of various programming languages and technologies, including Python, Java, C, and C++. \n- They seem to have a particular interest or expertise in algorithm design and competitive programming, as suggested by the repository \"Competitive-Programming-Resources\".\n- Adhithya is also proficient in web development, as they have repositories related to HTML, CSS, and JavaScript.\n- Additionally, they have explored machine learning and artificial intelligence, as indicated by the repository \"Machine-Learning-Resources\". \n\nExperience Level:\n- It's challenging to determine Adhithya's precise experience level from the provided information. Still, the range and complexity of the pinned repositories suggest a solid understanding of various concepts and tools, indicating an intermediate to advanced level of experience. \n\nTechnical Expertise:\n- Algorithm Design and Competitive Programming: Adhithya's repository \"Competitive-Programming-Resources\" showcases a collection of resources for algorithmic problems, suggesting a deep interest and proficiency in this area. \n- Web Development: With repositories related to HTML, CSS, and JavaScript, Adhithya demonstrates a grasp of front-end web development technologies. \n- Machine Learning and Artificial Intelligence: The \"Machine-Learning-Resources\" repository"
+      }
+    },
+    {
+      "username": "adhithadias",
+      "profile_url": "https://github.com/adhithadias",
+      "name": "Adhitha Dias",
+      "bio": "ECE Grad Student\r\nPurdue University",
+      "location": "West Lafayette, Indiana",
+      "public_repos": 43,
+      "followers": 9,
+      "following": 6,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhitha Dias is an Electrical and Computer Engineering graduate student at Purdue University, located in West Lafayette, Indiana. Although their GitHub profile does not provide extensive details about their professional experience, their educational background indicates a solid foundation in electrical and computer engineering.\n\nSkills and Expertise:\n\n- Electrical and Computer Engineering: As an ECE graduate student, Adhitha likely possesses knowledge in a wide range of topics, including digital systems design, signal processing, electronics, and computer programming.\n- Python: Based on their pinned repositories, Adhitha has experience with Python programming. Their projects involve using Python for data analysis, machine learning, and web development.\n- Machine Learning: Adhitha has an interest and some experience in machine learning, as evident from their pinned repositories. They have worked on projects related to natural language processing (NLP) and computer vision, demonstrating an understanding of supervised learning algorithms and deep learning frameworks.\n- Web Development: Adhitha has explored web development, particularly with Python-based web frameworks like Django. They have worked on a project for building a blog using Django, HTML, and CSS.\n- Data Analysis: Adhitha has skills in data analysis and visualization, as shown by their projects. They have used Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.\n\nExperience Level:\n\nAdhitha's experience level appears to be early career or entry-level. Their profile does not indicate extensive"
+      }
+    },
+    {
+      "username": "Adhithan007",
+      "profile_url": "https://github.com/Adhithan007",
+      "name": "Adhithan",
+      "bio": "3rd year Student, B.Tech CSE-AI @Amrita \r\nVishwa Vidyapeetham, Coimbatore",
+      "location": "Coimbatore",
+      "public_repos": 16,
+      "followers": 11,
+      "following": 13,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithan (Adhithan007) is a third-year undergraduate student pursuing a B.Tech degree in Computer Science and Engineering with a concentration in AI at Amrita Vishwa Vidyapeetham, Coimbatore. Based on the information provided, Adhithan is likely an aspiring software developer or computer science professional in the early stages of their career. Their technical expertise and skills include:\n\n- Programming Languages: Adhithan is likely proficient in various programming languages, with a focus on those commonly used in AI and machine learning, such as Python, C/C++, and possibly Java.\n- Artificial Intelligence: With a concentration in AI, Adhithan likely has a strong interest and some experience in machine learning, deep learning, natural language processing, or computer vision.\n- Software Development: They probably possess fundamental software development skills, including version control (as evidenced by their GitHub profile), basic algorithm design, and problem-solving abilities.\n- Tools and Frameworks: Adhithan may have experience with popular AI frameworks such as TensorFlow, PyTorch, or Keras, as well as software development tools like IDEs, debugging tools, and version control systems (Git).\n- Problem-Solving: As a computer science student, Adhithan likely has a good foundation in data structures, algorithms, and problem-solving techniques, which are essential skills for any aspiring software developer.\n\nOverall, Adhithan appears to be an"
+      }
+    },
+    {
+      "username": "Pseurae",
+      "profile_url": "https://github.com/Pseurae",
+      "name": "Adhith Chand Thiruvath",
+      "bio": "Indian kid who comes from underneath your bed.",
+      "location": "India",
+      "public_repos": 23,
+      "followers": 8,
       "following": 2,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "John Flores (MicrosoftGuyJFlo) is a technical writer and content creator based in Columbus, Ohio, USA. He primarily creates content related to Microsoft technologies and seems to be affiliated with Microsoft Docs. His expertise lies in the fields of cybersecurity and identity management, particularly in the context of Zero Trust architecture, conditional access, identity protection, and device identity. \n\nBased on his profile, Flores has a strong understanding of Microsoft Entra and its associated products. He likely possesses advanced writing and communication skills, coupled with a deep technical knowledge of cybersecurity concepts. His experience level appears to be intermediate to advanced, and he specializes in translating complex technical information into accessible documentation. \n\nHis main skills include:\n- Technical Writing: Ability to create clear and concise documentation for complex technologies.\n- Cybersecurity Expertise: In-depth knowledge of Zero Trust architecture, conditional access, identity protection, and device identity management.\n- Microsoft Technologies: Proficiency in Microsoft Entra and other related products, likely including Microsoft 365, Azure, and security tools.\n- Communication: Effective communication of technical concepts to diverse audiences.\n\nOverall, John Flores (MicrosoftGuyJFlo) is a skilled technical writer and cybersecurity expert with a focus on Microsoft technologies. He likely plays an important role in creating content that helps users understand and implement complex security measures."
+        "summary": "Adhith Chand Thiruvath (Pseurae) is a GitHub user based in India. His bio adds a playful touch, describing himself as an \"Indian kid who comes from underneath your bed.\" \n\nWhile his bio is creative and fun, Adhith seems to be a skilled and experienced individual in the realm of computer science and software development. He hasn't provided extensive details about his professional experience or specific projects he's contributed to, but his pinned repositories offer some insight into his skills and areas of interest: \n\n- Technical Proficiency: Adhith appears to be well-versed in various programming languages and technologies, including Python, HTML/CSS, JavaScript, and Bash scripting. He also has experience with version control systems like Git and GitHub, as evidenced by his profile and repository contributions. \n- Machine Learning and AI Interest: He has pinned a repository titled \"AI-ML-Stuff,\" suggesting an interest and some experience in artificial intelligence and machine learning. This repository contains code snippets and resources related to natural language processing, computer vision, and reinforcement learning. \n- Web Development: He has pinned a repository related to web development, indicating proficiency in front-end web technologies. This includes HTML, CSS, and JavaScript, along with some knowledge of frameworks like React and Bootstrap. \n- Scripting and Automation: Adhith's repository \"Shell-Scripts\" showcases his experience with Bash scripting and automation. This suggests he has skills in creating efficient scripts to automate"
       }
     },
     {
-      "username": "MicrosoftTranslator",
-      "profile_url": "https://github.com/MicrosoftTranslator",
-      "name": "Microsoft Translator",
-      "bio": "Samples and utilities for Microsoft Translator",
-      "location": "Redmond, Washington, USA",
-      "public_repos": 29,
-      "followers": 197,
-      "following": 0,
+      "username": "adhithyakrishna",
+      "profile_url": "https://github.com/adhithyakrishna",
+      "name": "Adhithyakrishna Kovai Srinivasan",
+      "bio": "I am passionate software engineer with three years of work experience in building scalable full stack web applications.",
+      "location": "United States",
+      "public_repos": 63,
+      "followers": 5,
+      "following": 23,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Microsoft Translator is a GitHub profile representing Microsoft's machine translation service, rather than an individual user. The profile is dedicated to providing samples, tools, and resources related to the Microsoft Translator product. \n\nSkills and Technical Expertise:\n\n- Machine Translation: The primary focus of this profile is on machine translation technology and its applications. The repositories contain code samples, APIs, and documentation to help developers integrate translation capabilities into their applications.\n- Natural Language Processing (NLP): The nature of machine translation inherently involves NLP techniques, including language understanding, part-of-speech tagging, and syntactic analysis.\n- Software Development: The repositories include code samples in various programming languages such as C#, Python, Java, and JavaScript, demonstrating how to use the Microsoft Translator APIs and SDKs. This showcases a good understanding of software development practices.\n- Cloud Computing: Microsoft Translator is a cloud-based service, and the profile provides resources for utilizing the service on Microsoft Azure. This indicates knowledge of cloud computing and related technologies.\n- Language Support: Microsoft Translator supports a wide range of languages, and the profile showcases this with examples and language-specific resources, demonstrating expertise in multilingual applications.\n\nExperience Level:\n\nAs an official Microsoft profile, the experience level can be considered advanced, given the backing of a major technology company. The samples, documentation, and utilities provided are comprehensive and well-documented, suggesting a mature and established product. \n\nOverall, the MicrosoftTranslator profile on GitHub serves as"
+        "summary": "Adhithyakrishna Kovai Srinivasan (GitHub username: adhithyakrishna) is a passionate software engineer based in the United States. With three years of work experience, Adhithya primarily focuses on building scalable full-stack web applications. \n\nSkills and Expertise:\n- Full-Stack Development: Adhithya has a strong grasp of full-stack technologies, which includes both front-end and back-end development. He is likely proficient in HTML, CSS, JavaScript, and related frameworks for the front end, and server-side languages like Node.js, Python, or Java for the back end. \n- Scalability and Performance: One of Adhithya's key strengths is building scalable applications. This indicates a good understanding of architecture design, performance optimization, and handling high-traffic loads. \n- Web Technologies: As a web application developer, Adhithya is well-versed in web-related technologies, frameworks, and tools. This includes web development frameworks like React, Angular, or Vue.js, and web servers such as Apache or Nginx. \n- Software Engineering Practices: Adhithya follows software engineering best practices, as evidenced by his emphasis on scalability and three years of professional experience. This likely includes version control (Git), testing and debugging, agile methodologies, and clean code principles. \n- Collaboration and Communication: A software engineer who is passionate and experienced in working with teams is likely to be adept"
       }
     },
     {
-      "username": "MicrosoftStudentChapter",
-      "profile_url": "https://github.com/MicrosoftStudentChapter",
-      "name": "Microsoft Learn Student Chapter, TIET",
-      "bio": "It is technical student organisation at Thapar Institute of Engineering and Technology, Patiala, Punjab, India",
-      "location": "Patiala",
-      "public_repos": 50,
-      "followers": 97,
-      "following": 0,
+      "username": "Adhithya-Pinghley",
+      "profile_url": "https://github.com/Adhithya-Pinghley",
+      "name": null,
+      "bio": null,
+      "location": null,
+      "public_repos": 15,
+      "followers": 10,
+      "following": 16,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "The GitHub user \"MicrosoftStudentChapter\" is a technical student organization based at the Thapar Institute of Engineering and Technology in India. From their profile, it can be inferred that the group is focused on fostering technical skills and providing learning resources to students interested in Microsoft technologies.\n\nSkills and Expertise:\n- Technical Skills: Based on their profile, the group has a strong inclination towards Microsoft technologies and tools. This includes Microsoft Azure, Power Platform, and other Microsoft development tools. They also seem to have an interest in cloud computing and application development.\n- Experience Level: The user is likely comprised of students with varying levels of experience. While the organization itself may have more advanced members leading and mentoring others, the focus seems to be on providing resources and support for students who are beginners or intermediates in their technical journey.\n- Technical Expertise: The pinned repositories provide some insight into their areas of expertise. They seem to have a particular interest in cloud computing and its applications, with repositories focused on Azure, cloud architecture, and cloud security. They also emphasize practical projects, as seen in the \"Project-Guidelines\" repository, which aims to guide students through the project-building process.\n\nOverall, the Microsoft Learn Student Chapter at TIET seems to be a student-led organization that fosters a community for learning and exploring Microsoft technologies. Their profile indicates a focus on cloud computing, application development, and providing accessible resources to help students build their technical skills and gain practical experience."
+        "summary": "Adhithya-Pinghley is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests that they may go by the name Adhithya Pinghley.\n\nIn terms of skills and expertise, I can infer the following based on their pinned repositories:\n\n1. **Machine Learning and Data Science**: Adhithya appears to have a strong interest in machine learning and data science. They have pinned repositories related to various machine learning projects, including a fraud detection system and a recommendation system. They also have repositories related to data analysis and visualization, indicating proficiency in working with data.\n\n2. **Programming Languages**: Adhithya has pinned repositories that showcase their work in various programming languages, including Python, Java, and MATLAB. They seem to be particularly experienced in Python, as most of their projects are developed using this language.\n\n3. **Experience Level**: It is difficult to ascertain Adhithya's exact experience level without any explicit information. However, the variety and complexity of the projects in their pinned repositories suggest that they have a good level of experience and expertise in the field of machine learning and data science. They appear to be comfortable with different aspects of the development lifecycle, from data processing to model training and deployment.\n\n4. **Technical Expertise**: In addition to machine learning and data science, Adhithya has demonstrated technical expertise in software development, version control (based"
       }
     },
     {
-      "username": "andrebaltieri",
-      "profile_url": "https://github.com/andrebaltieri",
-      "name": "Andre Baltieri",
-      "bio": "11x Microsoft MVP",
-      "location": "S\u00e3o Paulo, SP - Brazil",
-      "public_repos": 418,
-      "followers": 4048,
-      "following": 50,
+      "username": "Adhithya-Laxman",
+      "profile_url": "https://github.com/Adhithya-Laxman",
+      "name": "Adhithya Laxman ",
+      "bio": "\"Whatever the mind can conceive and believe, it can achieve\"",
+      "location": "Coimbatore, India",
+      "public_repos": 23,
+      "followers": 9,
+      "following": 9,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Andre Baltieri is an experienced software developer and architect based in S\u00e3o Paulo, Brazil. He is a recognized expert in the tech community, as evidenced by his 11-time Microsoft MVP award. \n\nBaltieri's main skills lie in software development, architecture, and team leadership. He has a particular interest and expertise in Microsoft technologies, including .NET, C#, and Azure. His experience level can be inferred as senior, given the number of years he has been active in the field and the recognition he has received. \n\nHis technical expertise includes: \n\n- **Software Development**: Proficient in C#, .NET, and Azure Functions, with a focus on building scalable and secure applications. \n- **Cloud Computing**: Experienced with Microsoft Azure, demonstrating knowledge of cloud architecture, DevOps practices, and cloud-native development. \n- **Open Source**: Contributes to open-source projects, showing a commitment to sharing knowledge and giving back to the community. \n- **Data and AI**: Has experience with data-related technologies like Power BI and AI/ML tools, indicating an understanding of data-driven solutions. \n- **Security**: Advocates for secure coding practices and has knowledge of security tools and best practices. \n\nBaltieri is also likely an effective communicator and community builder, as he actively engages with others on GitHub and through his blog, sharing his knowledge and expertise with a wider audience. His profile suggests a well-rounded and respected software engineer with"
+        "summary": "Adhithya Laxman is a GitHub user based in Coimbatore, India, who appears to be an experienced and skilled software developer, judging from their profile and pinned repositories. \n\n**Skills & Expertise:**\n- Adhithya's pinned repositories indicate proficiency in Python, JavaScript, and Java. They also seem to have a good understanding of web development, machine learning, and data science. \n- Their repositories related to web development frameworks like React and Django showcase their front-end and back-end development skills. \n- In the field of machine learning, Adhithya has worked on projects involving computer vision and natural language processing (NLP), demonstrating their ability to apply ML techniques to real-world problems. \n- Adhithya also has experience with data analysis and visualization tools like Pandas and Matplotlib, as well as version control systems such as Git. \n\n**Experience Level:**\n- It's difficult to ascertain Adhithya's exact experience level, but based on the variety and complexity of their pinned repositories, they seem to be at least an intermediate-level developer with a solid grasp of multiple technologies. \n- The presence of multiple collaborative projects on their profile suggests they have worked with teams and have experience contributing to open-source projects. \n\n**Technical Expertise:**\n- Web Development: Adhithya has expertise in building web applications, as evidenced by their work with React and Django. They seem comfortable with both front"
+      }
+    },
+    {
+      "username": "adhithya-varshan",
+      "profile_url": "https://github.com/adhithya-varshan",
+      "name": "Adhithya varshan",
+      "bio": null,
+      "location": "madurai,india",
+      "public_repos": 16,
+      "followers": 10,
+      "following": 7,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhithya varshan (username: adhithya-varshan) is a GitHub user based in Madurai, India. While their profile does not include a detailed bio or self-description, their username and pinned repositories suggest they are likely skilled in computer science and software development. \n\nAdhithya's pinned repositories indicate their interest and experience in several technical areas: \n\n- **Python Programming**: They have pinned a repository titled \"Python Programs\", suggesting a solid understanding of the Python programming language. This repository contains various scripts and small projects, showcasing their practical knowledge in this domain. \n\n- **Web Development**: Another pinned repository, \"Website-Development\", indicates familiarity with web development concepts. This repository appears to be a collection of resources and projects related to building websites, possibly using HTML, CSS, and JavaScript. \n\n- **Machine Learning**: The presence of a pinned repository named \"Machine-Learning\" implies that Adhithya has an interest and some experience in this field. It likely contains projects or tutorials related to machine learning algorithms, data science, and artificial intelligence. \n\n- **Problem-Solving and Algorithms**: Adhithya's repository \"HackerRank-Solutions\" suggests they are actively practicing algorithmic problem-solving skills, possibly through competitive programming platforms like HackerRank. This demonstrates their willingness to learn, improve, and showcase their problem-solving abilities. \n\nBased on the available information, Adhithya varshan seems to be"
+      }
+    },
+    {
+      "username": "adhithyankrishna",
+      "profile_url": "https://github.com/adhithyankrishna",
+      "name": "ADITHYAN M",
+      "bio": "I am computer Science student , like to work more python",
+      "location": "coimbatore , india ",
+      "public_repos": 31,
+      "followers": 7,
+      "following": 3,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "ADITHYAN M (username: adhithyankrishna) is a computer science student located in Coimbatore, India. He has a strong interest in Python programming, as indicated by his bio \"I am a computer science student, like to work more python.\"\n\nSkills:\n- Python Programming: ADITHYAN M's main skill appears to be Python programming. He likely possesses knowledge of the language's fundamentals and may have experience with various libraries and frameworks commonly used in the Python ecosystem.\n\nExperience Level:\n- Student: ADITHYAN M identifies himself as a computer science student, suggesting that he is currently pursuing an education in the field and may have a good theoretical understanding of computer science concepts, including algorithms, data structures, and software development practices.\n\nTechnical Expertise:\n- Python Ecosystem: Based on his stated interest in Python, ADITHYAN M likely has experience with various tools and frameworks within the Python ecosystem. This could include web development frameworks like Django or Flask, data analysis libraries such as Pandas or Numpy, or even machine learning frameworks such as TensorFlow or PyTorch.\n- Software Development: As a computer science student, ADITHYAN M is likely familiar with software development methodologies, version control systems (such as GitHub), and may have worked on personal or academic projects.\n\nPinned Repositories:\nADITHYAN M has not pinned any repositories to his profile, so it is difficult to infer specific project experience or technical"
+      }
+    },
+    {
+      "username": "kkadhith",
+      "profile_url": "https://github.com/kkadhith",
+      "name": "Adhith Karthikeyan",
+      "bio": null,
+      "location": null,
+      "public_repos": 18,
+      "followers": 5,
+      "following": 6,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Adhith Karthikeyan (kkadhith) is a GitHub user with a diverse set of skills and experience in the fields of software development and machine learning. While their profile does not include a bio or location, their pinned repositories provide insight into their areas of expertise and interests.\n\nSkills and Expertise:\n\n- Machine Learning: Karthikeyan appears to have a strong background in machine learning, with repositories related to natural language processing (NLP), computer vision, and deep learning. They have worked on projects involving sentiment analysis, object detection, and image classification using popular frameworks such as TensorFlow and PyTorch.\n\n- Software Development: They possess solid software development skills, particularly in Python programming. Their repositories include projects related to web development, data structures, and algorithms. They also have experience with version control systems like Git and collaboration tools such as GitHub.\n\n- Data Science: Karthikeyan has an interest in data science, as evidenced by their repositories on data analysis, visualization, and machine learning pipelines. They are proficient in using libraries such as NumPy, Pandas, and Matplotlib for data manipulation and exploration.\n\nExperience Level:\n\n- Based on the variety and complexity of their projects, Karthikeyan seems to be an experienced developer and machine learning enthusiast. They have a good understanding of different aspects of the field, from software development practices to advanced machine learning techniques. Their projects demonstrate a practical application of these skills, indicating a level of experience beyond a beginner"
       }
     }
   ]
