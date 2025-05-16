@@ -126,15 +126,21 @@ By default, this runs at:
 
 ```bash
 github_insight_service/
-├── app.py                  # Main Flask app
-├── ai_processor.py         # AI summarization logic
-├── config.py               # Constants (e.g., API keys, base URLs)
-├── github_scraper.py       # GitHub scraping logic
-├── data.json               # Cached data file
-├── requirements.txt
+├──README.md                       # Project overview
+├── app.py                           # Main Flask app with logging & routes
+├── requirements.txt                 # Python dependencies
+├── Dockerfile                       # Docker build file for the Flask app
+├── docker-compose.yml              # Compose file to run app + optional DB
+├── logs/
+│   └── app.log                      # Request/response logs (auto-created)
+├── github_scraper.py               # Your GitHub scraping logic
+├── ai_processor.py                 # AI/LLM-based summarization
+├── storage.py                      # Data storage logic (DB or JSON)
 ├── templates/
-│   └── results.html        # Jinja2 HTML template
-├── __pycache__/            # Compiled Python files
+│   └── results.html                # Renders enriched GitHub user insights
+└── swagger/
+    └── swagger.yaml                # Swagger/OpenAPI spec file
+
 ```
 
 ---
