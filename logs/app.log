@@ -1,0 +1,620 @@
+2025-05-16 09:51:48,392 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-16 09:51:48,392 - [33mPress CTRL+C to quit[0m
+2025-05-16 09:51:48,402 -  * Restarting with watchdog (inotify)
+2025-05-16 09:51:49,435 -  * Debugger is active!
+2025-05-16 09:51:49,443 -  * Debugger PIN: 950-730-442
+2025-05-16 09:55:18,357 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-16 09:55:18,357 - [33mPress CTRL+C to quit[0m
+2025-05-16 09:55:18,363 -  * Restarting with watchdog (inotify)
+2025-05-16 09:55:20,145 -  * Debugger is active!
+2025-05-16 09:55:20,145 -  * Debugger PIN: 950-730-442
+2025-05-16 09:55:29,798 - REQUEST - GET http://127.0.0.1:5000/ | BODY: 
+2025-05-16 09:55:29,800 - RESPONSE - GET http://127.0.0.1:5000/ | STATUS: 404 | TIME: 0.002426s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-16 09:55:29,801 - 127.0.0.1 - - [16/May/2025 09:55:29] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-16 09:55:29,996 - REQUEST - GET http://127.0.0.1:5000/favicon.ico | BODY: 
+2025-05-16 09:55:29,997 - RESPONSE - GET http://127.0.0.1:5000/favicon.ico | STATUS: 404 | TIME: 0.001025s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-16 09:55:29,997 - 127.0.0.1 - - [16/May/2025 09:55:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 09:55:39,734 - REQUEST - GET http://127.0.0.1:5000/scrape?q=Microsoft | BODY: 
+2025-05-16 09:56:02,643 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:56:10,975 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:56:21,688 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:56:27,744 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:56:36,128 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:56:42,322 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:56:48,795 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:56:54,967 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:00,743 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:03,346 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:09,202 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:13,453 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:19,415 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:24,943 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:31,531 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:37,678 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:45,243 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:51,210 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:57:56,962 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:58:12,470 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-16 09:58:12,497 - RESPONSE - GET http://127.0.0.1:5000/scrape?q=Microsoft | STATUS: 200 | TIME: 152.762811s | BODY: <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub User Insights</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      padding: 2rem;
+    }
+    .user-card {
+      background: #fff;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    .field {
+      margin: 0.3rem 0;
+    }
+    .label {
+      font-weight: bold;
+    }
+    .profile-url {
+      color: #007bff;
+      text-decoration: none;
+    }
+    .summary {
+      margin-top: 1rem;
+      white-space: pre-wrap;
+    }
+    .error {
+      color: red;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>GitHub User Insights</h1>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> microsoft</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft</div>
+      <div class="field"><span class="label">Bio:</span> Open source projects and samples from Microsoft</div>
+      <div class="field"><span class="label">Location:</span> Redmond, WA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/microsoft" target="_blank">https://github.com/microsoft</a>
+      </div>
+
+      
+        <div class="summary">Microsoft&#39;s GitHub profile showcases the company&#39;s commitment to open-source software development and collaboration with the developer community. With a focus on sharing projects and samples, Microsoft&#39;s profile highlights its contributions and engagement with open-source technologies.
+
+Skills:
+- Microsoft&#39;s GitHub activities demonstrate a wide range of technical skills covering various programming languages, frameworks, and tools. They have expertise in C#, Python, TypeScript, C++, and PowerShell, indicating a strong presence in both the Windows and open-source ecosystems.
+- The company has extensive experience in cloud computing, with a particular emphasis on Azure, their cloud computing platform. Many of their projects relate to Azure services, showing proficiency in cloud infrastructure, machine learning, DevOps, and more.
+- Microsoft also showcases proficiency in web development, with projects related to JavaScript frameworks like React and Angular, as well as front-end tools such as TypeScript and CSS.
+- They have a strong background in software development tools and practices, including version control (Git), containers (Docker), and build systems.
+
+Experience Level:
+- Microsoft is a well-established technology company with decades of industry experience. Their GitHub profile reflects this, showcasing a vast array of projects covering different technologies, indicating a high level of expertise and a diverse range of skills.
+- The variety and complexity of the projects they have contributed to suggest a mix of senior and junior developers, with a strong emphasis on collaboration and community engagement.
+
+Technical Expertise:
+- Cloud</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftLearning</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Learning</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftLearning" target="_blank">https://github.com/MicrosoftLearning</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Learning is a GitHub user associated with Microsoft&#39;s official training and certification division. While the profile lacks a detailed bio or location information, their pinned repositories offer insight into their primary focus and expertise.
+
+Main Skills and Technical Expertise:
+
+- **Microsoft Azure**: Microsoft Learning has numerous repositories related to Microsoft Azure, indicating a strong focus on this cloud computing platform. They offer training materials, tutorials, and hands-on labs covering various Azure services, including Azure AI, Azure DevOps, Azure Security, and Azure Architecture.
+
+- **Microsoft 365**: They also provide resources for Microsoft 365, demonstrating expertise in this suite of productivity tools. The pinned repositories cover topics such as Microsoft Teams development, SharePoint Framework, and Microsoft Graph API.
+
+- **Power Platform**: Microsoft Learning offers training content on Microsoft Power Platform, which includes Power BI, Power Apps, and Power Automate. This showcases their proficiency in low-code/no-code solutions and business analytics.
+
+- **Data Science and AI**: With repositories dedicated to data science, machine learning, and artificial intelligence, Microsoft Learning displays a solid understanding of these emerging technologies. They provide tutorials and hands-on exercises on topics like Python for data science, Azure Machine Learning, and cognitive services.
+
+- **Software Development**: While not the primary focus, Microsoft Learning also touches on software development practices. They offer guidance on DevOps, Agile practices, and secure coding principles.
+
+Experience Level</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftDocs</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Docs</div>
+      <div class="field"><span class="label">Bio:</span> The modern documentation service for Microsoft</div>
+      <div class="field"><span class="label">Location:</span> Redmond, WA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftDocs" target="_blank">https://github.com/MicrosoftDocs</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Docs is a GitHub user representing Microsoft&#39;s modern documentation service. Based in Redmond, WA, this account is likely managed by a team of documentation specialists within Microsoft. 
+
+Skills: 
+- Technical Writing: The team&#39;s primary skill is technical writing and documentation. They are responsible for creating clear, concise, and accessible documentation for Microsoft&#39;s diverse range of products and services. 
+- Content Creation: In addition to traditional documentation, Microsoft Docs also creates tutorials, how-to guides, and other content to help users understand and utilize Microsoft products effectively. 
+- Software Documentation: The team has extensive experience documenting complex software systems, including Microsoft&#39;s operating systems, productivity suites, cloud services, and developer tools. 
+
+Experience: 
+- Industry Veterans: Given their role as Microsoft&#39;s official documentation service, the team behind Microsoft Docs likely comprises experienced technical writers and content developers. They collaborate with Microsoft&#39;s engineering and product teams to ensure accurate and up-to-date documentation. 
+- Diverse Technology Stack: Microsoft Docs has expertise in a wide range of Microsoft technologies, including Windows, Office, Azure, Visual Studio, and more. They provide comprehensive documentation for developers, IT professionals, and end-users across Microsoft&#39;s entire ecosystem. 
+
+Technical Expertise: 
+- Microsoft Technologies: Proficiency in a broad range of Microsoft technologies is evident. This includes operating systems (Windows), productivity software (Office 365), cloud computing (Azure), development tools (Visual Studio</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Azure</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Azure</div>
+      <div class="field"><span class="label">Bio:</span> APIs, SDKs and open source projects from Microsoft Azure</div>
+      <div class="field"><span class="label">Location:</span> United States of America</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Azure" target="_blank">https://github.com/Azure</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Azure, or simply &#34;Azure,&#34; is the cloud computing platform and online repository of Microsoft, a well-known technology corporation based in the United States. According to their bio, Azure&#39;s main focus is on providing APIs (Application Programming Interfaces), SDKs (Software Development Kits), and contributing to open-source projects. 
+
+Skills and Expertise:
+- Cloud Computing: Azure is a leader in cloud services, offering a wide range of products and services for developers and businesses, including virtual machines, storage, networking, and analytics. 
+- APIs and SDKs: They specialize in creating and providing APIs and SDKs to enable developers to interact with Azure services and integrate them into their applications. 
+- Open Source: Azure actively contributes to and supports open-source projects. They recognize the importance of open-source software in the developer community and participate in projects across various programming languages and frameworks.
+- Software Development: Azure has extensive experience in software development, offering tools and services that cater to developers, including source code hosting, continuous integration/continuous deployment (CI/CD), and application lifecycle management.
+- Security and Compliance: With a focus on cloud security, Azure offers tools for identity management, data protection, and compliance, ensuring that their services meet industry standards and regulations.
+- Data and AI: Azure provides a range of data-related services, including databases, data analytics, machine learning, and AI, enabling developers to build intelligent and data-driven applications.
+
+Experience Level</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftEdge</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Edge</div>
+      <div class="field"><span class="label">Bio:</span> Microsoft Edge open source projects - demos, tools, data</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftEdge" target="_blank">https://github.com/MicrosoftEdge</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Edge is a GitHub user representing the open-source projects related to the Microsoft Edge web browser. From their profile, it can be inferred that they are highly skilled and experienced in web browser development and associated technologies.
+
+Skills and Expertise:
+
+- Web browser engineering: The user is deeply involved in building and improving the Microsoft Edge browser, which includes rendering engines, networking stacks, JavaScript engines, and more.
+- Open-source tools and demos: They showcase their expertise by providing open-source tools, demos, and data related to web development and browser functionality. This indicates a commitment to transparency and collaboration with the wider developer community.
+- JavaScript, HTML, and CSS: These are essential technologies for web browser development, and the user is likely proficient in all three, particularly JavaScript, given its central role in browser functionality.
+- Performance optimization: Many of their projects focus on improving web performance, indicating a strong understanding of optimizing web page rendering, networking, and overall browser performance.
+- Web standards and compatibility: The user is likely well-versed in web standards and ensuring browser compatibility, as evidenced by their contributions to web platform tests and participation in web standards communities.
+- Security and privacy: With a focus on browser security and privacy, the user demonstrates knowledge of secure coding practices, encryption, and protecting user data.
+- Collaboration and community engagement: Through their open-source projects and participation in web standards communities, Microsoft Edge showcases a collaborative approach to browser development</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Microsoft-corp</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft-Corporation</div>
+      <div class="field"><span class="label">Bio:</span> N/A</div>
+      <div class="field"><span class="label">Location:</span> Redmond, WA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Microsoft-corp" target="_blank">https://github.com/Microsoft-corp</a>
+      </div>
+
+      
+        <div class="summary">Microsoft-Corporation is a GitHub user representing Microsoft Corporation, a well-known technology company based in Redmond, Washington. While their GitHub profile bio is empty, their pinned repositories provide some insight into their contributions and areas of expertise. 
+
+### Main Skills and Technical Expertise:
+- **Azure and Cloud Computing**: Microsoft-corp has a strong focus on Azure, Microsoft&#39;s cloud computing platform. They have pinned multiple repositories related to Azure, including &#34;Azure-Samples&#34;, which contains code samples and documentation for various Azure services, and &#34;Azure/azure-sdk-for-net&#34;, which is the official SDK for .NET developers working with Azure. 
+- **Software Development**: They showcase a wide range of programming language proficiency, with repositories pinned for C#, Python, TypeScript, and PowerShell. The presence of repositories like &#34;microsoft-corporation/PowerShell-Docs&#34; suggests a focus on providing comprehensive documentation and samples for developers.
+- **Open Source Contributions**: Microsoft-corp actively contributes to open-source projects and promotes open-source culture. They have pinned repositories related to open-source initiatives, such as &#34;microsoft-corporation/PowerShell-Docs&#34;, which is a community repository for PowerShell documentation. 
+- **Security and Compliance**: With repositories like &#34;Azure/azure-sdk-for-net/security&#34;, which focuses on security in the Azure SDK for .NET, and &#34;Azure-Samples/azure-security-center&#34;, which provides code samples for Azure Security Center</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> microsoftarchive</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Archive</div>
+      <div class="field"><span class="label">Bio:</span> Archived repositories - for historical interest or community forking, READ ONLY</div>
+      <div class="field"><span class="label">Location:</span> Redmond, WA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/microsoftarchive" target="_blank">https://github.com/microsoftarchive</a>
+      </div>
+
+      
+        <div class="summary">The GitHub user &#34;microsoftarchive&#34; is a historical archive account managed by Microsoft to store and preserve outdated or obsolete code repositories that are no longer actively maintained by the company. The account is based in Redmond, WA, which is the headquarters of Microsoft.
+
+Skills and Expertise:
+
+- The user has a vast collection of archived repositories covering a wide range of Microsoft technologies, including operating systems, programming languages, software frameworks, and developer tools.
+- The archived projects showcase Microsoft&#39;s historical development practices, older versions of popular software, and discontinued projects.
+- The account demonstrates proficiency in various programming languages, such as C#, C++, Visual Basic, PowerShell, and web development languages like HTML, CSS, and JavaScript.
+- The repositories also cover a broad set of technologies, including Windows operating system internals, .NET Framework, Azure cloud services, Microsoft Office add-ins, and gaming platforms like Xbox.
+
+Experience Level:
+
+- The &#34;microsoftarchive&#34; account itself does not belong to an individual contributor, but it serves as a centralized repository of Microsoft&#39;s legacy code.
+- The archived projects reflect the collective experience and expertise of numerous Microsoft developers and engineers over the years.
+- The account showcases Microsoft&#39;s long-standing presence in the software industry and its evolution in terms of technology, design patterns, and development methodologies.
+
+Technical Expertise:
+
+- Operating Systems: Deep knowledge of Windows operating systems, including legacy versions like Windows XP, Vista,</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> microsoftgraph</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Graph</div>
+      <div class="field"><span class="label">Bio:</span> Unified endpoint for accessing data, relationships and insights coming from the Microsoft cloud</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/microsoftgraph" target="_blank">https://github.com/microsoftgraph</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Graph is a GitHub user that appears to be an official account representing the Microsoft Graph API. This user has a clear focus on the Microsoft ecosystem and its cloud services.
+
+Skills and Expertise:
+- Microsoft Graph API: This user is an expert in the Microsoft Graph API, which is a unified endpoint that provides access to data and services across the Microsoft 365 ecosystem, including Outlook, OneDrive, Microsoft Teams, and more. They likely have a deep understanding of the API&#39;s capabilities and how to leverage it to build applications and integrate with other systems.
+- Cloud Computing: With a focus on the Microsoft cloud, this user has extensive experience with cloud services and architectures. They understand how to utilize cloud platforms to store, access, and analyze data, and likely have skills in cloud security and scalability as well.
+- Data Access and Insights: Microsoft Graph emphasizes data access and insights in their bio. They are skilled in designing and implementing solutions that leverage data from various Microsoft cloud services, enabling developers to build applications with rich data integrations.
+- API Design and Documentation: Given their role in providing an API endpoint, Microsoft Graph likely has expertise in API design, documentation, and best practices. They may contribute to or maintain API specifications, SDKs, and documentation to facilitate developer adoption and usage.
+
+Experience Level:
+Microsoft Graph is likely a highly experienced user, given that it represents an official Microsoft project. The account may be managed by a team of developers and contributors,</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> Microsoft-OpenSource-Labs</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Open Source Labs</div>
+      <div class="field"><span class="label">Bio:</span> Open Source Labs, from Microsoft with Love ♥</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/Microsoft-OpenSource-Labs" target="_blank">https://github.com/Microsoft-OpenSource-Labs</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Open Source Labs is a team within Microsoft dedicated to open-source software development and collaboration. They aim to bridge the gap between Microsoft and the open-source community, fostering a more open and inclusive environment. With the motto &#34;from Microsoft with Love,&#34; they showcase their commitment to contributing to and supporting open-source projects.
+
+Skills and Expertise:
+
+- Open-Source Advocacy: The team&#39;s primary focus is on open-source software and its promotion within Microsoft and the broader development community. They advocate for open-source principles, collaboration, and community engagement.
+
+- Software Development: Microsoft Open Source Labs actively contributes to various open-source projects. Their GitHub profile showcases their involvement in projects related to cloud computing, machine learning, data science, and development tools.
+
+- Community Engagement: They emphasize community interaction and collaboration. Their GitHub profile highlights their participation in open-source events, meetups, and contributions to external open-source projects.
+
+- Technical Proficiency: The team possesses a diverse range of technical skills. Their pinned repositories and contributions demonstrate expertise in areas such as Azure (cloud computing), machine learning frameworks (ONNX, PyTorch), data science tools (Jupyter), and development platforms (VS Code).
+
+Experience Level:
+
+Microsoft Open Source Labs consists of experienced software engineers and open-source advocates. While individual team member profiles would provide more detailed experience levels, the organization&#39;s involvement in various projects and its commitment to open-source practices</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> microsoftopensource</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Open Source</div>
+      <div class="field"><span class="label">Bio:</span> This is the open source management service account used for performing key GitHub operations on behalf of Microsoft employees and users.</div>
+      <div class="field"><span class="label">Location:</span> Redmond, WA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/microsoftopensource" target="_blank">https://github.com/microsoftopensource</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Open Source is a GitHub account managed by Microsoft as an open source management service. Based in Redmond, WA, this account is used to facilitate and perform GitHub operations on behalf of Microsoft employees and users. While the profile does not provide individual skill assessments or experience levels, it indicates that the team managing this account possesses technical expertise in open source software development and has a strong understanding of GitHub as a platform. They are likely well-versed in Microsoft technologies and may have experience collaborating with open source communities. The account&#39;s primary focus is on open source management and contributing to Microsoft&#39;s presence in the open source domain.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> OfficeDev</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft 365 Developer</div>
+      <div class="field"><span class="label">Bio:</span> Developer tools, samples, and other resources for building solutions on the Microsoft 365 platform.</div>
+      <div class="field"><span class="label">Location:</span> Redmond, WA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/OfficeDev" target="_blank">https://github.com/OfficeDev</a>
+      </div>
+
+      
+        <div class="summary">Microsoft 365 Developer (OfficeDev) is a GitHub user profile representing Microsoft&#39;s developer team for the Microsoft 365 platform. The team is based in Redmond, WA, and focuses on providing resources for developers building solutions and applications on the Microsoft 365 ecosystem. 
+
+Skills and Expertise:
+- **Microsoft 365 Development**: The team has extensive knowledge and expertise in developing solutions specifically for Microsoft 365, including Office 365, SharePoint, Teams, and related products. 
+- **Software Development**: They provide tools, samples, and resources for software developers, indicating a strong proficiency in software engineering and application development. 
+- **API and Integration**: They emphasize API usage and integration, helping developers connect their applications with Microsoft 365 services seamlessly. 
+- **Sample Projects**: The pinned repositories include sample projects for Microsoft Graph, SharePoint Framework, Microsoft Teams apps, and Office Add-ins, showcasing their ability to provide practical guidance and code examples. 
+- **Community Engagement**: The team engages with the developer community by providing resources and participating in open-source projects, demonstrating a commitment to fostering a collaborative environment. 
+
+Experience Level:
+OfficeDev represents a team of experienced Microsoft developers and engineers. While individual team member experience levels may vary, the profile&#39;s content and resources indicate a high level of proficiency and expertise in Microsoft 365 development, with a strong focus on enabling and supporting external</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftCopilot</div>
+      <div class="field"><span class="label">Display Name:</span> Copilot</div>
+      <div class="field"><span class="label">Bio:</span> This organization provides access to Copilot for some accounts.</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftCopilot" target="_blank">https://github.com/MicrosoftCopilot</a>
+      </div>
+
+      
+        <div class="summary">Copilot, or Microsoft Copilot, is an organization on GitHub that is linked to the AI assistant and code generation tool of the same name developed by Microsoft and OpenAI. The organization&#39;s primary purpose is to provide access to Copilot for specific accounts and users.
+
+From the limited information provided, it&#39;s challenging to infer an experience level or specific technical skills. However, based on the name and the fact that it is an organization, we can assume that the entity behind it has a proficient understanding of AI technologies, natural language processing, and software development in general. The main skills associated with this profile would include:
+
+- AI and Machine Learning expertise
+- Natural Language Processing (NLP)
+- Software Development and Coding
+- Tool Integration and Accessibility
+
+The technical expertise of this organization lies in creating an innovative AI assistant tool tailored for developers, offering code suggestions, assisting with debugging, and providing comments on code. Copilot aims to enhance the productivity of programmers and improve the efficiency of the software development process.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> AzurePipelines</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft</div>
+      <div class="field"><span class="label">Bio:</span> Free cloud-hosted builds on Linux, macOS, and Windows for public and private repositories.</div>
+      <div class="field"><span class="label">Location:</span> Twitter: @AzureDevOps</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/AzurePipelines" target="_blank">https://github.com/AzurePipelines</a>
+      </div>
+
+      
+        <div class="summary">Microsoft&#39;s GitHub profile, AzurePipelines, showcases their expertise in the field of continuous integration and delivery (CI/CD). With a focus on Azure DevOps (previously known as Visual Studio Team Services), they offer free cloud-hosted builds for developers, catering to a wide range of programming languages and platforms.
+
+Skills:
+
+- Azure DevOps expertise: Proficiency in utilizing Azure DevOps (VSTS) for CI/CD pipelines, build automation, and collaboration.
+- Cross-platform compatibility: Experienced in developing and maintaining pipelines for Linux, macOS, and Windows environments.
+- Open-source contribution: Actively engaged in the open-source community, offering free services for public and private repositories.
+
+Experience Level:
+
+- Microsoft is a well-established technology company with extensive experience in software development and DevOps practices. Their AzurePipelines profile indicates a high level of expertise and proficiency in CI/CD and Azure DevOps specifically.
+
+Technical Expertise:
+
+- CI/CD and Build Automation: AzurePipelines is focused on providing seamless integration and delivery processes, helping developers automate their software builds and releases.
+- Cloud Computing: Proficient in utilizing Microsoft Azure&#39;s cloud infrastructure for hosting builds and providing scalable resources.
+- Cross-Platform Development: Experienced in creating pipelines that cater to multiple operating systems, demonstrating an understanding of Linux, macOS, and Windows-specific requirements.
+- Collaboration and Open Source: Advocates open-source contributions and provides tools to facilitate collaboration, version control</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> microsoftjulius</div>
+      <div class="field"><span class="label">Display Name:</span> microsoft julius</div>
+      <div class="field"><span class="label">Bio:</span> A Fullstack developer (Flask, Laravel, Livewire, Flutter, Reactjs)</div>
+      <div class="field"><span class="label">Location:</span> Kawempe kampala</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/microsoftjulius" target="_blank">https://github.com/microsoftjulius</a>
+      </div>
+
+      
+        <div class="summary">Microsoftjulius is a full-stack developer with a focus on web and mobile development. He is skilled in a variety of programming languages and frameworks, including Flask for backend Python development, Laravel and Livewire for PHP web applications, and Flutter and ReactJS for building mobile and web user interfaces.
+
+Based on the information provided, microsoftjulius seems to be an experienced developer, proficient in multiple technologies and tools. He likely has a strong understanding of software development practices, architecture, and design patterns, as well as a good grasp of both front-end and back-end technologies.
+
+His main technical expertise includes:
+
+- Web Development: Laravel, Livewire, Flask
+- Mobile Development: Flutter
+- Front-end Development: ReactJS
+- Programming Languages: Python, PHP, Dart (Flutter), JavaScript
+- Database Management: Likely proficient in relational databases (MySQL, PostgreSQL, etc.) and possibly NoSQL solutions, given his web development background.
+
+Microsoftjulius&#39;s experience in both front-end and back-end technologies suggests a solid understanding of full-stack development practices. He is likely well-versed in building and deploying web applications, as well as creating mobile apps with a focus on UI/UX. His skill set also indicates a good understanding of software architecture and the ability to work with multiple programming paradigms.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftResearch</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Research</div>
+      <div class="field"><span class="label">Bio:</span> Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research.</div>
+      <div class="field"><span class="label">Location:</span> N/A</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftResearch" target="_blank">https://github.com/MicrosoftResearch</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Research is the research arm of Microsoft Corporation, focusing on fundamental and applied research in computer science and related fields. With a global presence, Microsoft Research aims to advance state-of-the-art technologies and foster scientific innovation.
+
+Skills:
+- Microsoft Research exhibits expertise in a wide range of technical domains, including artificial intelligence, machine learning, natural language processing, computer vision, cloud computing, and software engineering.
+- They have a strong background in developing innovative solutions and contributing to open-source projects.
+- The team showcases proficiency in various programming languages and technologies, as evidenced by their diverse repository contributions.
+
+Experience Level:
+- Microsoft Research, as a subsidiary of Microsoft Corporation, possesses extensive industry experience, drawing on the expertise of numerous researchers and scientists.
+- They have been active in the tech industry for decades, with a rich history of groundbreaking research and technological advancements.
+- The team includes seasoned researchers and experts in their respective fields, ensuring a high level of proficiency and experience.
+
+Technical Expertise:
+- Artificial Intelligence (AI): Microsoft Research has a strong focus on AI, with projects covering machine learning algorithms, deep learning, natural language understanding, and computer vision.
+- Cloud Computing: They have made significant contributions to cloud computing technologies, particularly Microsoft Azure, demonstrating expertise in distributed systems, cloud infrastructure, and data management.
+- Software Engineering: The team showcases proficiency in software development, with projects spanning various programming languages, frameworks, and tools</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> DanWahlin</div>
+      <div class="field"><span class="label">Display Name:</span> Dan Wahlin</div>
+      <div class="field"><span class="label">Bio:</span> AI + Microsoft Cloud DevRel at Microsoft. 
+
+</div>
+      <div class="field"><span class="label">Location:</span> Arizona</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/DanWahlin" target="_blank">https://github.com/DanWahlin</a>
+      </div>
+
+      
+        <div class="summary">Dan Wahlin is a Microsoft employee who works as a developer advocate focusing on AI and the Microsoft Cloud. Based in Arizona, Dan has pinned a variety of repositories to his profile, showcasing his expertise and interests.
+
+Skills:
+- Dan has a strong background in web development, particularly with Microsoft technologies. He is skilled in ASP.NET, HTML5, JavaScript, and CSS.
+- He has extensive experience with front-end frameworks such as Angular, React, and Vue.js, as evidenced by his repository pins and past speaking engagements.
+- Dan is also well-versed in cloud computing, specifically Microsoft Azure. He has worked with Azure Functions, App Services, and other Azure tools, demonstrating his proficiency in cloud-native development.
+- Artificial intelligence and machine learning are key areas of interest for Dan, as indicated by his current role at Microsoft. He has experience with AI platforms and services, leveraging them for various development projects.
+
+Experience Level:
+- Dan appears to be a seasoned professional with over two decades of industry experience. He has authored multiple books, created online courses, and spoken at numerous conferences, indicating a high level of expertise and recognition in the developer community.
+- His current role at Microsoft as a DevRel (Developer Relations) advocate further underscores his advanced skills and experience.
+
+Technical Expertise:
+- Web Development: Proficient in building web applications, particularly with Microsoft&#39;s ASP.NET framework, and knowledgeable about web standards and best</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftGuyJFlo</div>
+      <div class="field"><span class="label">Display Name:</span> John Flores</div>
+      <div class="field"><span class="label">Bio:</span> I write for @MicrosoftDocs about Microsoft Entra focused on Zero Trust, Conditional Access, ID Protection, and device identity</div>
+      <div class="field"><span class="label">Location:</span> Columbus, Ohio, USA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftGuyJFlo" target="_blank">https://github.com/MicrosoftGuyJFlo</a>
+      </div>
+
+      
+        <div class="summary">John Flores (MicrosoftGuyJFlo) is a technical writer and content creator based in Columbus, Ohio, USA. He primarily creates content related to Microsoft technologies and seems to be affiliated with Microsoft Docs. His expertise lies in the fields of cybersecurity and identity management, particularly in the context of Zero Trust architecture, conditional access, identity protection, and device identity. 
+
+Based on his profile, Flores has a strong understanding of Microsoft Entra and its associated products. He likely possesses advanced writing and communication skills, coupled with a deep technical knowledge of cybersecurity concepts. His experience level appears to be intermediate to advanced, and he specializes in translating complex technical information into accessible documentation. 
+
+His main skills include:
+- Technical Writing: Ability to create clear and concise documentation for complex technologies.
+- Cybersecurity Expertise: In-depth knowledge of Zero Trust architecture, conditional access, identity protection, and device identity management.
+- Microsoft Technologies: Proficiency in Microsoft Entra and other related products, likely including Microsoft 365, Azure, and security tools.
+- Communication: Effective communication of technical concepts to diverse audiences.
+
+Overall, John Flores (MicrosoftGuyJFlo) is a skilled technical writer and cybersecurity expert with a focus on Microsoft technologies. He likely plays an important role in creating content that helps users understand and implement complex security measures.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftTranslator</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Translator</div>
+      <div class="field"><span class="label">Bio:</span> Samples and utilities for Microsoft Translator</div>
+      <div class="field"><span class="label">Location:</span> Redmond, Washington, USA</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftTranslator" target="_blank">https://github.com/MicrosoftTranslator</a>
+      </div>
+
+      
+        <div class="summary">Microsoft Translator is a GitHub profile representing Microsoft&#39;s machine translation service, rather than an individual user. The profile is dedicated to providing samples, tools, and resources related to the Microsoft Translator product. 
+
+Skills and Technical Expertise:
+
+- Machine Translation: The primary focus of this profile is on machine translation technology and its applications. The repositories contain code samples, APIs, and documentation to help developers integrate translation capabilities into their applications.
+- Natural Language Processing (NLP): The nature of machine translation inherently involves NLP techniques, including language understanding, part-of-speech tagging, and syntactic analysis.
+- Software Development: The repositories include code samples in various programming languages such as C#, Python, Java, and JavaScript, demonstrating how to use the Microsoft Translator APIs and SDKs. This showcases a good understanding of software development practices.
+- Cloud Computing: Microsoft Translator is a cloud-based service, and the profile provides resources for utilizing the service on Microsoft Azure. This indicates knowledge of cloud computing and related technologies.
+- Language Support: Microsoft Translator supports a wide range of languages, and the profile showcases this with examples and language-specific resources, demonstrating expertise in multilingual applications.
+
+Experience Level:
+
+As an official Microsoft profile, the experience level can be considered advanced, given the backing of a major technology company. The samples, documentation, and utilities provided are comprehensive and well-documented, suggesting a mature and established product. 
+
+Overall, the MicrosoftTranslator profile on GitHub serves as</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> MicrosoftStudentChapter</div>
+      <div class="field"><span class="label">Display Name:</span> Microsoft Learn Student Chapter, TIET</div>
+      <div class="field"><span class="label">Bio:</span> It is technical student organisation at Thapar Institute of Engineering and Technology, Patiala, Punjab, India</div>
+      <div class="field"><span class="label">Location:</span> Patiala</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/MicrosoftStudentChapter" target="_blank">https://github.com/MicrosoftStudentChapter</a>
+      </div>
+
+      
+        <div class="summary">The GitHub user &#34;MicrosoftStudentChapter&#34; is a technical student organization based at the Thapar Institute of Engineering and Technology in India. From their profile, it can be inferred that the group is focused on fostering technical skills and providing learning resources to students interested in Microsoft technologies.
+
+Skills and Expertise:
+- Technical Skills: Based on their profile, the group has a strong inclination towards Microsoft technologies and tools. This includes Microsoft Azure, Power Platform, and other Microsoft development tools. They also seem to have an interest in cloud computing and application development.
+- Experience Level: The user is likely comprised of students with varying levels of experience. While the organization itself may have more advanced members leading and mentoring others, the focus seems to be on providing resources and support for students who are beginners or intermediates in their technical journey.
+- Technical Expertise: The pinned repositories provide some insight into their areas of expertise. They seem to have a particular interest in cloud computing and its applications, with repositories focused on Azure, cloud architecture, and cloud security. They also emphasize practical projects, as seen in the &#34;Project-Guidelines&#34; repository, which aims to guide students through the project-building process.
+
+Overall, the Microsoft Learn Student Chapter at TIET seems to be a student-led organization that fosters a community for learning and exploring Microsoft technologies. Their profile indicates a focus on cloud computing, application development, and providing accessible resources to help students build their technical skills and gain practical experience.</div>
+      
+    </div>
+  
+    <div class="user-card">
+      <div class="field"><span class="label">GitHub Username:</span> andrebaltieri</div>
+      <div class="field"><span class="label">Display Name:</span> Andre Baltieri</div>
+      <div class="field"><span class="label">Bio:</span> 11x Microsoft MVP</div>
+      <div class="field"><span class="label">Location:</span> São Paulo, SP - Brazil</div>
+      <div class="field">
+        <span class="label">Profile URL:</span>
+        <a class="profile-url" href="https://github.com/andrebaltieri" target="_blank">https://github.com/andrebaltieri</a>
+      </div>
+
+      
+        <div class="summary">Andre Baltieri is an experienced software developer and architect based in São Paulo, Brazil. He is a recognized expert in the tech community, as evidenced by his 11-time Microsoft MVP award. 
+
+Baltieri&#39;s main skills lie in software development, architecture, and team leadership. He has a particular interest and expertise in Microsoft technologies, including .NET, C#, and Azure. His experience level can be inferred as senior, given the number of years he has been active in the field and the recognition he has received. 
+
+His technical expertise includes: 
+
+- **Software Development**: Proficient in C#, .NET, and Azure Functions, with a focus on building scalable and secure applications. 
+- **Cloud Computing**: Experienced with Microsoft Azure, demonstrating knowledge of cloud architecture, DevOps practices, and cloud-native development. 
+- **Open Source**: Contributes to open-source projects, showing a commitment to sharing knowledge and giving back to the community. 
+- **Data and AI**: Has experience with data-related technologies like Power BI and AI/ML tools, indicating an understanding of data-driven solutions. 
+- **Security**: Advocates for secure coding practices and has knowledge of security tools and best practices. 
+
+Baltieri is also likely an effective communicator and community builder, as he actively engages with others on GitHub and through his blog, sharing his knowledge and expertise with a wider audience. His profile suggests a well-rounded and respected software engineer with</div>
+      
+    </div>
+  
+</body>
+</html>
+2025-05-16 09:58:12,498 - 127.0.0.1 - - [16/May/2025 09:58:12] "GET /scrape?q=Microsoft HTTP/1.1" 200 -

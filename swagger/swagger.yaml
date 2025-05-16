@@ -1,0 +1,67 @@
+
+openapi: 3.0.0
+info:
+  title: GitHub Insight Service API
+  description: >
+    A service that scrapes GitHub profiles based on keywords and summarizes them using an AI model (e.g., Cohere).
+  version: 1.0.0
+servers:
+  - url: http://localhost:5000
+    description: Local development server
+
+paths:
+  /summarize:
+    post:
+      summary: Summarize a GitHub user's profile
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                username:
+                  type: string
+                  example: CodeWhizAfsal
+      responses:
+        '200':
+          description: Summary generated
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  summary:
+                    type: string
+                    example: "This user is an open-source contributor focused on Python and AI."
+        '400':
+          description: Invalid request
+
+  /scrape:
+    get:
+      summary: Scrape GitHub users by keyword
+      parameters:
+        - name: keyword
+          in: query
+          required: true
+          schema:
+            type: string
+          example: robotics
+      responses:
+        '200':
+          description: List of usernames matching the keyword
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  users:
+                    type: array
+                    items:
+                      type: string
+                      example: github_user123
+        '400':
+          description: Missing or invalid keyword
+
+components:
+  securitySchemes: {}
