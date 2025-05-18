@@ -8,8 +8,7 @@ A Flask-based web application that scrapes GitHub profiles based on a search que
 
 - **Backend**: Python, Flask  
 - **Web Scraping**: GitHub Search + Requests  
-- **AI Summarization**: Cohere API  
-- **Frontend**: HTML (Jinja2 Templates)  
+- **AI Summarization**: Cohere API   
 - **Data Handling**: JSON  
 - **Storage**: Local filesystem (`data.json`)  
 
@@ -39,7 +38,7 @@ pip install -r requirements.txt
 flask
 requests
 beautifulsoup4
-openai  # Optional for AI summaries
+cohere
 ```
 
 ---
@@ -48,8 +47,7 @@ openai  # Optional for AI summaries
 
 - **Python 3.12**
 - **Flask** – Web application framework  
-- **BeautifulSoup** – Web scraping GitHub profiles  
-- **Requests** – HTTP requests to GitHub  
+- **BeautifulSoup** – Web scraping GitHub profiles   
 - **Cohere** –  for AI-based summarization  
 - **Jinja2** – HTML templating engine for Flask  
 - **JSON** – For internal data storage and caching  
@@ -61,8 +59,7 @@ openai  # Optional for AI summaries
 - GitHub user data can be publicly scraped based on keyword search.
 - The keyword query returns enough users to populate insights meaningfully.
 - AI summarization is handled either via cohere.
-- HTML template (`results.html`) expects a non-null results list.
-- File `data.json` is used to cache or store intermediate results locally.
+- File `data.json` is used to  store results .
 
 ---
 
@@ -75,46 +72,52 @@ python app.py
 
 By default, this runs at:
 
-[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+[http://127.0.0.1:5000/api/scrape?q=keyword](http://127.0.0.1:5000/api/scrape?q=Developer)
 
 ### Using the Web UI
 
 1. Navigate to `/` in your url.
 2. Enter a keyword (e.g., `"machine learning"`) to fetch.
+3. For default I am using Developer as keyword
+4. It will take some time to process.
+5. Once it completed it will display the result on webpage and store it in json format.
 
 ---
 
-## 📡 API Endpoints
+## 📡 API Usage
 
-### `GET /`
-**Description:** Displays a form to input keyword and number of users.  
-**Returns:** HTML page (Jinja template)
+This project exposes  API endpoints to scrape GitHub users, generate AI-powered insights, and return results in  structured JSON format.
 
 ---
 
-### `POST /results`
 
-**Description:** Accepts keyword and count, scrapes GitHub users, processes them via AI, and renders results.  
-**Payload:**
-```json
-{
-  "query": "python",
-  "count": 5
-}
+### 🟨 `GET /api/scrape`
+
+Fetch GitHub user profiles based on a keyword query and return enriched data in JSON format.
+
+#### 🔧 Query Parameters
+
+| Name | Type   | Required | Default Value         | Description                            |
+|------|--------|----------|------------------------|----------------------------------------|
+| `q`  | string | No       | "javascript developer" | Keyword used to search GitHub users    |
+
+#### 📥 Example Request
+
 ```
-**Returns:** Rendered `results.html` with summaries.
+GET /api/scrape?q=python+developer
+```
 
----
+#### 📤 Example JSON Response
 
-### `GET /api/results` (Optional REST endpoint)
-
-**Returns:**
 ```json
 {
-  "users": [
+  "results": [
     {
       "username": "octocat",
-      "summary": "This user specializes in Python backend services and open-source contributions."
+      "profile_url": "https://github.com/octocat",
+      "followers": 42,
+      "public_repos": 10,
+      "insights": "Octocat is a well-rounded open-source contributor..."
     }
   ]
 }
@@ -122,7 +125,17 @@ By default, this runs at:
 
 ---
 
-## 📂 Project Structure
+### ✅ Summary
+
+| Route         | Output Format | Use Case                     |
+|---------------|----------------|------------------------------|
+| `/api/scrape` | JSON           | Machine-readable REST API    |
+
+## Project Structure
+
+
+
+
 
 ```bash
 github_insight_service/
@@ -145,6 +158,4 @@ github_insight_service/
 
 ---
 
-## 🪪 License
 
-**MIT License** – See `LICENSE` for details.

@@ -1,645 +1,645 @@
 {
   "raw": [
     {
-      "username": "adhith",
-      "profile_url": "https://github.com/adhith",
-      "name": "Adhith",
+      "username": "developerrahulofficial",
+      "profile_url": "https://github.com/developerrahulofficial",
+      "name": "Developer Rahul",
+      "bio": "Full Stack Developer\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\r\nI dream bug \ud83e\udeb2 and live big \ud83d\udd25\ud83d\ude0e",
+      "location": "New Delhi, India",
+      "public_repos": 81,
+      "followers": 4218,
+      "following": 8,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer Rahul is a Full Stack Developer based in New Delhi, India. His GitHub profile showcases his interest and expertise in full-stack development, with a particular focus on web development and related technologies. He has experience working with various programming languages, frameworks, and tools, as evident from his repository contributions.\n\nSkills and Expertise:\n\n- Full Stack Development: Rahul has a solid understanding of both front-end and back-end technologies, as suggested by his \"Full Stack Developer\" title. He is skilled in HTML, CSS, JavaScript, and related frameworks like React and Angular. He also has experience with server-side technologies such as Node.js and Express.js.\n\n- Web Development: His profile suggests that he is well-versed in web development, including creating user interfaces, building web applications, and working with web technologies. He likely has experience with web design principles, responsive design, and browser compatibility.\n\n- JavaScript Proficiency: JavaScript and its frameworks are a key area of focus for Rahul. He appears to be comfortable with JavaScript programming and has worked with popular JavaScript libraries and frameworks such as React and Angular. This indicates a good understanding of client-side scripting and building interactive web pages.\n\n- Server-side Development: Rahul has exposure to server-side development using Node.js and Express.js. This suggests knowledge of creating APIs, handling server-side logic, and managing server infrastructure.\n\nExperience Level:\n\n- Based on"
+      }
+    },
+    {
+      "username": "developer-guy",
+      "profile_url": "https://github.com/developer-guy",
+      "name": "Batuhan Apayd\u0131n",
+      "bio": "\ud83d\ude80CNCF Ambassador 23 \ud83c\udf96Best Sigstore Evangelist 23 \ud83d\udc33Docker Captain 23 \u270d\ufe0f CDF Ambassador 23 \r\n\ud83d\udcc5 Organizer at DevOpsTr \u2022 @cloudnativetr",
+      "location": "compromised",
+      "public_repos": 582,
+      "followers": 899,
+      "following": 1711,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Batuhan Apayd\u0131n, known as \"developer-guy\" on GitHub, is a seasoned technologist with a strong background in cloud-native technologies and open-source software. He holds several prestigious industry titles, including CNCF Ambassador, Docker Captain, and CDF Ambassador, highlighting his recognized expertise and contributions to these communities. Apayd\u0131n is also an organizer for DevOpsTr, indicating experience in community building and event organization.\n\nHis main skills lie in cloud-native computing, containerization, and DevOps practices. As a CNCF Ambassador, he advocates for and has deep knowledge of cloud-native technologies like Kubernetes and microservices. Being a Docker Captain, he is an expert in containerization and has likely contributed significantly to the Docker community. Additionally, his role as a CDF Ambassador suggests involvement in promoting cloud-native standards and best practices.\n\nApayd\u0131n's experience level can be inferred as senior or advanced. The titles he holds, such as Ambassador and Captain, are typically awarded to individuals with extensive knowledge and experience in their respective fields. He is likely a thought leader and influencer in the cloud-native space, contributing to and shaping the direction of these technologies.\n\nIn terms of technical expertise, Apayd\u0131n is proficient in container technologies like Docker, as evidenced by his Docker Captain title. He likely has extensive experience in container orchestration, microservices architecture, and cloud-native application development. Additionally, his involvement in DevOpsTr suggests a strong understanding of DevOps practices, continuous"
+      }
+    },
+    {
+      "username": "developerfred",
+      "profile_url": "https://github.com/developerfred",
+      "name": "codingsh",
+      "bio": "Blockchain Developer, White Hat, Bridge builder and Decentralization specialist\r\n\r\nENS: codingsh.eth\r\n",
+      "location": null,
+      "public_repos": 1007,
+      "followers": 427,
+      "following": 1521,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the information provided, here is a summary of GitHub user \"developerfred\" (codingsh):\n\nUsername: developerfred\nName: codingsh\nSkills:\n   - Blockchain Development: User has expertise in blockchain technology and describes themselves as a blockchain developer, indicating proficiency in developing decentralized applications, smart contracts, or blockchain-based solutions.\n   - White Hat Security: The term \"White Hat\" in their bio suggests a focus on ethical hacking and secure coding practices. They may possess skills in identifying and mitigating potential security vulnerabilities.\n   - Decentralization: With a focus on decentralization, codingsh likely has experience in designing and implementing distributed systems, peer-to-peer networks, and consensus mechanisms.\n   - Bridge Building: This could imply a skill set in integrating blockchain technologies with traditional systems or connecting different blockchain platforms.\n\nExperience Level:\n   - Experienced: The user's profile suggests a high level of expertise and specialization in blockchain and decentralization. The use of terms like \"White Hat\" and \"Bridge builder\" indicates a deep understanding of the field and possibly years of experience in the industry.\n\nTechnical Expertise:\n   - Blockchain: Their profile heavily emphasizes blockchain technology, suggesting advanced knowledge of blockchain frameworks, smart contract development (possibly in Solidity or similar languages), and an understanding of consensus algorithms, cryptography, and decentralized finance (DeFi).\n   - Security: As a White Hat, codingsh likely possesses advanced security skills, including vulnerability assessment, penetration"
+      }
+    },
+    {
+      "username": "developernaimul",
+      "profile_url": "https://github.com/developernaimul",
+      "name": "Developer Naimul",
+      "bio": "I'm a professional MERN Stack Developer. Web \r\ndesign & development is my passion, I give full time in development. I love to do this, it\u2019s my life everything.",
+      "location": "Joypurhat, Rajshahi, Bangladesh",
+      "public_repos": 91,
+      "followers": 1353,
+      "following": 3295,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer Naimul is a professional MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer based in Bangladesh. They have a strong passion for web design and development, and they have dedicated their full time to honing their craft. With a username like \"developernaimul,\" it is evident that their online identity and reputation are closely tied to their skills and expertise as a developer.\n\nNaimul describes themselves as having a deep interest and love for development, indicating a high level of dedication and enthusiasm for their work. Their bio suggests they have a good understanding of the MERN stack and likely possess skills in HTML, CSS, and JavaScript, along with experience in using related tools and frameworks.\n\nAlthough their GitHub profile does not provide details about their experience level or the number of years they have been in the industry, the fact that they identify as a professional developer implies that they have a certain level of proficiency and expertise in their field.\n\nIn terms of technical expertise, Naimul's pinned repositories are not publicly available, so it is challenging to make specific inferences about their past projects or contributions. However, based on their bio, we can assume that they are proficient in:\n\n- MongoDB: A popular NoSQL database, suggesting they can design and work with scalable and flexible database architectures.\n- Express.js: A Node.js web application framework, indicating experience in building server-side applications and APIs.\n- React."
+      }
+    },
+    {
+      "username": "Developer-Y",
+      "profile_url": "https://github.com/Developer-Y",
+      "name": null,
       "bio": null,
       "location": null,
-      "public_repos": 3,
-      "followers": 0,
+      "public_repos": 8,
+      "followers": 4235,
       "following": 0,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhith (username: adhith) is a GitHub user who has not provided any personal information such as a bio or location. However, by analyzing their pinned repositories, we can gain some insights into their skills, experience, and areas of expertise. \n\nMain Skills and Technical Expertise:\n- Adhith appears to have a strong background in web development, particularly in the Python ecosystem. They have pinned repositories related to web scraping using Python frameworks like Scrapy and BeautifulSoup. This suggests proficiency in extracting data from websites and manipulating HTML/XML content.\n- They also demonstrate an interest in data analysis and visualization. The pinned repositories include projects related to data wrangling with Pandas, creating data dashboards with Plotly and Dash, and working with geospatial data using Folium. These tools indicate a capacity for handling and presenting data effectively.\n- Version control and collaboration are clearly important to Adhith, as they have also pinned a repository on Git commands and best practices. This suggests a solid understanding of fundamental tools for developers and an interest in sharing knowledge with others.\n\nExperience Level:\n- It's difficult to ascertain Adhith's exact experience level without explicit information. However, the range of pinned repositories indicates a broad understanding of various aspects of software development and data handling. This could suggest that Adhith is an experienced developer with a diverse skill set. \n\nIn summary, Adhith is likely an experienced web developer and data enthusiast with a strong command"
+        "summary": "Based on the provided information, the GitHub user \"Developer-Y\" has chosen to keep their profile fairly anonymous, with no personal information disclosed. Therefore, an inference can be made based on their pinned repositories and their content:\n\nSkills:\n\n- **Programming Languages**: This user appears to be skilled in Python, as most of their pinned repositories feature Python code. They also seem to have some familiarity with other languages like C++, Java, and possibly web development languages such as HTML, CSS, and JavaScript.\n\n- **Machine Learning**: Developer-Y has a strong interest in machine learning and deep learning, as evidenced by the repositories related to these topics. They have worked on projects involving natural language processing (NLP), computer vision, and reinforcement learning.\n\n- **Data Science**: In addition to machine learning, this user also has experience with data science and data analysis. They have pinned repositories related to data visualization and data manipulation using Python libraries such as Pandas and Matplotlib.\n\nExperience Level:\n\n- **Intermediate to Advanced**: Considering the variety and complexity of the projects in their pinned repositories, Developer-Y likely has an intermediate to advanced level of programming experience. They appear to be comfortable with different programming paradigms and have a good grasp of machine learning and data science concepts.\n\nTechnical Expertise:\n\n- **Machine Learning and AI**: Developer-Y's main area of expertise seems to be in machine learning and artificial intelligence. They have worked on a"
       }
     },
     {
-      "username": "adhithiravi",
-      "profile_url": "https://github.com/adhithiravi",
-      "name": "Adhithi Ravichandran",
-      "bio": "Software Consultant, Author, Speaker, Blogger, React, Next.js, React Native, GraphQL, Cypress and Indian Classical Musician",
-      "location": "Kansas City",
-      "public_repos": 44,
-      "followers": 381,
+      "username": "Developerayo",
+      "profile_url": "https://github.com/Developerayo",
+      "name": "Shodipo Ayomide",
+      "bio": "Web3 \u2022 Head of Developer Relations @Nuklai \ud83d\udee0\ufe0f \u2022 Full Stack Software \u2022 demigod\ud83e\uddce\ud83c\udffd",
+      "location": "London, United Kingdom",
+      "public_repos": 272,
+      "followers": 705,
+      "following": 30,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Shodipo Ayomide, known as \"Developerayo\" on GitHub, is a tech enthusiast with a particular interest in Web3 technologies. He is currently based in London, UK, and serves as the Head of Developer Relations at Nuklai, where he leads efforts to engage and support the developer community. \n\nAyomide describes himself as a full-stack software developer, indicating that he has skills in both the front-end and back-end development of web applications. His experience likely spans multiple programming languages, frameworks, and tools needed for full-stack development. \n\nIn terms of technical expertise, Ayomide seems to have a strong focus on Web3, which involves decentralized web applications, blockchain technology, and cryptocurrencies. He may possess skills in smart contract development, blockchain architecture, and decentralized application (dApp) creation. Additionally, his role in developer relations suggests that he has strong communication and community engagement skills, and is likely experienced in advocating for new technologies and supporting fellow developers. \n\nAyomide's GitHub profile doesn't provide extensive information on his previous projects or contributions, but his current role and bio indicate that he is an experienced professional with a deep understanding of Web3 and full-stack development. He is likely well-versed in the latest trends and advancements in the Web3 space and actively contributes to the growth and adoption of decentralized technologies."
+      }
+    },
+    {
+      "username": "developergtm24",
+      "profile_url": "https://github.com/developergtm24",
+      "name": "Goutam prajapat",
+      "bio": "Hyy my name is goutam prajapat and I am a frontend developer.\r\n\r\n#100daysprojects #developergtm",
+      "location": null,
+      "public_repos": 194,
+      "followers": 707,
+      "following": 9,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Goutam prajapat (developergtm24) is a frontend developer with the username developergtm24. Goutam's bio indicates that he is currently working on a #100daysproject, suggesting that he is actively coding and learning new skills. While their location is not specified, their pinned repositories may provide further insight into their work and areas of expertise. Based on the username and name, it can be inferred that this developer has some experience in the field and is likely proficient in HTML, CSS, and JavaScript, which are common languages for frontend development. They may also have knowledge of related tools and frameworks like React or Angular. However, without further information or repositories to review, it is difficult to determine their experience level and technical expertise more accurately."
+      }
+    },
+    {
+      "username": "DeveloperAcademy-POSTECH",
+      "profile_url": "https://github.com/DeveloperAcademy-POSTECH",
+      "name": "Developer Academy @ POSTECH",
+      "bio": null,
+      "location": "Korea, South",
+      "public_repos": 240,
+      "followers": 510,
+      "following": 0,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer Academy @ POSTECH is a GitHub user profile representing a developer academy or programming school based in POSTECH, South Korea. While the bio section is empty, their pinned repositories offer some insights into their main skills and areas of expertise. \n\nSkills and Expertise:\n\n- **Web Development**: The pinned repositories cover topics such as web programming, including HTML, CSS, and JavaScript. These are fundamental languages for building websites and web applications.\n\n- **Python Programming**: They also showcase a Python programming repository, indicating proficiency in this versatile and widely used language. Python is known for its simplicity and applicability in various domains, including data science, machine learning, and web development.\n\n- **Data Science and Machine Learning**: The profile demonstrates an interest in data-related fields with repositories on data analysis and machine learning. These topics involve utilizing data to extract meaningful insights and build intelligent systems, showcasing an advanced skill set.\n\n- **Software Engineering**: The academy also covers software engineering principles, emphasizing best practices, design patterns, and software architecture. This suggests a focus on not just programming but also the broader aspects of developing robust and maintainable software systems.\n\nExperience Level:\n\nIt's challenging to determine an exact experience level, but considering the range of topics covered and the depth of the pinned repositories, it appears that Developer Academy @ POSTECH caters to beginners and intermediate-level learners. The curriculum seems designed to provide a comprehensive overview of modern software development, covering both"
+      }
+    },
+    {
+      "username": "developersancho",
+      "profile_url": "https://github.com/developersancho",
+      "name": "Mr.Sanchez",
+      "bio": "The Target is Red Apple =) Android & iOS  | Kotlin | Flutter | Swift | KMM\r\n*** continue as long as we can. living in shadow ***",
+      "location": null,
+      "public_repos": 356,
+      "followers": 380,
+      "following": 585,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the profile summary, the GitHub user \"developersancho,\" who goes by the name Mr. Sanchez, appears to be an experienced mobile application developer with a focus on Android and iOS development. His skills include working with programming languages and frameworks such as Kotlin, Flutter, Swift, and KMM (Kotlin Multiplatform Mobile). \n\nHe has a mysterious and intriguing bio, suggesting a passion for his work and a desire to continuously learn and improve (\"living in shadow\"). His pinned repositories are not provided, so it's difficult to infer further details about specific projects or contributions. However, his username and profile information indicate a solid grounding in mobile development, particularly for the Android and iOS ecosystems."
+      }
+    },
+    {
+      "username": "ShabnamDeveloper",
+      "profile_url": "https://github.com/ShabnamDeveloper",
+      "name": "Shabnam Developer",
+      "bio": "Fullstack Developer",
+      "location": null,
+      "public_repos": 64,
+      "followers": 3128,
+      "following": 10381,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Shabnam Developer, known as @ShabnamDeveloper on GitHub, is a full-stack developer. While their bio provides limited information, their username and pinned repositories offer some insights into their skills and expertise.\n\nSkills and Expertise:\n\n- Full-Stack Development: Shabnam identifies themselves as a full-stack developer, suggesting they have a broad range of skills covering both front-end and back-end development.\n- JavaScript Proficiency: The pinned repositories provide stronger indicators of Shabnam's expertise. They have pinned repositories related to JavaScript frameworks and libraries, indicating a focus on JavaScript-based web development.\n- React and Node.js: Two of the pinned repositories are related to React and Node.js, which are commonly used together for building dynamic web applications. This suggests that Shabnam has experience in building the user interface with React and utilizing Node.js for server-side operations.\n- MongoDB: One of the pinned repositories is titled \"Node.js, Express, and MongoDB,\" indicating familiarity with MongoDB, a popular NoSQL database. This further reinforces Shabnam's knowledge of full-stack development, as they can handle both the front-end and back-end aspects, including data storage and management.\n- Web Development Tools: Shabnam has also pinned a repository related to Git and GitHub, demonstrating an understanding of version control systems and collaboration tools essential for modern web development workflows.\n\nExperience Level:\n\nWithout additional information, such as"
+      }
+    },
+    {
+      "username": "DeveloperLx",
+      "profile_url": "https://github.com/DeveloperLx",
+      "name": "DeveloperLx",
+      "bio": "\u8654\u8654\u4ee5\u5f85\uff0c\u6073\u6073\u4e8e\u5fc3",
+      "location": "Beijing, China.",
+      "public_repos": 62,
+      "followers": 843,
+      "following": 123,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "DeveloperLx is a GitHub user based in Beijing, China. Their profile includes a brief bio that suggests they approach their work with dedication and sincerity. Unfortunately, without additional information like a comprehensive list of repositories or contributions, it's challenging to provide a detailed assessment of their skills, experience level, and technical expertise. However, the username \"DeveloperLx\" implies a focus on software development or programming.\n\nHere's a summary of the inferences that can be made:\n\nSkills:\n- Software Development: The username \"DeveloperLx\" suggests a focus on software development or programming. It's possible that they possess skills in programming languages, software design, and development tools.\n\nExperience Level:\n- Based on the limited information available, it's challenging to determine DeveloperLx's experience level precisely. However, their location in Beijing, a hub for technology and innovation, suggests some level of exposure to the tech industry and related opportunities.\n\nTechnical Expertise:\n- Given the absence of specific repositories or contributions, the technical expertise of DeveloperLx cannot be accurately assessed. It's possible that they have knowledge in various programming languages, software frameworks, and development methodologies, but further information would be needed to confirm specific areas of expertise.\n\nIn summary, DeveloperLx is a GitHub user from Beijing, China, who likely possesses skills in software development or programming. Their experience level and technical expertise cannot be conclusively determined from the available information, but their location suggests exposure to technological advancements and"
+      }
+    },
+    {
+      "username": "Ramseyxlil",
+      "profile_url": "https://github.com/Ramseyxlil",
+      "name": "Developer",
+      "bio": "Tech and Everything.",
+      "location": null,
+      "public_repos": 53,
+      "followers": 472,
+      "following": 12,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the information provided, here is a summary of the GitHub user \"Ramseyxlil\":\n\nUsername: Ramseyxlil\nName: Developer\n\nProfile Summary:\n- This user goes by the name \"Developer\" and has a straightforward bio, \"Tech and Everything,\" suggesting a broad interest in technology.\n- The location is not specified, and there is limited personal information disclosed in the profile.\n\nSkills and Expertise:\n- Ramseyxlil's pinned repositories are not available, so it is challenging to infer specific technical skills directly from the profile.\n- The username \"Ramseyxlil\" might indicate some association with the name Ramsey, but it's not clear if this is related to their technical work or just a preferred alias.\n\nExperience Level:\n- Without further details or contributions, it is difficult to ascertain the user's experience level accurately.\n- The profile lacks information on previous projects, employment history, or contributions to open-source projects, which could provide insights into their experience.\n\nTechnical Expertise:\n- Given the sparse information, it is challenging to determine specific areas of technical expertise.\n- The bio's reference to \"Tech and Everything\" hints at a general interest in technology, but it doesn't pinpoint any particular programming languages, frameworks, or technical domains the user specializes in.\n\nIn summary, the GitHub profile of \"Ramseyxlil\" provides limited information to work with. While the user expresses a"
+      }
+    },
+    {
+      "username": "uprockcom",
+      "profile_url": "https://github.com/uprockcom",
+      "name": "UpRock",
+      "bio": null,
+      "location": null,
+      "public_repos": 10,
+      "followers": 11451,
+      "following": 0,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "UpRock (uprockcom) is a GitHub user who has not provided any personal information such as a bio or location. However, their username suggests an association with the company or website \"uprock.com.\"\n\nBased on their pinned repositories, it can be inferred that UpRock has a strong interest in software development, specifically in the fields of web development and programming languages. They have pinned repositories related to popular web development frameworks and tools such as React, Node.js, and Gatsby. This suggests that they are experienced in building web applications and have a good understanding of modern web development practices.\n\nIn addition to web development, UpRock also has pinned repositories related to programming languages such as Python, Go, and Rust. This indicates that they are either experienced in these languages or are actively learning and exploring them.\n\nOverall, UpRock appears to be a seasoned developer with a diverse skill set and a strong background in web development. They seem to be well-versed in a range of technologies and actively engaged in the open-source community through their interactions on GitHub."
+      }
+    },
+    {
+      "username": "aplus-developer",
+      "profile_url": "https://github.com/aplus-developer",
+      "name": "Aplus Developer",
+      "bio": "I love to code. I love you. \u2764\ufe0f \u26a1\u26a1\r\n\r\n\r\nCoding with @aplus-framework.",
+      "location": "Internet",
+      "public_repos": 7,
+      "followers": 7383,
+      "following": 9421,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the information provided, here is a summary of the GitHub user \"aplus-developer\":\n\nUsername: aplus-developer\nName: Aplus Developer\n\nProfile Summary:\n- Aplus Developer is a passionate coder who loves programming and innovation in the field. \n- Their bio suggests a friendly and approachable personality, with a love for both coding and their community, indicated by the heart and lightning bolt emojis. \n- Aplus Developer primarily codes using the aplus-framework, which is likely their own creation or a significant contribution. \n- They have chosen to keep their location as the \"Internet,\" suggesting a preference for a remote work style or a desire to connect with a global community of developers. \n\nSkills and Expertise: \n- Proficient in software development, with a particular interest or specialization in the aplus-framework. \n- Likely experienced in creating and maintaining code, given their emphasis on \"coding\" in the bio. \n- Skilled in multiple programming languages and technologies, although the specifics are not mentioned in the profile. \n\nExperience Level: \n- Aplus Developer appears to be an experienced programmer, as they have created (or significantly contribute to) their own framework. \n- The exact years of industry experience are not mentioned, but the creation of a framework suggests a higher level of expertise and understanding of software development concepts. \n\nTechnical Expertise: \n- Aplus Developer's technical"
+      }
+    },
+    {
+      "username": "developersdigest",
+      "profile_url": "https://github.com/developersdigest",
+      "name": "Developers Digest",
+      "bio": "developers.digest.ai@gmail.com",
+      "location": null,
+      "public_repos": 64,
+      "followers": 524,
+      "following": 6,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developers Digest is a GitHub user with the email address developers.digest.ai@gmail.com. They have not provided any additional information in their profile, such as a location or a detailed biography. Therefore, their experience level and specific areas of expertise are challenging to determine.\n\nHowever, based on the username and the provided email domain, it seems that this user or organization is likely associated with the website developers.digest.ai. This suggests that they have an interest in curating and sharing content related to software development, and possibly artificial intelligence, given the \"ai\" domain extension.\n\nWithout any repositories or contributions associated with this profile, it is difficult to infer specific technical skills or projects they have worked on. The lack of pinned repositories also means we don't have additional context to understand their areas of focus or collaboration.\n\nIn summary, while the exact expertise of Developers Digest remains unclear, their profile indicates an interest in software development content and potentially artificial intelligence topics."
+      }
+    },
+    {
+      "username": "Developer-DAO",
+      "profile_url": "https://github.com/Developer-DAO",
+      "name": "Developer DAO",
+      "bio": null,
+      "location": null,
+      "public_repos": 64,
+      "followers": 577,
+      "following": 0,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer DAO is a GitHub user who appears to be a community or organization, rather than an individual, based on the name and lack of personal information in the profile. The bio and location fields are empty, providing no additional details about the user.\n\nDeveloper DAO has pinned several repositories, suggesting that they are either projects they are currently working on or consider important. However, without further information or activity on the profile, it is challenging to infer their specific skills, experience level, or technical expertise.\n\nBased on the name \"Developer DAO,\" it can be inferred that the user or organization has an interest in decentralized autonomous organizations (DAO) and blockchain technology. DAOs are community-run organizations that use blockchain technology to operate in a decentralized manner. It is possible that Developer DAO has experience or expertise in smart contract development, blockchain engineering, or decentralized application (dApp) creation.\n\nWithout further details or contributions to public projects, it is difficult to ascertain the specific skills and experience level of Developer DAO. They may be a community of developers with diverse skill sets and varying levels of experience."
+      }
+    },
+    {
+      "username": "developer-junaid",
+      "profile_url": "https://github.com/developer-junaid",
+      "name": "Developer Junaid",
+      "bio": "Full Stack Web Application Developer @ Stay Gold USA | Open Source Contributor ",
+      "location": "Pakistan",
+      "public_repos": 111,
+      "followers": 375,
       "following": 15,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhithi Ravichandran (username: adhithiravi) is a Software Consultant and a prominent figure in the tech community with a diverse set of skills and interests. She is based in Kansas City.\n\nSkills and Expertise:\n\n- Web Development: Adhithi has a strong background in web development, particularly with React and its ecosystem. She is proficient in React, Next.js, and React Native, allowing her to build dynamic web applications and mobile apps with a focus on performance and user experience.\n- GraphQL: She has expertise in GraphQL, a query language for APIs, which provides a flexible and efficient way to fetch data for her applications.\n- Testing and Automation: Adhithi values testing and automation, as evidenced by her proficiency in Cypress, a popular end-to-end testing framework. She likely has experience building robust testing suites to ensure the quality and stability of her software projects.\n- Content Creation and Speaking: Beyond her technical skills, Adhithi is also an author, speaker, and blogger. She actively shares her knowledge and experiences with the tech community through various mediums.\n- Music: Adhithi also showcases her passion for music in her bio, identifying herself as an Indian Classical Musician.\n\nExperience Level:\n\nAdhithi's exact experience level is not specified, but her diverse set of skills and accomplishments suggest she is an experienced professional. Her proficiency in multiple technologies, combined with her roles as an author, speaker"
+        "summary": "Developer Junaid is a Full Stack Web Application Developer at Stay Gold USA and an Open Source Contributor based in Pakistan. \n\nSkills:\n- Full-stack web development: He possesses skills in both front-end and back-end technologies, as suggested by his job role.\n- Open-source contribution: He actively contributes to open-source projects, which indicates a good understanding of collaborative development and community engagement.\n\nExperience Level:\n- Based on the information provided, Junaid appears to be an experienced developer. His current role as a full-stack developer suggests a solid grasp of web application development, and his contributions to open-source projects further emphasize his expertise and involvement in the developer community.\n\nTechnical Expertise:\n- Web Development: Junaid's main expertise lies in web development, particularly in building full-stack web applications. He is likely proficient in a range of programming languages, frameworks, and tools commonly used in web development, such as HTML, CSS, JavaScript, and related back-end technologies.\n- Open Source: His involvement in open-source contributions demonstrates a good understanding of open-source principles, version control systems (likely Git), and collaboration through platforms like GitHub.\n- Front-end and Back-end Technologies: While specific technologies are not mentioned, full-stack developers typically work with both front-end and back-end tools. Junaid likely has experience with front-end frameworks like React, Angular, or"
       }
     },
     {
-      "username": "adhitht",
-      "profile_url": "https://github.com/adhitht",
-      "name": "Adhith T",
-      "bio": "Undergrad at Indian Institute of Technology, Hyderabad",
-      "location": "Hyderabad",
-      "public_repos": 24,
-      "followers": 26,
-      "following": 25,
+      "username": "developer9998",
+      "profile_url": "https://github.com/developer9998",
+      "name": "Dane \"Dev\"",
+      "bio": "Avatar: crowfood.art",
+      "location": "Canada",
+      "public_repos": 78,
+      "followers": 406,
+      "following": 32,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhith T (username: adhitht) is an undergraduate student at the Indian Institute of Technology, Hyderabad, as indicated in their GitHub profile bio. They are based in Hyderabad, India. \n\nFrom their pinned repositories, it appears that Adhith T has a strong interest in machine learning and computer vision. They have pinned repositories related to projects using deep learning for image classification and object detection, suggesting that these are areas they are actively working on or are particularly proud of. \n\nIn terms of skills, Adhith T likely possesses proficiency in Python programming, as it is the primary language used in their pinned repositories. They also have experience with popular machine learning frameworks such as TensorFlow and PyTorch, as well as computer vision libraries like OpenCV. \n\nGiven their undergraduate status, Adhith T is probably an early career developer or a student with a strong foundation in machine learning and computer vision. They seem to be actively involved in personal projects and are keen on showcasing their work through their GitHub profile. \n\nOverall, Adhith T's GitHub profile highlights their technical expertise in machine learning, deep learning, and computer vision, with a focus on image-related tasks. They are likely an aspiring developer or researcher in the field of artificial intelligence, building their skills and portfolio through hands-on projects."
+        "summary": "Dane \"Dev,\" known as @developer9998 on GitHub, is a developer based in Canada. With the username referencing \"developer\" and the name including \"Dev,\" it's clear this individual identifies as a developer or programmer. \n\nTheir bio provides a link to their online presence or personal website, crowfood.art, which may showcase their projects, artwork, or other creative endeavors. However, without further information, I cannot infer the details of that website's content. \n\nRegarding their skills and expertise, Dane's pinned repositories on their GitHub profile would typically provide valuable insights. However, the response you provided does not include any pinned repository information. Therefore, based on the limited details available, I can make the following inferences: \n\n- **Skills**: Dane likely possesses a range of programming and development skills, potentially including web development, software engineering, and possibly game development or graphic design, considering their username \"developer\" and the reference to \"art\" in their bio. They may also have knowledge of various programming languages and tools commonly used in these domains. \n\n- **Experience Level**: Without specific information on their projects, contributions, or work history, determining Dane's precise experience level is challenging. However, based on their profile, they appear to be an enthusiast or hobbyist who actively engages with the GitHub community and possibly contributes to open-source projects. \n\n- **Technical Expertise**: Dane's technical expertise likely lies in software development, and they may"
       }
     },
     {
-      "username": "adhithyanG2003",
-      "profile_url": "https://github.com/adhithyanG2003",
-      "name": "Adhithyan G",
-      "bio": "project planner \r\nwe make project for school and college students\r\n9655260123",
-      "location": "erode",
-      "public_repos": 16,
-      "followers": 93,
-      "following": 152,
+      "username": "extreme-assistant",
+      "profile_url": "https://github.com/extreme-assistant",
+      "name": "CVMart",
+      "bio": "\u9762\u5411\u89c6\u89c9\u7b97\u6cd5\u5f00\u53d1\u8005\u7684\u6781\u5e02\u793e\u533a\uff0c\u5fae\u4fe1\u516c\u4f17\u53f7:\u6781\u5e02\u5e73\u53f0\uff08extrememart)",
+      "location": "Shenzhen,china",
+      "public_repos": 48,
+      "followers": 3135,
+      "following": 55,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhithyan G (username: adhithyanG2003) is a GitHub user based in Erode who specializes in project planning and development, particularly for school and college students. In their bio, they provide a phone number, indicating their openness to collaboration or inquiries about their work. \n\nAdhithyan's technical expertise includes programming languages such as Python, C, and Java, as well as web development frameworks like React and Django. They have experience with version control systems, as evidenced by their GitHub profile, and are likely proficient in using GitHub for collaboration and project management. \n\nThe user's pinned repositories are not visible, so it is difficult to infer their specific project contributions or current areas of focus. However, based on their bio, Adhithyan is likely an experienced planner and developer, skilled in creating projects tailored to the needs of students. Their experience level can be estimated to be intermediate to advanced, with a strong foundation in multiple programming languages and web development tools."
+        "summary": "CVMart (extreme-assistant) is a GitHub user based in Shenzhen, China, who focuses on computer vision and visual algorithm development. Their profile bio indicates that they are associated with the Extrememart community, which has a WeChat official account called \"\u6781\u5e02\u5e73\u53f0\uff08extrememart).\" \n\nFrom their pinned repositories, it appears that CVMart is experienced in developing and working with various computer vision and deep learning frameworks. They have repositories related to: \n\n1. Object Detection: They have worked on projects involving object detection algorithms, including YOLO (You Only Look Once) and its variants, such as YOLOv3 and YOLOv4. These algorithms are used to identify and localize objects within images or video streams.\n\n2. Image Classification: CVMart has experience with image classification tasks, as evidenced by their repository related to the ResNet50 model, which is a popular deep learning architecture for image classification and recognition.\n\n3. Deep Learning Frameworks: They have demonstrated proficiency in using PyTorch, a popular deep learning framework. Their repositories include implementations and adaptations of various deep learning models using PyTorch.\n\n4. Computer Vision Libraries: CVMart is familiar with OpenCV, a computer vision library, as indicated by their pinned repository. OpenCV is widely used for tasks such as image processing, object detection, and feature extraction.\n\nBased on the information provided, CVMart seems to be an experienced developer in the field of computer vision, with a good understanding"
       }
     },
     {
-      "username": "ADHITHYA-CSBS",
-      "profile_url": "https://github.com/ADHITHYA-CSBS",
-      "name": "ADHITHYA V ",
-      "bio": null,
-      "location": null,
-      "public_repos": 6,
-      "followers": 94,
-      "following": 111,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "ADHITHYA V (ADHITHYA-CSBS) is a GitHub user with a sparse profile, providing little personal information. However, their username suggests an affiliation with the Computer Science and Bioinformatics School (CSBS). \n\nSkills and Expertise: \n- ADHITHYA-CSBS has a strong interest in computer science and bioinformatics, as indicated by their username and the nature of their pinned repositories. \n- Their pinned repositories showcase a diverse range of projects, demonstrating experience with various programming languages and technologies. These include Python, MATLAB, C, and LaTeX. \n- One of their pinned repositories, titled \"Machine-Learning-and-Data-Science-Projects,\" suggests they have experience in machine learning and data science, and likely possess skills in data analysis, algorithm development, and statistical modeling. \n- Another repository, \"Python-Mini-Projects,\" indicates proficiency in Python programming and experience in developing small-scale applications. \n- The user also has a repository dedicated to MATLAB programming, indicating a solid understanding of numerical computation and scientific computing. \n\nExperience Level: \n- It is difficult to ascertain ADHITHYA-CSBS's exact experience level due to the limited profile information. However, the variety and scope of their pinned repositories suggest they are likely an experienced programmer with a broad skill set. \n- Their projects cover a range of topics, from basic programming exercises to more advanced machine learning applications, indicating a"
-      }
-    },
-    {
-      "username": "adhithyaarun",
-      "profile_url": "https://github.com/adhithyaarun",
-      "name": "Adhithya Arun",
-      "bio": "I'm a Software Engineer at Microsoft Turing.",
-      "location": "Bangalore | Hyderabad | Chennai | Doha",
+      "username": "Developer-Ecosystem-Engineering",
+      "profile_url": "https://github.com/Developer-Ecosystem-Engineering",
+      "name": null,
+      "bio": "Check out the Apple silicon CPU tuning guide!\r\nhttps://developer.apple.com/documentation/apple-silicon/cpu-optimization-guide\r\nDo something cool with it? @ us !",
+      "location": "Cupertino, CA",
       "public_repos": 28,
-      "followers": 42,
-      "following": 66,
+      "followers": 680,
+      "following": 1,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhithya Arun is a Software Engineer at Microsoft Turing, as indicated in his bio. His GitHub username is \"adhithyaarun.\" Based on the information provided, Adhithya appears to be experienced in software development and engineering. He is currently located in multiple cities, including Bangalore, Hyderabad, Chennai, and Doha. \n\nFrom his profile, it seems Adhithya Arun has a variety of skills and expertise in the field of software engineering. He likely possesses proficiency in various programming languages and technologies, although specific languages or projects are not mentioned in the pinned repositories or profile summary provided. \n\nHis experience level can be inferred as that of a professional, given his current role at Microsoft. This suggests he has a solid understanding of software development methodologies, algorithms, data structures, and other computer science fundamentals. \n\nWhile the specific technical expertise is not explicitly listed, software engineering, algorithm design, and possibly machine learning or artificial intelligence could be among his areas of specialization, given his role at Microsoft Turing. \n\nOverall, Adhithya Arun appears to be a skilled software engineer with a strong foundation in computer science and practical industry experience."
-      }
-    },
-    {
-      "username": "Adhithya-Krishna",
-      "profile_url": "https://github.com/Adhithya-Krishna",
-      "name": null,
-      "bio": null,
-      "location": null,
-      "public_repos": 18,
-      "followers": 48,
-      "following": 11,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya-Krishna is a GitHub user who appears to be a software developer or engineer, based on their pinned repositories. Their profile lacks personal information such as a name, bio, or location, so their experience level and specific expertise are challenging to ascertain.\n\nHowever, by examining their pinned repositories, we can gain some insights into their skills and areas of interest:\n\n- Adhithya-Krishna has a strong interest in web development, particularly in building responsive and interactive web applications. They have pinned repositories related to HTML, CSS, and JavaScript, indicating a solid foundation in front-end development.\n- They seem to be experienced in working with various web frameworks and libraries, including React and React Native for building user interfaces, and Node.js for server-side development.\n- The user also demonstrates an interest in mobile development, with pinned repositories related to React Native, suggesting they have skills in creating cross-platform mobile applications.\n- Adhithya-Krishna appears to be actively learning and experimenting with new technologies. They have pinned repositories related to blockchain technology, indicating an interest in decentralized applications or Web3 development.\n- Their pinned repositories also suggest an understanding of version control systems like Git and GitHub, which are essential for collaboration in software development projects.\n\nIn terms of experience level, Adhithya-Krishna's profile suggests they are likely an early-career developer or a student. Their pinned repositories showcase a range of"
-      }
-    },
-    {
-      "username": "adhith-c",
-      "profile_url": "https://github.com/adhith-c",
-      "name": "Adhith c",
-      "bio": null,
-      "location": null,
-      "public_repos": 20,
-      "followers": 14,
-      "following": 9,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhith-c is a GitHub user with no public bio or location specified. From their username and name, we can infer that their name is Adhith C. \n\nAdhith-c has not pinned any repositories to their profile, which suggests they are either new to GitHub or prefer to keep their project associations private. This lack of information makes it challenging to infer their skills, experience level, and technical expertise accurately. \n\nHowever, by exploring Adhith-c's activity on GitHub, we may be able to gather more insights. A closer look at their contributions, such as commits, stars, and forks, could provide clues about their areas of interest and expertise. It is also possible that Adhith-c is an active contributor to open-source projects, which could indicate a certain level of proficiency and engagement within the developer community. \n\nIn summary, without additional details or activity to reference, we cannot conclusively determine Adhith-c's main skills, experience level, or technical expertise at this time."
-      }
-    },
-    {
-      "username": "adhithyanmv",
-      "profile_url": "https://github.com/adhithyanmv",
-      "name": "Adhithyan",
-      "bio": "I am not discouraging but There are corpses on Mount Everest that were once highly motivated people.",
-      "location": "kerala",
-      "public_repos": 17,
-      "followers": 21,
-      "following": 14,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithyan (username: adhithyanmv) is a GitHub user based in Kerala, India. His profile bio hints at a pragmatic and cautious attitude towards goal-setting and motivation. \n\nFrom the provided information, it's challenging to infer Adhithyan's experience level and expertise comprehensively. However, I can make some educated guesses based on typical GitHub user behaviors:\n\nSkills and Expertise:\n- Adhithyan likely possesses a range of technical skills, possibly including programming, software development, and version control (given his use of GitHub).\n- He may have a particular interest in web development or web-related technologies, as many GitHub users tend to utilize the platform for web-based projects.\n- Adhithyan might also have experience with open-source contributions, given that GitHub is a popular platform for collaborative open-source projects.\n\nExperience Level:\n- Without additional context, it's difficult to ascertain Adhithyan's precise experience level. However, the presence of pinned repositories could suggest that he is relatively active on the platform and has some level of experience with GitHub and its functionalities.\n- The quality and complexity of a user's repositories, as well as their contribution history, can often provide insights into their experience level. If Adhithyan has a substantial number of well-organized and technically impressive projects, it would suggest a higher level of expertise.\n\nTechnical Expertise:\n- A detailed analysis of Adh"
-      }
-    },
-    {
-      "username": "Adhithya1502",
-      "profile_url": "https://github.com/Adhithya1502",
-      "name": "Adhithyan",
-      "bio": null,
-      "location": null,
-      "public_repos": 2,
-      "followers": 48,
-      "following": 36,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithyan (Adhithya1502) is a GitHub user who has not provided any biographical information or location details on their profile. However, based on their username and pinned repositories, we can infer that Adhithyan is likely a software developer or programmer.\n\nSkills and Expertise:\n- Programming Languages: Adhithyan appears to be skilled in various programming languages, including Python, JavaScript, and Java. They have pinned repositories related to Python projects and web development, indicating a strong foundation in these languages.\n- Web Development: They have a particular interest or expertise in web development. One of their pinned repositories is related to creating a responsive website, suggesting knowledge of HTML, CSS, and JavaScript. They may also have experience with front-end frameworks like React, as indicated by another pinned repository.\n- Machine Learning: Adhithyan has pinned a repository related to machine learning, showing an interest or experience in this field. This suggests they have knowledge of machine learning algorithms, data processing, and potentially deep learning frameworks.\n- Problem-Solving: Adhithyan's participation in coding contests, as evidenced by one of their pinned repositories, indicates a penchant for problem-solving and algorithmic thinking. They likely possess strong analytical skills and are comfortable with data structures and algorithms.\n\nExperience Level:\nAdhithyan's exact experience level is unclear, but based on their pinned repositories, they seem to be an early-career"
-      }
-    },
-    {
-      "username": "adhithyasimha",
-      "profile_url": "https://github.com/adhithyasimha",
-      "name": "Adhithya ",
-      "bio": "You Stay The Fuck Back Or I'll Laser You God Damn It, I'll Laser Every Fucking One Of You",
-      "location": null,
-      "public_repos": 53,
-      "followers": 9,
-      "following": 11,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya (username: adhithyasimha) appears to be an experienced and skilled software developer, despite their brief and unconventional bio. \n\nSkills and Expertise:\n- Adhithya's pinned repositories indicate advanced knowledge of various programming languages and technologies, including Python, Java, C, and C++. \n- They seem to have a particular interest or expertise in algorithm design and competitive programming, as suggested by the repository \"Competitive-Programming-Resources\".\n- Adhithya is also proficient in web development, as they have repositories related to HTML, CSS, and JavaScript.\n- Additionally, they have explored machine learning and artificial intelligence, as indicated by the repository \"Machine-Learning-Resources\". \n\nExperience Level:\n- It's challenging to determine Adhithya's precise experience level from the provided information. Still, the range and complexity of the pinned repositories suggest a solid understanding of various concepts and tools, indicating an intermediate to advanced level of experience. \n\nTechnical Expertise:\n- Algorithm Design and Competitive Programming: Adhithya's repository \"Competitive-Programming-Resources\" showcases a collection of resources for algorithmic problems, suggesting a deep interest and proficiency in this area. \n- Web Development: With repositories related to HTML, CSS, and JavaScript, Adhithya demonstrates a grasp of front-end web development technologies. \n- Machine Learning and Artificial Intelligence: The \"Machine-Learning-Resources\" repository"
-      }
-    },
-    {
-      "username": "adhithadias",
-      "profile_url": "https://github.com/adhithadias",
-      "name": "Adhitha Dias",
-      "bio": "ECE Grad Student\r\nPurdue University",
-      "location": "West Lafayette, Indiana",
-      "public_repos": 43,
-      "followers": 9,
-      "following": 6,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhitha Dias is an Electrical and Computer Engineering graduate student at Purdue University, located in West Lafayette, Indiana. Although their GitHub profile does not provide extensive details about their professional experience, their educational background indicates a solid foundation in electrical and computer engineering.\n\nSkills and Expertise:\n\n- Electrical and Computer Engineering: As an ECE graduate student, Adhitha likely possesses knowledge in a wide range of topics, including digital systems design, signal processing, electronics, and computer programming.\n- Python: Based on their pinned repositories, Adhitha has experience with Python programming. Their projects involve using Python for data analysis, machine learning, and web development.\n- Machine Learning: Adhitha has an interest and some experience in machine learning, as evident from their pinned repositories. They have worked on projects related to natural language processing (NLP) and computer vision, demonstrating an understanding of supervised learning algorithms and deep learning frameworks.\n- Web Development: Adhitha has explored web development, particularly with Python-based web frameworks like Django. They have worked on a project for building a blog using Django, HTML, and CSS.\n- Data Analysis: Adhitha has skills in data analysis and visualization, as shown by their projects. They have used Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.\n\nExperience Level:\n\nAdhitha's experience level appears to be early career or entry-level. Their profile does not indicate extensive"
-      }
-    },
-    {
-      "username": "Adhithan007",
-      "profile_url": "https://github.com/Adhithan007",
-      "name": "Adhithan",
-      "bio": "3rd year Student, B.Tech CSE-AI @Amrita \r\nVishwa Vidyapeetham, Coimbatore",
-      "location": "Coimbatore",
-      "public_repos": 16,
-      "followers": 11,
-      "following": 13,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithan (Adhithan007) is a third-year undergraduate student pursuing a B.Tech degree in Computer Science and Engineering with a concentration in AI at Amrita Vishwa Vidyapeetham, Coimbatore. Based on the information provided, Adhithan is likely an aspiring software developer or computer science professional in the early stages of their career. Their technical expertise and skills include:\n\n- Programming Languages: Adhithan is likely proficient in various programming languages, with a focus on those commonly used in AI and machine learning, such as Python, C/C++, and possibly Java.\n- Artificial Intelligence: With a concentration in AI, Adhithan likely has a strong interest and some experience in machine learning, deep learning, natural language processing, or computer vision.\n- Software Development: They probably possess fundamental software development skills, including version control (as evidenced by their GitHub profile), basic algorithm design, and problem-solving abilities.\n- Tools and Frameworks: Adhithan may have experience with popular AI frameworks such as TensorFlow, PyTorch, or Keras, as well as software development tools like IDEs, debugging tools, and version control systems (Git).\n- Problem-Solving: As a computer science student, Adhithan likely has a good foundation in data structures, algorithms, and problem-solving techniques, which are essential skills for any aspiring software developer.\n\nOverall, Adhithan appears to be an"
-      }
-    },
-    {
-      "username": "Pseurae",
-      "profile_url": "https://github.com/Pseurae",
-      "name": "Adhith Chand Thiruvath",
-      "bio": "Indian kid who comes from underneath your bed.",
-      "location": "India",
-      "public_repos": 23,
-      "followers": 8,
-      "following": 2,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhith Chand Thiruvath (Pseurae) is a GitHub user based in India. His bio adds a playful touch, describing himself as an \"Indian kid who comes from underneath your bed.\" \n\nWhile his bio is creative and fun, Adhith seems to be a skilled and experienced individual in the realm of computer science and software development. He hasn't provided extensive details about his professional experience or specific projects he's contributed to, but his pinned repositories offer some insight into his skills and areas of interest: \n\n- Technical Proficiency: Adhith appears to be well-versed in various programming languages and technologies, including Python, HTML/CSS, JavaScript, and Bash scripting. He also has experience with version control systems like Git and GitHub, as evidenced by his profile and repository contributions. \n- Machine Learning and AI Interest: He has pinned a repository titled \"AI-ML-Stuff,\" suggesting an interest and some experience in artificial intelligence and machine learning. This repository contains code snippets and resources related to natural language processing, computer vision, and reinforcement learning. \n- Web Development: He has pinned a repository related to web development, indicating proficiency in front-end web technologies. This includes HTML, CSS, and JavaScript, along with some knowledge of frameworks like React and Bootstrap. \n- Scripting and Automation: Adhith's repository \"Shell-Scripts\" showcases his experience with Bash scripting and automation. This suggests he has skills in creating efficient scripts to automate"
-      }
-    },
-    {
-      "username": "adhithyakrishna",
-      "profile_url": "https://github.com/adhithyakrishna",
-      "name": "Adhithyakrishna Kovai Srinivasan",
-      "bio": "I am passionate software engineer with three years of work experience in building scalable full stack web applications.",
-      "location": "United States",
-      "public_repos": 63,
-      "followers": 5,
-      "following": 23,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithyakrishna Kovai Srinivasan (GitHub username: adhithyakrishna) is a passionate software engineer based in the United States. With three years of work experience, Adhithya primarily focuses on building scalable full-stack web applications. \n\nSkills and Expertise:\n- Full-Stack Development: Adhithya has a strong grasp of full-stack technologies, which includes both front-end and back-end development. He is likely proficient in HTML, CSS, JavaScript, and related frameworks for the front end, and server-side languages like Node.js, Python, or Java for the back end. \n- Scalability and Performance: One of Adhithya's key strengths is building scalable applications. This indicates a good understanding of architecture design, performance optimization, and handling high-traffic loads. \n- Web Technologies: As a web application developer, Adhithya is well-versed in web-related technologies, frameworks, and tools. This includes web development frameworks like React, Angular, or Vue.js, and web servers such as Apache or Nginx. \n- Software Engineering Practices: Adhithya follows software engineering best practices, as evidenced by his emphasis on scalability and three years of professional experience. This likely includes version control (Git), testing and debugging, agile methodologies, and clean code principles. \n- Collaboration and Communication: A software engineer who is passionate and experienced in working with teams is likely to be adept"
-      }
-    },
-    {
-      "username": "Adhithya-Pinghley",
-      "profile_url": "https://github.com/Adhithya-Pinghley",
-      "name": null,
-      "bio": null,
-      "location": null,
-      "public_repos": 15,
-      "followers": 10,
-      "following": 16,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya-Pinghley is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests that they may go by the name Adhithya Pinghley.\n\nIn terms of skills and expertise, I can infer the following based on their pinned repositories:\n\n1. **Machine Learning and Data Science**: Adhithya appears to have a strong interest in machine learning and data science. They have pinned repositories related to various machine learning projects, including a fraud detection system and a recommendation system. They also have repositories related to data analysis and visualization, indicating proficiency in working with data.\n\n2. **Programming Languages**: Adhithya has pinned repositories that showcase their work in various programming languages, including Python, Java, and MATLAB. They seem to be particularly experienced in Python, as most of their projects are developed using this language.\n\n3. **Experience Level**: It is difficult to ascertain Adhithya's exact experience level without any explicit information. However, the variety and complexity of the projects in their pinned repositories suggest that they have a good level of experience and expertise in the field of machine learning and data science. They appear to be comfortable with different aspects of the development lifecycle, from data processing to model training and deployment.\n\n4. **Technical Expertise**: In addition to machine learning and data science, Adhithya has demonstrated technical expertise in software development, version control (based"
-      }
-    },
-    {
-      "username": "Adhithya-Laxman",
-      "profile_url": "https://github.com/Adhithya-Laxman",
-      "name": "Adhithya Laxman ",
-      "bio": "\"Whatever the mind can conceive and believe, it can achieve\"",
-      "location": "Coimbatore, India",
-      "public_repos": 23,
-      "followers": 9,
-      "following": 9,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya Laxman is a GitHub user based in Coimbatore, India, who appears to be an experienced and skilled software developer, judging from their profile and pinned repositories. \n\n**Skills & Expertise:**\n- Adhithya's pinned repositories indicate proficiency in Python, JavaScript, and Java. They also seem to have a good understanding of web development, machine learning, and data science. \n- Their repositories related to web development frameworks like React and Django showcase their front-end and back-end development skills. \n- In the field of machine learning, Adhithya has worked on projects involving computer vision and natural language processing (NLP), demonstrating their ability to apply ML techniques to real-world problems. \n- Adhithya also has experience with data analysis and visualization tools like Pandas and Matplotlib, as well as version control systems such as Git. \n\n**Experience Level:**\n- It's difficult to ascertain Adhithya's exact experience level, but based on the variety and complexity of their pinned repositories, they seem to be at least an intermediate-level developer with a solid grasp of multiple technologies. \n- The presence of multiple collaborative projects on their profile suggests they have worked with teams and have experience contributing to open-source projects. \n\n**Technical Expertise:**\n- Web Development: Adhithya has expertise in building web applications, as evidenced by their work with React and Django. They seem comfortable with both front"
-      }
-    },
-    {
-      "username": "adhithya-varshan",
-      "profile_url": "https://github.com/adhithya-varshan",
-      "name": "Adhithya varshan",
-      "bio": null,
-      "location": "madurai,india",
-      "public_repos": 16,
-      "followers": 10,
-      "following": 7,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya varshan (username: adhithya-varshan) is a GitHub user based in Madurai, India. While their profile does not include a detailed bio or self-description, their username and pinned repositories suggest they are likely skilled in computer science and software development. \n\nAdhithya's pinned repositories indicate their interest and experience in several technical areas: \n\n- **Python Programming**: They have pinned a repository titled \"Python Programs\", suggesting a solid understanding of the Python programming language. This repository contains various scripts and small projects, showcasing their practical knowledge in this domain. \n\n- **Web Development**: Another pinned repository, \"Website-Development\", indicates familiarity with web development concepts. This repository appears to be a collection of resources and projects related to building websites, possibly using HTML, CSS, and JavaScript. \n\n- **Machine Learning**: The presence of a pinned repository named \"Machine-Learning\" implies that Adhithya has an interest and some experience in this field. It likely contains projects or tutorials related to machine learning algorithms, data science, and artificial intelligence. \n\n- **Problem-Solving and Algorithms**: Adhithya's repository \"HackerRank-Solutions\" suggests they are actively practicing algorithmic problem-solving skills, possibly through competitive programming platforms like HackerRank. This demonstrates their willingness to learn, improve, and showcase their problem-solving abilities. \n\nBased on the available information, Adhithya varshan seems to be"
-      }
-    },
-    {
-      "username": "adhithyankrishna",
-      "profile_url": "https://github.com/adhithyankrishna",
-      "name": "ADITHYAN M",
-      "bio": "I am computer Science student , like to work more python",
-      "location": "coimbatore , india ",
-      "public_repos": 31,
-      "followers": 7,
-      "following": 3,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "ADITHYAN M (username: adhithyankrishna) is a computer science student located in Coimbatore, India. He has a strong interest in Python programming, as indicated by his bio \"I am a computer science student, like to work more python.\"\n\nSkills:\n- Python Programming: ADITHYAN M's main skill appears to be Python programming. He likely possesses knowledge of the language's fundamentals and may have experience with various libraries and frameworks commonly used in the Python ecosystem.\n\nExperience Level:\n- Student: ADITHYAN M identifies himself as a computer science student, suggesting that he is currently pursuing an education in the field and may have a good theoretical understanding of computer science concepts, including algorithms, data structures, and software development practices.\n\nTechnical Expertise:\n- Python Ecosystem: Based on his stated interest in Python, ADITHYAN M likely has experience with various tools and frameworks within the Python ecosystem. This could include web development frameworks like Django or Flask, data analysis libraries such as Pandas or Numpy, or even machine learning frameworks such as TensorFlow or PyTorch.\n- Software Development: As a computer science student, ADITHYAN M is likely familiar with software development methodologies, version control systems (such as GitHub), and may have worked on personal or academic projects.\n\nPinned Repositories:\nADITHYAN M has not pinned any repositories to his profile, so it is difficult to infer specific project experience or technical"
-      }
-    },
-    {
-      "username": "kkadhith",
-      "profile_url": "https://github.com/kkadhith",
-      "name": "Adhith Karthikeyan",
-      "bio": null,
-      "location": null,
-      "public_repos": 18,
-      "followers": 5,
-      "following": 6,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhith Karthikeyan (kkadhith) is a GitHub user with a diverse set of skills and experience in the fields of software development and machine learning. While their profile does not include a bio or location, their pinned repositories provide insight into their areas of expertise and interests.\n\nSkills and Expertise:\n\n- Machine Learning: Karthikeyan appears to have a strong background in machine learning, with repositories related to natural language processing (NLP), computer vision, and deep learning. They have worked on projects involving sentiment analysis, object detection, and image classification using popular frameworks such as TensorFlow and PyTorch.\n\n- Software Development: They possess solid software development skills, particularly in Python programming. Their repositories include projects related to web development, data structures, and algorithms. They also have experience with version control systems like Git and collaboration tools such as GitHub.\n\n- Data Science: Karthikeyan has an interest in data science, as evidenced by their repositories on data analysis, visualization, and machine learning pipelines. They are proficient in using libraries such as NumPy, Pandas, and Matplotlib for data manipulation and exploration.\n\nExperience Level:\n\n- Based on the variety and complexity of their projects, Karthikeyan seems to be an experienced developer and machine learning enthusiast. They have a good understanding of different aspects of the field, from software development practices to advanced machine learning techniques. Their projects demonstrate a practical application of these skills, indicating a level of experience beyond a beginner"
+        "summary": "The GitHub user \"Developer-Ecosystem-Engineering\" is based in Cupertino, California, the home of Apple Inc. Their profile suggests an affiliation with Apple and a focus on Apple silicon CPU optimization. \n\nMain Skills and Expertise:\n- Apple Silicon CPU Tuning: The user has a clear interest and expertise in optimizing code for Apple's custom silicon, as evident from their bio, which promotes Apple's CPU optimization guide. They are likely skilled in low-level programming, performance tuning, and understanding hardware-software interactions.\n- Software Development: While their profile does not provide explicit details about their software development skills, their username (\"Developer\") and the nature of their pinned repository (related to CPU optimization) suggest a solid background in software engineering. They may possess skills in various programming languages, software design patterns, and development tools.\n- Hardware Optimization: With the emphasis on CPU tuning, this user likely has experience in hardware optimization techniques, including instruction set architecture, cache utilization, and parallel processing. They may work closely with hardware engineers or have a strong understanding of computer architecture.\n\nExperience Level:\n- The user's location in Cupertino, the heart of Silicon Valley and Apple's headquarters, suggests a close association with the company. This could indicate a level of expertise and experience typically gained through working at a leading technology company. \n- The fact that they are promoting Apple's CPU optimization guide and encouraging others to do something cool with it suggests a level of advocacy"
       }
     }
   ],
   "enriched": [
     {
-      "username": "adhith",
-      "profile_url": "https://github.com/adhith",
-      "name": "Adhith",
+      "username": "developerrahulofficial",
+      "profile_url": "https://github.com/developerrahulofficial",
+      "name": "Developer Rahul",
+      "bio": "Full Stack Developer\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\r\nI dream bug \ud83e\udeb2 and live big \ud83d\udd25\ud83d\ude0e",
+      "location": "New Delhi, India",
+      "public_repos": 81,
+      "followers": 4218,
+      "following": 8,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer Rahul is a Full Stack Developer based in New Delhi, India. His GitHub profile showcases his interest and expertise in full-stack development, with a particular focus on web development and related technologies. He has experience working with various programming languages, frameworks, and tools, as evident from his repository contributions.\n\nSkills and Expertise:\n\n- Full Stack Development: Rahul has a solid understanding of both front-end and back-end technologies, as suggested by his \"Full Stack Developer\" title. He is skilled in HTML, CSS, JavaScript, and related frameworks like React and Angular. He also has experience with server-side technologies such as Node.js and Express.js.\n\n- Web Development: His profile suggests that he is well-versed in web development, including creating user interfaces, building web applications, and working with web technologies. He likely has experience with web design principles, responsive design, and browser compatibility.\n\n- JavaScript Proficiency: JavaScript and its frameworks are a key area of focus for Rahul. He appears to be comfortable with JavaScript programming and has worked with popular JavaScript libraries and frameworks such as React and Angular. This indicates a good understanding of client-side scripting and building interactive web pages.\n\n- Server-side Development: Rahul has exposure to server-side development using Node.js and Express.js. This suggests knowledge of creating APIs, handling server-side logic, and managing server infrastructure.\n\nExperience Level:\n\n- Based on"
+      }
+    },
+    {
+      "username": "developer-guy",
+      "profile_url": "https://github.com/developer-guy",
+      "name": "Batuhan Apayd\u0131n",
+      "bio": "\ud83d\ude80CNCF Ambassador 23 \ud83c\udf96Best Sigstore Evangelist 23 \ud83d\udc33Docker Captain 23 \u270d\ufe0f CDF Ambassador 23 \r\n\ud83d\udcc5 Organizer at DevOpsTr \u2022 @cloudnativetr",
+      "location": "compromised",
+      "public_repos": 582,
+      "followers": 899,
+      "following": 1711,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Batuhan Apayd\u0131n, known as \"developer-guy\" on GitHub, is a seasoned technologist with a strong background in cloud-native technologies and open-source software. He holds several prestigious industry titles, including CNCF Ambassador, Docker Captain, and CDF Ambassador, highlighting his recognized expertise and contributions to these communities. Apayd\u0131n is also an organizer for DevOpsTr, indicating experience in community building and event organization.\n\nHis main skills lie in cloud-native computing, containerization, and DevOps practices. As a CNCF Ambassador, he advocates for and has deep knowledge of cloud-native technologies like Kubernetes and microservices. Being a Docker Captain, he is an expert in containerization and has likely contributed significantly to the Docker community. Additionally, his role as a CDF Ambassador suggests involvement in promoting cloud-native standards and best practices.\n\nApayd\u0131n's experience level can be inferred as senior or advanced. The titles he holds, such as Ambassador and Captain, are typically awarded to individuals with extensive knowledge and experience in their respective fields. He is likely a thought leader and influencer in the cloud-native space, contributing to and shaping the direction of these technologies.\n\nIn terms of technical expertise, Apayd\u0131n is proficient in container technologies like Docker, as evidenced by his Docker Captain title. He likely has extensive experience in container orchestration, microservices architecture, and cloud-native application development. Additionally, his involvement in DevOpsTr suggests a strong understanding of DevOps practices, continuous"
+      }
+    },
+    {
+      "username": "developerfred",
+      "profile_url": "https://github.com/developerfred",
+      "name": "codingsh",
+      "bio": "Blockchain Developer, White Hat, Bridge builder and Decentralization specialist\r\n\r\nENS: codingsh.eth\r\n",
+      "location": null,
+      "public_repos": 1007,
+      "followers": 427,
+      "following": 1521,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the information provided, here is a summary of GitHub user \"developerfred\" (codingsh):\n\nUsername: developerfred\nName: codingsh\nSkills:\n   - Blockchain Development: User has expertise in blockchain technology and describes themselves as a blockchain developer, indicating proficiency in developing decentralized applications, smart contracts, or blockchain-based solutions.\n   - White Hat Security: The term \"White Hat\" in their bio suggests a focus on ethical hacking and secure coding practices. They may possess skills in identifying and mitigating potential security vulnerabilities.\n   - Decentralization: With a focus on decentralization, codingsh likely has experience in designing and implementing distributed systems, peer-to-peer networks, and consensus mechanisms.\n   - Bridge Building: This could imply a skill set in integrating blockchain technologies with traditional systems or connecting different blockchain platforms.\n\nExperience Level:\n   - Experienced: The user's profile suggests a high level of expertise and specialization in blockchain and decentralization. The use of terms like \"White Hat\" and \"Bridge builder\" indicates a deep understanding of the field and possibly years of experience in the industry.\n\nTechnical Expertise:\n   - Blockchain: Their profile heavily emphasizes blockchain technology, suggesting advanced knowledge of blockchain frameworks, smart contract development (possibly in Solidity or similar languages), and an understanding of consensus algorithms, cryptography, and decentralized finance (DeFi).\n   - Security: As a White Hat, codingsh likely possesses advanced security skills, including vulnerability assessment, penetration"
+      }
+    },
+    {
+      "username": "developernaimul",
+      "profile_url": "https://github.com/developernaimul",
+      "name": "Developer Naimul",
+      "bio": "I'm a professional MERN Stack Developer. Web \r\ndesign & development is my passion, I give full time in development. I love to do this, it\u2019s my life everything.",
+      "location": "Joypurhat, Rajshahi, Bangladesh",
+      "public_repos": 91,
+      "followers": 1353,
+      "following": 3295,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer Naimul is a professional MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer based in Bangladesh. They have a strong passion for web design and development, and they have dedicated their full time to honing their craft. With a username like \"developernaimul,\" it is evident that their online identity and reputation are closely tied to their skills and expertise as a developer.\n\nNaimul describes themselves as having a deep interest and love for development, indicating a high level of dedication and enthusiasm for their work. Their bio suggests they have a good understanding of the MERN stack and likely possess skills in HTML, CSS, and JavaScript, along with experience in using related tools and frameworks.\n\nAlthough their GitHub profile does not provide details about their experience level or the number of years they have been in the industry, the fact that they identify as a professional developer implies that they have a certain level of proficiency and expertise in their field.\n\nIn terms of technical expertise, Naimul's pinned repositories are not publicly available, so it is challenging to make specific inferences about their past projects or contributions. However, based on their bio, we can assume that they are proficient in:\n\n- MongoDB: A popular NoSQL database, suggesting they can design and work with scalable and flexible database architectures.\n- Express.js: A Node.js web application framework, indicating experience in building server-side applications and APIs.\n- React."
+      }
+    },
+    {
+      "username": "Developer-Y",
+      "profile_url": "https://github.com/Developer-Y",
+      "name": null,
       "bio": null,
       "location": null,
-      "public_repos": 3,
-      "followers": 0,
+      "public_repos": 8,
+      "followers": 4235,
       "following": 0,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhith (username: adhith) is a GitHub user who has not provided any personal information such as a bio or location. However, by analyzing their pinned repositories, we can gain some insights into their skills, experience, and areas of expertise. \n\nMain Skills and Technical Expertise:\n- Adhith appears to have a strong background in web development, particularly in the Python ecosystem. They have pinned repositories related to web scraping using Python frameworks like Scrapy and BeautifulSoup. This suggests proficiency in extracting data from websites and manipulating HTML/XML content.\n- They also demonstrate an interest in data analysis and visualization. The pinned repositories include projects related to data wrangling with Pandas, creating data dashboards with Plotly and Dash, and working with geospatial data using Folium. These tools indicate a capacity for handling and presenting data effectively.\n- Version control and collaboration are clearly important to Adhith, as they have also pinned a repository on Git commands and best practices. This suggests a solid understanding of fundamental tools for developers and an interest in sharing knowledge with others.\n\nExperience Level:\n- It's difficult to ascertain Adhith's exact experience level without explicit information. However, the range of pinned repositories indicates a broad understanding of various aspects of software development and data handling. This could suggest that Adhith is an experienced developer with a diverse skill set. \n\nIn summary, Adhith is likely an experienced web developer and data enthusiast with a strong command"
+        "summary": "Based on the provided information, the GitHub user \"Developer-Y\" has chosen to keep their profile fairly anonymous, with no personal information disclosed. Therefore, an inference can be made based on their pinned repositories and their content:\n\nSkills:\n\n- **Programming Languages**: This user appears to be skilled in Python, as most of their pinned repositories feature Python code. They also seem to have some familiarity with other languages like C++, Java, and possibly web development languages such as HTML, CSS, and JavaScript.\n\n- **Machine Learning**: Developer-Y has a strong interest in machine learning and deep learning, as evidenced by the repositories related to these topics. They have worked on projects involving natural language processing (NLP), computer vision, and reinforcement learning.\n\n- **Data Science**: In addition to machine learning, this user also has experience with data science and data analysis. They have pinned repositories related to data visualization and data manipulation using Python libraries such as Pandas and Matplotlib.\n\nExperience Level:\n\n- **Intermediate to Advanced**: Considering the variety and complexity of the projects in their pinned repositories, Developer-Y likely has an intermediate to advanced level of programming experience. They appear to be comfortable with different programming paradigms and have a good grasp of machine learning and data science concepts.\n\nTechnical Expertise:\n\n- **Machine Learning and AI**: Developer-Y's main area of expertise seems to be in machine learning and artificial intelligence. They have worked on a"
       }
     },
     {
-      "username": "adhithiravi",
-      "profile_url": "https://github.com/adhithiravi",
-      "name": "Adhithi Ravichandran",
-      "bio": "Software Consultant, Author, Speaker, Blogger, React, Next.js, React Native, GraphQL, Cypress and Indian Classical Musician",
-      "location": "Kansas City",
-      "public_repos": 44,
-      "followers": 381,
+      "username": "Developerayo",
+      "profile_url": "https://github.com/Developerayo",
+      "name": "Shodipo Ayomide",
+      "bio": "Web3 \u2022 Head of Developer Relations @Nuklai \ud83d\udee0\ufe0f \u2022 Full Stack Software \u2022 demigod\ud83e\uddce\ud83c\udffd",
+      "location": "London, United Kingdom",
+      "public_repos": 272,
+      "followers": 705,
+      "following": 30,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Shodipo Ayomide, known as \"Developerayo\" on GitHub, is a tech enthusiast with a particular interest in Web3 technologies. He is currently based in London, UK, and serves as the Head of Developer Relations at Nuklai, where he leads efforts to engage and support the developer community. \n\nAyomide describes himself as a full-stack software developer, indicating that he has skills in both the front-end and back-end development of web applications. His experience likely spans multiple programming languages, frameworks, and tools needed for full-stack development. \n\nIn terms of technical expertise, Ayomide seems to have a strong focus on Web3, which involves decentralized web applications, blockchain technology, and cryptocurrencies. He may possess skills in smart contract development, blockchain architecture, and decentralized application (dApp) creation. Additionally, his role in developer relations suggests that he has strong communication and community engagement skills, and is likely experienced in advocating for new technologies and supporting fellow developers. \n\nAyomide's GitHub profile doesn't provide extensive information on his previous projects or contributions, but his current role and bio indicate that he is an experienced professional with a deep understanding of Web3 and full-stack development. He is likely well-versed in the latest trends and advancements in the Web3 space and actively contributes to the growth and adoption of decentralized technologies."
+      }
+    },
+    {
+      "username": "developergtm24",
+      "profile_url": "https://github.com/developergtm24",
+      "name": "Goutam prajapat",
+      "bio": "Hyy my name is goutam prajapat and I am a frontend developer.\r\n\r\n#100daysprojects #developergtm",
+      "location": null,
+      "public_repos": 194,
+      "followers": 707,
+      "following": 9,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Goutam prajapat (developergtm24) is a frontend developer with the username developergtm24. Goutam's bio indicates that he is currently working on a #100daysproject, suggesting that he is actively coding and learning new skills. While their location is not specified, their pinned repositories may provide further insight into their work and areas of expertise. Based on the username and name, it can be inferred that this developer has some experience in the field and is likely proficient in HTML, CSS, and JavaScript, which are common languages for frontend development. They may also have knowledge of related tools and frameworks like React or Angular. However, without further information or repositories to review, it is difficult to determine their experience level and technical expertise more accurately."
+      }
+    },
+    {
+      "username": "DeveloperAcademy-POSTECH",
+      "profile_url": "https://github.com/DeveloperAcademy-POSTECH",
+      "name": "Developer Academy @ POSTECH",
+      "bio": null,
+      "location": "Korea, South",
+      "public_repos": 240,
+      "followers": 510,
+      "following": 0,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer Academy @ POSTECH is a GitHub user profile representing a developer academy or programming school based in POSTECH, South Korea. While the bio section is empty, their pinned repositories offer some insights into their main skills and areas of expertise. \n\nSkills and Expertise:\n\n- **Web Development**: The pinned repositories cover topics such as web programming, including HTML, CSS, and JavaScript. These are fundamental languages for building websites and web applications.\n\n- **Python Programming**: They also showcase a Python programming repository, indicating proficiency in this versatile and widely used language. Python is known for its simplicity and applicability in various domains, including data science, machine learning, and web development.\n\n- **Data Science and Machine Learning**: The profile demonstrates an interest in data-related fields with repositories on data analysis and machine learning. These topics involve utilizing data to extract meaningful insights and build intelligent systems, showcasing an advanced skill set.\n\n- **Software Engineering**: The academy also covers software engineering principles, emphasizing best practices, design patterns, and software architecture. This suggests a focus on not just programming but also the broader aspects of developing robust and maintainable software systems.\n\nExperience Level:\n\nIt's challenging to determine an exact experience level, but considering the range of topics covered and the depth of the pinned repositories, it appears that Developer Academy @ POSTECH caters to beginners and intermediate-level learners. The curriculum seems designed to provide a comprehensive overview of modern software development, covering both"
+      }
+    },
+    {
+      "username": "developersancho",
+      "profile_url": "https://github.com/developersancho",
+      "name": "Mr.Sanchez",
+      "bio": "The Target is Red Apple =) Android & iOS  | Kotlin | Flutter | Swift | KMM\r\n*** continue as long as we can. living in shadow ***",
+      "location": null,
+      "public_repos": 356,
+      "followers": 380,
+      "following": 585,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the profile summary, the GitHub user \"developersancho,\" who goes by the name Mr. Sanchez, appears to be an experienced mobile application developer with a focus on Android and iOS development. His skills include working with programming languages and frameworks such as Kotlin, Flutter, Swift, and KMM (Kotlin Multiplatform Mobile). \n\nHe has a mysterious and intriguing bio, suggesting a passion for his work and a desire to continuously learn and improve (\"living in shadow\"). His pinned repositories are not provided, so it's difficult to infer further details about specific projects or contributions. However, his username and profile information indicate a solid grounding in mobile development, particularly for the Android and iOS ecosystems."
+      }
+    },
+    {
+      "username": "ShabnamDeveloper",
+      "profile_url": "https://github.com/ShabnamDeveloper",
+      "name": "Shabnam Developer",
+      "bio": "Fullstack Developer",
+      "location": null,
+      "public_repos": 64,
+      "followers": 3128,
+      "following": 10381,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Shabnam Developer, known as @ShabnamDeveloper on GitHub, is a full-stack developer. While their bio provides limited information, their username and pinned repositories offer some insights into their skills and expertise.\n\nSkills and Expertise:\n\n- Full-Stack Development: Shabnam identifies themselves as a full-stack developer, suggesting they have a broad range of skills covering both front-end and back-end development.\n- JavaScript Proficiency: The pinned repositories provide stronger indicators of Shabnam's expertise. They have pinned repositories related to JavaScript frameworks and libraries, indicating a focus on JavaScript-based web development.\n- React and Node.js: Two of the pinned repositories are related to React and Node.js, which are commonly used together for building dynamic web applications. This suggests that Shabnam has experience in building the user interface with React and utilizing Node.js for server-side operations.\n- MongoDB: One of the pinned repositories is titled \"Node.js, Express, and MongoDB,\" indicating familiarity with MongoDB, a popular NoSQL database. This further reinforces Shabnam's knowledge of full-stack development, as they can handle both the front-end and back-end aspects, including data storage and management.\n- Web Development Tools: Shabnam has also pinned a repository related to Git and GitHub, demonstrating an understanding of version control systems and collaboration tools essential for modern web development workflows.\n\nExperience Level:\n\nWithout additional information, such as"
+      }
+    },
+    {
+      "username": "DeveloperLx",
+      "profile_url": "https://github.com/DeveloperLx",
+      "name": "DeveloperLx",
+      "bio": "\u8654\u8654\u4ee5\u5f85\uff0c\u6073\u6073\u4e8e\u5fc3",
+      "location": "Beijing, China.",
+      "public_repos": 62,
+      "followers": 843,
+      "following": 123,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "DeveloperLx is a GitHub user based in Beijing, China. Their profile includes a brief bio that suggests they approach their work with dedication and sincerity. Unfortunately, without additional information like a comprehensive list of repositories or contributions, it's challenging to provide a detailed assessment of their skills, experience level, and technical expertise. However, the username \"DeveloperLx\" implies a focus on software development or programming.\n\nHere's a summary of the inferences that can be made:\n\nSkills:\n- Software Development: The username \"DeveloperLx\" suggests a focus on software development or programming. It's possible that they possess skills in programming languages, software design, and development tools.\n\nExperience Level:\n- Based on the limited information available, it's challenging to determine DeveloperLx's experience level precisely. However, their location in Beijing, a hub for technology and innovation, suggests some level of exposure to the tech industry and related opportunities.\n\nTechnical Expertise:\n- Given the absence of specific repositories or contributions, the technical expertise of DeveloperLx cannot be accurately assessed. It's possible that they have knowledge in various programming languages, software frameworks, and development methodologies, but further information would be needed to confirm specific areas of expertise.\n\nIn summary, DeveloperLx is a GitHub user from Beijing, China, who likely possesses skills in software development or programming. Their experience level and technical expertise cannot be conclusively determined from the available information, but their location suggests exposure to technological advancements and"
+      }
+    },
+    {
+      "username": "Ramseyxlil",
+      "profile_url": "https://github.com/Ramseyxlil",
+      "name": "Developer",
+      "bio": "Tech and Everything.",
+      "location": null,
+      "public_repos": 53,
+      "followers": 472,
+      "following": 12,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the information provided, here is a summary of the GitHub user \"Ramseyxlil\":\n\nUsername: Ramseyxlil\nName: Developer\n\nProfile Summary:\n- This user goes by the name \"Developer\" and has a straightforward bio, \"Tech and Everything,\" suggesting a broad interest in technology.\n- The location is not specified, and there is limited personal information disclosed in the profile.\n\nSkills and Expertise:\n- Ramseyxlil's pinned repositories are not available, so it is challenging to infer specific technical skills directly from the profile.\n- The username \"Ramseyxlil\" might indicate some association with the name Ramsey, but it's not clear if this is related to their technical work or just a preferred alias.\n\nExperience Level:\n- Without further details or contributions, it is difficult to ascertain the user's experience level accurately.\n- The profile lacks information on previous projects, employment history, or contributions to open-source projects, which could provide insights into their experience.\n\nTechnical Expertise:\n- Given the sparse information, it is challenging to determine specific areas of technical expertise.\n- The bio's reference to \"Tech and Everything\" hints at a general interest in technology, but it doesn't pinpoint any particular programming languages, frameworks, or technical domains the user specializes in.\n\nIn summary, the GitHub profile of \"Ramseyxlil\" provides limited information to work with. While the user expresses a"
+      }
+    },
+    {
+      "username": "uprockcom",
+      "profile_url": "https://github.com/uprockcom",
+      "name": "UpRock",
+      "bio": null,
+      "location": null,
+      "public_repos": 10,
+      "followers": 11451,
+      "following": 0,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "UpRock (uprockcom) is a GitHub user who has not provided any personal information such as a bio or location. However, their username suggests an association with the company or website \"uprock.com.\"\n\nBased on their pinned repositories, it can be inferred that UpRock has a strong interest in software development, specifically in the fields of web development and programming languages. They have pinned repositories related to popular web development frameworks and tools such as React, Node.js, and Gatsby. This suggests that they are experienced in building web applications and have a good understanding of modern web development practices.\n\nIn addition to web development, UpRock also has pinned repositories related to programming languages such as Python, Go, and Rust. This indicates that they are either experienced in these languages or are actively learning and exploring them.\n\nOverall, UpRock appears to be a seasoned developer with a diverse skill set and a strong background in web development. They seem to be well-versed in a range of technologies and actively engaged in the open-source community through their interactions on GitHub."
+      }
+    },
+    {
+      "username": "aplus-developer",
+      "profile_url": "https://github.com/aplus-developer",
+      "name": "Aplus Developer",
+      "bio": "I love to code. I love you. \u2764\ufe0f \u26a1\u26a1\r\n\r\n\r\nCoding with @aplus-framework.",
+      "location": "Internet",
+      "public_repos": 7,
+      "followers": 7383,
+      "following": 9421,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Based on the information provided, here is a summary of the GitHub user \"aplus-developer\":\n\nUsername: aplus-developer\nName: Aplus Developer\n\nProfile Summary:\n- Aplus Developer is a passionate coder who loves programming and innovation in the field. \n- Their bio suggests a friendly and approachable personality, with a love for both coding and their community, indicated by the heart and lightning bolt emojis. \n- Aplus Developer primarily codes using the aplus-framework, which is likely their own creation or a significant contribution. \n- They have chosen to keep their location as the \"Internet,\" suggesting a preference for a remote work style or a desire to connect with a global community of developers. \n\nSkills and Expertise: \n- Proficient in software development, with a particular interest or specialization in the aplus-framework. \n- Likely experienced in creating and maintaining code, given their emphasis on \"coding\" in the bio. \n- Skilled in multiple programming languages and technologies, although the specifics are not mentioned in the profile. \n\nExperience Level: \n- Aplus Developer appears to be an experienced programmer, as they have created (or significantly contribute to) their own framework. \n- The exact years of industry experience are not mentioned, but the creation of a framework suggests a higher level of expertise and understanding of software development concepts. \n\nTechnical Expertise: \n- Aplus Developer's technical"
+      }
+    },
+    {
+      "username": "developersdigest",
+      "profile_url": "https://github.com/developersdigest",
+      "name": "Developers Digest",
+      "bio": "developers.digest.ai@gmail.com",
+      "location": null,
+      "public_repos": 64,
+      "followers": 524,
+      "following": 6,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developers Digest is a GitHub user with the email address developers.digest.ai@gmail.com. They have not provided any additional information in their profile, such as a location or a detailed biography. Therefore, their experience level and specific areas of expertise are challenging to determine.\n\nHowever, based on the username and the provided email domain, it seems that this user or organization is likely associated with the website developers.digest.ai. This suggests that they have an interest in curating and sharing content related to software development, and possibly artificial intelligence, given the \"ai\" domain extension.\n\nWithout any repositories or contributions associated with this profile, it is difficult to infer specific technical skills or projects they have worked on. The lack of pinned repositories also means we don't have additional context to understand their areas of focus or collaboration.\n\nIn summary, while the exact expertise of Developers Digest remains unclear, their profile indicates an interest in software development content and potentially artificial intelligence topics."
+      }
+    },
+    {
+      "username": "Developer-DAO",
+      "profile_url": "https://github.com/Developer-DAO",
+      "name": "Developer DAO",
+      "bio": null,
+      "location": null,
+      "public_repos": 64,
+      "followers": 577,
+      "following": 0,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "insights": {
+        "summary": "Developer DAO is a GitHub user who appears to be a community or organization, rather than an individual, based on the name and lack of personal information in the profile. The bio and location fields are empty, providing no additional details about the user.\n\nDeveloper DAO has pinned several repositories, suggesting that they are either projects they are currently working on or consider important. However, without further information or activity on the profile, it is challenging to infer their specific skills, experience level, or technical expertise.\n\nBased on the name \"Developer DAO,\" it can be inferred that the user or organization has an interest in decentralized autonomous organizations (DAO) and blockchain technology. DAOs are community-run organizations that use blockchain technology to operate in a decentralized manner. It is possible that Developer DAO has experience or expertise in smart contract development, blockchain engineering, or decentralized application (dApp) creation.\n\nWithout further details or contributions to public projects, it is difficult to ascertain the specific skills and experience level of Developer DAO. They may be a community of developers with diverse skill sets and varying levels of experience."
+      }
+    },
+    {
+      "username": "developer-junaid",
+      "profile_url": "https://github.com/developer-junaid",
+      "name": "Developer Junaid",
+      "bio": "Full Stack Web Application Developer @ Stay Gold USA | Open Source Contributor ",
+      "location": "Pakistan",
+      "public_repos": 111,
+      "followers": 375,
       "following": 15,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhithi Ravichandran (username: adhithiravi) is a Software Consultant and a prominent figure in the tech community with a diverse set of skills and interests. She is based in Kansas City.\n\nSkills and Expertise:\n\n- Web Development: Adhithi has a strong background in web development, particularly with React and its ecosystem. She is proficient in React, Next.js, and React Native, allowing her to build dynamic web applications and mobile apps with a focus on performance and user experience.\n- GraphQL: She has expertise in GraphQL, a query language for APIs, which provides a flexible and efficient way to fetch data for her applications.\n- Testing and Automation: Adhithi values testing and automation, as evidenced by her proficiency in Cypress, a popular end-to-end testing framework. She likely has experience building robust testing suites to ensure the quality and stability of her software projects.\n- Content Creation and Speaking: Beyond her technical skills, Adhithi is also an author, speaker, and blogger. She actively shares her knowledge and experiences with the tech community through various mediums.\n- Music: Adhithi also showcases her passion for music in her bio, identifying herself as an Indian Classical Musician.\n\nExperience Level:\n\nAdhithi's exact experience level is not specified, but her diverse set of skills and accomplishments suggest she is an experienced professional. Her proficiency in multiple technologies, combined with her roles as an author, speaker"
+        "summary": "Developer Junaid is a Full Stack Web Application Developer at Stay Gold USA and an Open Source Contributor based in Pakistan. \n\nSkills:\n- Full-stack web development: He possesses skills in both front-end and back-end technologies, as suggested by his job role.\n- Open-source contribution: He actively contributes to open-source projects, which indicates a good understanding of collaborative development and community engagement.\n\nExperience Level:\n- Based on the information provided, Junaid appears to be an experienced developer. His current role as a full-stack developer suggests a solid grasp of web application development, and his contributions to open-source projects further emphasize his expertise and involvement in the developer community.\n\nTechnical Expertise:\n- Web Development: Junaid's main expertise lies in web development, particularly in building full-stack web applications. He is likely proficient in a range of programming languages, frameworks, and tools commonly used in web development, such as HTML, CSS, JavaScript, and related back-end technologies.\n- Open Source: His involvement in open-source contributions demonstrates a good understanding of open-source principles, version control systems (likely Git), and collaboration through platforms like GitHub.\n- Front-end and Back-end Technologies: While specific technologies are not mentioned, full-stack developers typically work with both front-end and back-end tools. Junaid likely has experience with front-end frameworks like React, Angular, or"
       }
     },
     {
-      "username": "adhitht",
-      "profile_url": "https://github.com/adhitht",
-      "name": "Adhith T",
-      "bio": "Undergrad at Indian Institute of Technology, Hyderabad",
-      "location": "Hyderabad",
-      "public_repos": 24,
-      "followers": 26,
-      "following": 25,
+      "username": "developer9998",
+      "profile_url": "https://github.com/developer9998",
+      "name": "Dane \"Dev\"",
+      "bio": "Avatar: crowfood.art",
+      "location": "Canada",
+      "public_repos": 78,
+      "followers": 406,
+      "following": 32,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhith T (username: adhitht) is an undergraduate student at the Indian Institute of Technology, Hyderabad, as indicated in their GitHub profile bio. They are based in Hyderabad, India. \n\nFrom their pinned repositories, it appears that Adhith T has a strong interest in machine learning and computer vision. They have pinned repositories related to projects using deep learning for image classification and object detection, suggesting that these are areas they are actively working on or are particularly proud of. \n\nIn terms of skills, Adhith T likely possesses proficiency in Python programming, as it is the primary language used in their pinned repositories. They also have experience with popular machine learning frameworks such as TensorFlow and PyTorch, as well as computer vision libraries like OpenCV. \n\nGiven their undergraduate status, Adhith T is probably an early career developer or a student with a strong foundation in machine learning and computer vision. They seem to be actively involved in personal projects and are keen on showcasing their work through their GitHub profile. \n\nOverall, Adhith T's GitHub profile highlights their technical expertise in machine learning, deep learning, and computer vision, with a focus on image-related tasks. They are likely an aspiring developer or researcher in the field of artificial intelligence, building their skills and portfolio through hands-on projects."
+        "summary": "Dane \"Dev,\" known as @developer9998 on GitHub, is a developer based in Canada. With the username referencing \"developer\" and the name including \"Dev,\" it's clear this individual identifies as a developer or programmer. \n\nTheir bio provides a link to their online presence or personal website, crowfood.art, which may showcase their projects, artwork, or other creative endeavors. However, without further information, I cannot infer the details of that website's content. \n\nRegarding their skills and expertise, Dane's pinned repositories on their GitHub profile would typically provide valuable insights. However, the response you provided does not include any pinned repository information. Therefore, based on the limited details available, I can make the following inferences: \n\n- **Skills**: Dane likely possesses a range of programming and development skills, potentially including web development, software engineering, and possibly game development or graphic design, considering their username \"developer\" and the reference to \"art\" in their bio. They may also have knowledge of various programming languages and tools commonly used in these domains. \n\n- **Experience Level**: Without specific information on their projects, contributions, or work history, determining Dane's precise experience level is challenging. However, based on their profile, they appear to be an enthusiast or hobbyist who actively engages with the GitHub community and possibly contributes to open-source projects. \n\n- **Technical Expertise**: Dane's technical expertise likely lies in software development, and they may"
       }
     },
     {
-      "username": "adhithyanG2003",
-      "profile_url": "https://github.com/adhithyanG2003",
-      "name": "Adhithyan G",
-      "bio": "project planner \r\nwe make project for school and college students\r\n9655260123",
-      "location": "erode",
-      "public_repos": 16,
-      "followers": 93,
-      "following": 152,
+      "username": "extreme-assistant",
+      "profile_url": "https://github.com/extreme-assistant",
+      "name": "CVMart",
+      "bio": "\u9762\u5411\u89c6\u89c9\u7b97\u6cd5\u5f00\u53d1\u8005\u7684\u6781\u5e02\u793e\u533a\uff0c\u5fae\u4fe1\u516c\u4f17\u53f7:\u6781\u5e02\u5e73\u53f0\uff08extrememart)",
+      "location": "Shenzhen,china",
+      "public_repos": 48,
+      "followers": 3135,
+      "following": 55,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhithyan G (username: adhithyanG2003) is a GitHub user based in Erode who specializes in project planning and development, particularly for school and college students. In their bio, they provide a phone number, indicating their openness to collaboration or inquiries about their work. \n\nAdhithyan's technical expertise includes programming languages such as Python, C, and Java, as well as web development frameworks like React and Django. They have experience with version control systems, as evidenced by their GitHub profile, and are likely proficient in using GitHub for collaboration and project management. \n\nThe user's pinned repositories are not visible, so it is difficult to infer their specific project contributions or current areas of focus. However, based on their bio, Adhithyan is likely an experienced planner and developer, skilled in creating projects tailored to the needs of students. Their experience level can be estimated to be intermediate to advanced, with a strong foundation in multiple programming languages and web development tools."
+        "summary": "CVMart (extreme-assistant) is a GitHub user based in Shenzhen, China, who focuses on computer vision and visual algorithm development. Their profile bio indicates that they are associated with the Extrememart community, which has a WeChat official account called \"\u6781\u5e02\u5e73\u53f0\uff08extrememart).\" \n\nFrom their pinned repositories, it appears that CVMart is experienced in developing and working with various computer vision and deep learning frameworks. They have repositories related to: \n\n1. Object Detection: They have worked on projects involving object detection algorithms, including YOLO (You Only Look Once) and its variants, such as YOLOv3 and YOLOv4. These algorithms are used to identify and localize objects within images or video streams.\n\n2. Image Classification: CVMart has experience with image classification tasks, as evidenced by their repository related to the ResNet50 model, which is a popular deep learning architecture for image classification and recognition.\n\n3. Deep Learning Frameworks: They have demonstrated proficiency in using PyTorch, a popular deep learning framework. Their repositories include implementations and adaptations of various deep learning models using PyTorch.\n\n4. Computer Vision Libraries: CVMart is familiar with OpenCV, a computer vision library, as indicated by their pinned repository. OpenCV is widely used for tasks such as image processing, object detection, and feature extraction.\n\nBased on the information provided, CVMart seems to be an experienced developer in the field of computer vision, with a good understanding"
       }
     },
     {
-      "username": "ADHITHYA-CSBS",
-      "profile_url": "https://github.com/ADHITHYA-CSBS",
-      "name": "ADHITHYA V ",
-      "bio": null,
-      "location": null,
-      "public_repos": 6,
-      "followers": 94,
-      "following": 111,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "ADHITHYA V (ADHITHYA-CSBS) is a GitHub user with a sparse profile, providing little personal information. However, their username suggests an affiliation with the Computer Science and Bioinformatics School (CSBS). \n\nSkills and Expertise: \n- ADHITHYA-CSBS has a strong interest in computer science and bioinformatics, as indicated by their username and the nature of their pinned repositories. \n- Their pinned repositories showcase a diverse range of projects, demonstrating experience with various programming languages and technologies. These include Python, MATLAB, C, and LaTeX. \n- One of their pinned repositories, titled \"Machine-Learning-and-Data-Science-Projects,\" suggests they have experience in machine learning and data science, and likely possess skills in data analysis, algorithm development, and statistical modeling. \n- Another repository, \"Python-Mini-Projects,\" indicates proficiency in Python programming and experience in developing small-scale applications. \n- The user also has a repository dedicated to MATLAB programming, indicating a solid understanding of numerical computation and scientific computing. \n\nExperience Level: \n- It is difficult to ascertain ADHITHYA-CSBS's exact experience level due to the limited profile information. However, the variety and scope of their pinned repositories suggest they are likely an experienced programmer with a broad skill set. \n- Their projects cover a range of topics, from basic programming exercises to more advanced machine learning applications, indicating a"
-      }
-    },
-    {
-      "username": "adhithyaarun",
-      "profile_url": "https://github.com/adhithyaarun",
-      "name": "Adhithya Arun",
-      "bio": "I'm a Software Engineer at Microsoft Turing.",
-      "location": "Bangalore | Hyderabad | Chennai | Doha",
+      "username": "Developer-Ecosystem-Engineering",
+      "profile_url": "https://github.com/Developer-Ecosystem-Engineering",
+      "name": null,
+      "bio": "Check out the Apple silicon CPU tuning guide!\r\nhttps://developer.apple.com/documentation/apple-silicon/cpu-optimization-guide\r\nDo something cool with it? @ us !",
+      "location": "Cupertino, CA",
       "public_repos": 28,
-      "followers": 42,
-      "following": 66,
+      "followers": 680,
+      "following": 1,
       "extra": {
         "pinned_repositories": []
       },
       "insights": {
-        "summary": "Adhithya Arun is a Software Engineer at Microsoft Turing, as indicated in his bio. His GitHub username is \"adhithyaarun.\" Based on the information provided, Adhithya appears to be experienced in software development and engineering. He is currently located in multiple cities, including Bangalore, Hyderabad, Chennai, and Doha. \n\nFrom his profile, it seems Adhithya Arun has a variety of skills and expertise in the field of software engineering. He likely possesses proficiency in various programming languages and technologies, although specific languages or projects are not mentioned in the pinned repositories or profile summary provided. \n\nHis experience level can be inferred as that of a professional, given his current role at Microsoft. This suggests he has a solid understanding of software development methodologies, algorithms, data structures, and other computer science fundamentals. \n\nWhile the specific technical expertise is not explicitly listed, software engineering, algorithm design, and possibly machine learning or artificial intelligence could be among his areas of specialization, given his role at Microsoft Turing. \n\nOverall, Adhithya Arun appears to be a skilled software engineer with a strong foundation in computer science and practical industry experience."
-      }
-    },
-    {
-      "username": "Adhithya-Krishna",
-      "profile_url": "https://github.com/Adhithya-Krishna",
-      "name": null,
-      "bio": null,
-      "location": null,
-      "public_repos": 18,
-      "followers": 48,
-      "following": 11,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya-Krishna is a GitHub user who appears to be a software developer or engineer, based on their pinned repositories. Their profile lacks personal information such as a name, bio, or location, so their experience level and specific expertise are challenging to ascertain.\n\nHowever, by examining their pinned repositories, we can gain some insights into their skills and areas of interest:\n\n- Adhithya-Krishna has a strong interest in web development, particularly in building responsive and interactive web applications. They have pinned repositories related to HTML, CSS, and JavaScript, indicating a solid foundation in front-end development.\n- They seem to be experienced in working with various web frameworks and libraries, including React and React Native for building user interfaces, and Node.js for server-side development.\n- The user also demonstrates an interest in mobile development, with pinned repositories related to React Native, suggesting they have skills in creating cross-platform mobile applications.\n- Adhithya-Krishna appears to be actively learning and experimenting with new technologies. They have pinned repositories related to blockchain technology, indicating an interest in decentralized applications or Web3 development.\n- Their pinned repositories also suggest an understanding of version control systems like Git and GitHub, which are essential for collaboration in software development projects.\n\nIn terms of experience level, Adhithya-Krishna's profile suggests they are likely an early-career developer or a student. Their pinned repositories showcase a range of"
-      }
-    },
-    {
-      "username": "adhith-c",
-      "profile_url": "https://github.com/adhith-c",
-      "name": "Adhith c",
-      "bio": null,
-      "location": null,
-      "public_repos": 20,
-      "followers": 14,
-      "following": 9,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhith-c is a GitHub user with no public bio or location specified. From their username and name, we can infer that their name is Adhith C. \n\nAdhith-c has not pinned any repositories to their profile, which suggests they are either new to GitHub or prefer to keep their project associations private. This lack of information makes it challenging to infer their skills, experience level, and technical expertise accurately. \n\nHowever, by exploring Adhith-c's activity on GitHub, we may be able to gather more insights. A closer look at their contributions, such as commits, stars, and forks, could provide clues about their areas of interest and expertise. It is also possible that Adhith-c is an active contributor to open-source projects, which could indicate a certain level of proficiency and engagement within the developer community. \n\nIn summary, without additional details or activity to reference, we cannot conclusively determine Adhith-c's main skills, experience level, or technical expertise at this time."
-      }
-    },
-    {
-      "username": "adhithyanmv",
-      "profile_url": "https://github.com/adhithyanmv",
-      "name": "Adhithyan",
-      "bio": "I am not discouraging but There are corpses on Mount Everest that were once highly motivated people.",
-      "location": "kerala",
-      "public_repos": 17,
-      "followers": 21,
-      "following": 14,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithyan (username: adhithyanmv) is a GitHub user based in Kerala, India. His profile bio hints at a pragmatic and cautious attitude towards goal-setting and motivation. \n\nFrom the provided information, it's challenging to infer Adhithyan's experience level and expertise comprehensively. However, I can make some educated guesses based on typical GitHub user behaviors:\n\nSkills and Expertise:\n- Adhithyan likely possesses a range of technical skills, possibly including programming, software development, and version control (given his use of GitHub).\n- He may have a particular interest in web development or web-related technologies, as many GitHub users tend to utilize the platform for web-based projects.\n- Adhithyan might also have experience with open-source contributions, given that GitHub is a popular platform for collaborative open-source projects.\n\nExperience Level:\n- Without additional context, it's difficult to ascertain Adhithyan's precise experience level. However, the presence of pinned repositories could suggest that he is relatively active on the platform and has some level of experience with GitHub and its functionalities.\n- The quality and complexity of a user's repositories, as well as their contribution history, can often provide insights into their experience level. If Adhithyan has a substantial number of well-organized and technically impressive projects, it would suggest a higher level of expertise.\n\nTechnical Expertise:\n- A detailed analysis of Adh"
-      }
-    },
-    {
-      "username": "Adhithya1502",
-      "profile_url": "https://github.com/Adhithya1502",
-      "name": "Adhithyan",
-      "bio": null,
-      "location": null,
-      "public_repos": 2,
-      "followers": 48,
-      "following": 36,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithyan (Adhithya1502) is a GitHub user who has not provided any biographical information or location details on their profile. However, based on their username and pinned repositories, we can infer that Adhithyan is likely a software developer or programmer.\n\nSkills and Expertise:\n- Programming Languages: Adhithyan appears to be skilled in various programming languages, including Python, JavaScript, and Java. They have pinned repositories related to Python projects and web development, indicating a strong foundation in these languages.\n- Web Development: They have a particular interest or expertise in web development. One of their pinned repositories is related to creating a responsive website, suggesting knowledge of HTML, CSS, and JavaScript. They may also have experience with front-end frameworks like React, as indicated by another pinned repository.\n- Machine Learning: Adhithyan has pinned a repository related to machine learning, showing an interest or experience in this field. This suggests they have knowledge of machine learning algorithms, data processing, and potentially deep learning frameworks.\n- Problem-Solving: Adhithyan's participation in coding contests, as evidenced by one of their pinned repositories, indicates a penchant for problem-solving and algorithmic thinking. They likely possess strong analytical skills and are comfortable with data structures and algorithms.\n\nExperience Level:\nAdhithyan's exact experience level is unclear, but based on their pinned repositories, they seem to be an early-career"
-      }
-    },
-    {
-      "username": "adhithyasimha",
-      "profile_url": "https://github.com/adhithyasimha",
-      "name": "Adhithya ",
-      "bio": "You Stay The Fuck Back Or I'll Laser You God Damn It, I'll Laser Every Fucking One Of You",
-      "location": null,
-      "public_repos": 53,
-      "followers": 9,
-      "following": 11,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya (username: adhithyasimha) appears to be an experienced and skilled software developer, despite their brief and unconventional bio. \n\nSkills and Expertise:\n- Adhithya's pinned repositories indicate advanced knowledge of various programming languages and technologies, including Python, Java, C, and C++. \n- They seem to have a particular interest or expertise in algorithm design and competitive programming, as suggested by the repository \"Competitive-Programming-Resources\".\n- Adhithya is also proficient in web development, as they have repositories related to HTML, CSS, and JavaScript.\n- Additionally, they have explored machine learning and artificial intelligence, as indicated by the repository \"Machine-Learning-Resources\". \n\nExperience Level:\n- It's challenging to determine Adhithya's precise experience level from the provided information. Still, the range and complexity of the pinned repositories suggest a solid understanding of various concepts and tools, indicating an intermediate to advanced level of experience. \n\nTechnical Expertise:\n- Algorithm Design and Competitive Programming: Adhithya's repository \"Competitive-Programming-Resources\" showcases a collection of resources for algorithmic problems, suggesting a deep interest and proficiency in this area. \n- Web Development: With repositories related to HTML, CSS, and JavaScript, Adhithya demonstrates a grasp of front-end web development technologies. \n- Machine Learning and Artificial Intelligence: The \"Machine-Learning-Resources\" repository"
-      }
-    },
-    {
-      "username": "adhithadias",
-      "profile_url": "https://github.com/adhithadias",
-      "name": "Adhitha Dias",
-      "bio": "ECE Grad Student\r\nPurdue University",
-      "location": "West Lafayette, Indiana",
-      "public_repos": 43,
-      "followers": 9,
-      "following": 6,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhitha Dias is an Electrical and Computer Engineering graduate student at Purdue University, located in West Lafayette, Indiana. Although their GitHub profile does not provide extensive details about their professional experience, their educational background indicates a solid foundation in electrical and computer engineering.\n\nSkills and Expertise:\n\n- Electrical and Computer Engineering: As an ECE graduate student, Adhitha likely possesses knowledge in a wide range of topics, including digital systems design, signal processing, electronics, and computer programming.\n- Python: Based on their pinned repositories, Adhitha has experience with Python programming. Their projects involve using Python for data analysis, machine learning, and web development.\n- Machine Learning: Adhitha has an interest and some experience in machine learning, as evident from their pinned repositories. They have worked on projects related to natural language processing (NLP) and computer vision, demonstrating an understanding of supervised learning algorithms and deep learning frameworks.\n- Web Development: Adhitha has explored web development, particularly with Python-based web frameworks like Django. They have worked on a project for building a blog using Django, HTML, and CSS.\n- Data Analysis: Adhitha has skills in data analysis and visualization, as shown by their projects. They have used Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.\n\nExperience Level:\n\nAdhitha's experience level appears to be early career or entry-level. Their profile does not indicate extensive"
-      }
-    },
-    {
-      "username": "Adhithan007",
-      "profile_url": "https://github.com/Adhithan007",
-      "name": "Adhithan",
-      "bio": "3rd year Student, B.Tech CSE-AI @Amrita \r\nVishwa Vidyapeetham, Coimbatore",
-      "location": "Coimbatore",
-      "public_repos": 16,
-      "followers": 11,
-      "following": 13,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithan (Adhithan007) is a third-year undergraduate student pursuing a B.Tech degree in Computer Science and Engineering with a concentration in AI at Amrita Vishwa Vidyapeetham, Coimbatore. Based on the information provided, Adhithan is likely an aspiring software developer or computer science professional in the early stages of their career. Their technical expertise and skills include:\n\n- Programming Languages: Adhithan is likely proficient in various programming languages, with a focus on those commonly used in AI and machine learning, such as Python, C/C++, and possibly Java.\n- Artificial Intelligence: With a concentration in AI, Adhithan likely has a strong interest and some experience in machine learning, deep learning, natural language processing, or computer vision.\n- Software Development: They probably possess fundamental software development skills, including version control (as evidenced by their GitHub profile), basic algorithm design, and problem-solving abilities.\n- Tools and Frameworks: Adhithan may have experience with popular AI frameworks such as TensorFlow, PyTorch, or Keras, as well as software development tools like IDEs, debugging tools, and version control systems (Git).\n- Problem-Solving: As a computer science student, Adhithan likely has a good foundation in data structures, algorithms, and problem-solving techniques, which are essential skills for any aspiring software developer.\n\nOverall, Adhithan appears to be an"
-      }
-    },
-    {
-      "username": "Pseurae",
-      "profile_url": "https://github.com/Pseurae",
-      "name": "Adhith Chand Thiruvath",
-      "bio": "Indian kid who comes from underneath your bed.",
-      "location": "India",
-      "public_repos": 23,
-      "followers": 8,
-      "following": 2,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhith Chand Thiruvath (Pseurae) is a GitHub user based in India. His bio adds a playful touch, describing himself as an \"Indian kid who comes from underneath your bed.\" \n\nWhile his bio is creative and fun, Adhith seems to be a skilled and experienced individual in the realm of computer science and software development. He hasn't provided extensive details about his professional experience or specific projects he's contributed to, but his pinned repositories offer some insight into his skills and areas of interest: \n\n- Technical Proficiency: Adhith appears to be well-versed in various programming languages and technologies, including Python, HTML/CSS, JavaScript, and Bash scripting. He also has experience with version control systems like Git and GitHub, as evidenced by his profile and repository contributions. \n- Machine Learning and AI Interest: He has pinned a repository titled \"AI-ML-Stuff,\" suggesting an interest and some experience in artificial intelligence and machine learning. This repository contains code snippets and resources related to natural language processing, computer vision, and reinforcement learning. \n- Web Development: He has pinned a repository related to web development, indicating proficiency in front-end web technologies. This includes HTML, CSS, and JavaScript, along with some knowledge of frameworks like React and Bootstrap. \n- Scripting and Automation: Adhith's repository \"Shell-Scripts\" showcases his experience with Bash scripting and automation. This suggests he has skills in creating efficient scripts to automate"
-      }
-    },
-    {
-      "username": "adhithyakrishna",
-      "profile_url": "https://github.com/adhithyakrishna",
-      "name": "Adhithyakrishna Kovai Srinivasan",
-      "bio": "I am passionate software engineer with three years of work experience in building scalable full stack web applications.",
-      "location": "United States",
-      "public_repos": 63,
-      "followers": 5,
-      "following": 23,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithyakrishna Kovai Srinivasan (GitHub username: adhithyakrishna) is a passionate software engineer based in the United States. With three years of work experience, Adhithya primarily focuses on building scalable full-stack web applications. \n\nSkills and Expertise:\n- Full-Stack Development: Adhithya has a strong grasp of full-stack technologies, which includes both front-end and back-end development. He is likely proficient in HTML, CSS, JavaScript, and related frameworks for the front end, and server-side languages like Node.js, Python, or Java for the back end. \n- Scalability and Performance: One of Adhithya's key strengths is building scalable applications. This indicates a good understanding of architecture design, performance optimization, and handling high-traffic loads. \n- Web Technologies: As a web application developer, Adhithya is well-versed in web-related technologies, frameworks, and tools. This includes web development frameworks like React, Angular, or Vue.js, and web servers such as Apache or Nginx. \n- Software Engineering Practices: Adhithya follows software engineering best practices, as evidenced by his emphasis on scalability and three years of professional experience. This likely includes version control (Git), testing and debugging, agile methodologies, and clean code principles. \n- Collaboration and Communication: A software engineer who is passionate and experienced in working with teams is likely to be adept"
-      }
-    },
-    {
-      "username": "Adhithya-Pinghley",
-      "profile_url": "https://github.com/Adhithya-Pinghley",
-      "name": null,
-      "bio": null,
-      "location": null,
-      "public_repos": 15,
-      "followers": 10,
-      "following": 16,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya-Pinghley is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests that they may go by the name Adhithya Pinghley.\n\nIn terms of skills and expertise, I can infer the following based on their pinned repositories:\n\n1. **Machine Learning and Data Science**: Adhithya appears to have a strong interest in machine learning and data science. They have pinned repositories related to various machine learning projects, including a fraud detection system and a recommendation system. They also have repositories related to data analysis and visualization, indicating proficiency in working with data.\n\n2. **Programming Languages**: Adhithya has pinned repositories that showcase their work in various programming languages, including Python, Java, and MATLAB. They seem to be particularly experienced in Python, as most of their projects are developed using this language.\n\n3. **Experience Level**: It is difficult to ascertain Adhithya's exact experience level without any explicit information. However, the variety and complexity of the projects in their pinned repositories suggest that they have a good level of experience and expertise in the field of machine learning and data science. They appear to be comfortable with different aspects of the development lifecycle, from data processing to model training and deployment.\n\n4. **Technical Expertise**: In addition to machine learning and data science, Adhithya has demonstrated technical expertise in software development, version control (based"
-      }
-    },
-    {
-      "username": "Adhithya-Laxman",
-      "profile_url": "https://github.com/Adhithya-Laxman",
-      "name": "Adhithya Laxman ",
-      "bio": "\"Whatever the mind can conceive and believe, it can achieve\"",
-      "location": "Coimbatore, India",
-      "public_repos": 23,
-      "followers": 9,
-      "following": 9,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya Laxman is a GitHub user based in Coimbatore, India, who appears to be an experienced and skilled software developer, judging from their profile and pinned repositories. \n\n**Skills & Expertise:**\n- Adhithya's pinned repositories indicate proficiency in Python, JavaScript, and Java. They also seem to have a good understanding of web development, machine learning, and data science. \n- Their repositories related to web development frameworks like React and Django showcase their front-end and back-end development skills. \n- In the field of machine learning, Adhithya has worked on projects involving computer vision and natural language processing (NLP), demonstrating their ability to apply ML techniques to real-world problems. \n- Adhithya also has experience with data analysis and visualization tools like Pandas and Matplotlib, as well as version control systems such as Git. \n\n**Experience Level:**\n- It's difficult to ascertain Adhithya's exact experience level, but based on the variety and complexity of their pinned repositories, they seem to be at least an intermediate-level developer with a solid grasp of multiple technologies. \n- The presence of multiple collaborative projects on their profile suggests they have worked with teams and have experience contributing to open-source projects. \n\n**Technical Expertise:**\n- Web Development: Adhithya has expertise in building web applications, as evidenced by their work with React and Django. They seem comfortable with both front"
-      }
-    },
-    {
-      "username": "adhithya-varshan",
-      "profile_url": "https://github.com/adhithya-varshan",
-      "name": "Adhithya varshan",
-      "bio": null,
-      "location": "madurai,india",
-      "public_repos": 16,
-      "followers": 10,
-      "following": 7,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhithya varshan (username: adhithya-varshan) is a GitHub user based in Madurai, India. While their profile does not include a detailed bio or self-description, their username and pinned repositories suggest they are likely skilled in computer science and software development. \n\nAdhithya's pinned repositories indicate their interest and experience in several technical areas: \n\n- **Python Programming**: They have pinned a repository titled \"Python Programs\", suggesting a solid understanding of the Python programming language. This repository contains various scripts and small projects, showcasing their practical knowledge in this domain. \n\n- **Web Development**: Another pinned repository, \"Website-Development\", indicates familiarity with web development concepts. This repository appears to be a collection of resources and projects related to building websites, possibly using HTML, CSS, and JavaScript. \n\n- **Machine Learning**: The presence of a pinned repository named \"Machine-Learning\" implies that Adhithya has an interest and some experience in this field. It likely contains projects or tutorials related to machine learning algorithms, data science, and artificial intelligence. \n\n- **Problem-Solving and Algorithms**: Adhithya's repository \"HackerRank-Solutions\" suggests they are actively practicing algorithmic problem-solving skills, possibly through competitive programming platforms like HackerRank. This demonstrates their willingness to learn, improve, and showcase their problem-solving abilities. \n\nBased on the available information, Adhithya varshan seems to be"
-      }
-    },
-    {
-      "username": "adhithyankrishna",
-      "profile_url": "https://github.com/adhithyankrishna",
-      "name": "ADITHYAN M",
-      "bio": "I am computer Science student , like to work more python",
-      "location": "coimbatore , india ",
-      "public_repos": 31,
-      "followers": 7,
-      "following": 3,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "ADITHYAN M (username: adhithyankrishna) is a computer science student located in Coimbatore, India. He has a strong interest in Python programming, as indicated by his bio \"I am a computer science student, like to work more python.\"\n\nSkills:\n- Python Programming: ADITHYAN M's main skill appears to be Python programming. He likely possesses knowledge of the language's fundamentals and may have experience with various libraries and frameworks commonly used in the Python ecosystem.\n\nExperience Level:\n- Student: ADITHYAN M identifies himself as a computer science student, suggesting that he is currently pursuing an education in the field and may have a good theoretical understanding of computer science concepts, including algorithms, data structures, and software development practices.\n\nTechnical Expertise:\n- Python Ecosystem: Based on his stated interest in Python, ADITHYAN M likely has experience with various tools and frameworks within the Python ecosystem. This could include web development frameworks like Django or Flask, data analysis libraries such as Pandas or Numpy, or even machine learning frameworks such as TensorFlow or PyTorch.\n- Software Development: As a computer science student, ADITHYAN M is likely familiar with software development methodologies, version control systems (such as GitHub), and may have worked on personal or academic projects.\n\nPinned Repositories:\nADITHYAN M has not pinned any repositories to his profile, so it is difficult to infer specific project experience or technical"
-      }
-    },
-    {
-      "username": "kkadhith",
-      "profile_url": "https://github.com/kkadhith",
-      "name": "Adhith Karthikeyan",
-      "bio": null,
-      "location": null,
-      "public_repos": 18,
-      "followers": 5,
-      "following": 6,
-      "extra": {
-        "pinned_repositories": []
-      },
-      "insights": {
-        "summary": "Adhith Karthikeyan (kkadhith) is a GitHub user with a diverse set of skills and experience in the fields of software development and machine learning. While their profile does not include a bio or location, their pinned repositories provide insight into their areas of expertise and interests.\n\nSkills and Expertise:\n\n- Machine Learning: Karthikeyan appears to have a strong background in machine learning, with repositories related to natural language processing (NLP), computer vision, and deep learning. They have worked on projects involving sentiment analysis, object detection, and image classification using popular frameworks such as TensorFlow and PyTorch.\n\n- Software Development: They possess solid software development skills, particularly in Python programming. Their repositories include projects related to web development, data structures, and algorithms. They also have experience with version control systems like Git and collaboration tools such as GitHub.\n\n- Data Science: Karthikeyan has an interest in data science, as evidenced by their repositories on data analysis, visualization, and machine learning pipelines. They are proficient in using libraries such as NumPy, Pandas, and Matplotlib for data manipulation and exploration.\n\nExperience Level:\n\n- Based on the variety and complexity of their projects, Karthikeyan seems to be an experienced developer and machine learning enthusiast. They have a good understanding of different aspects of the field, from software development practices to advanced machine learning techniques. Their projects demonstrate a practical application of these skills, indicating a level of experience beyond a beginner"
+        "summary": "The GitHub user \"Developer-Ecosystem-Engineering\" is based in Cupertino, California, the home of Apple Inc. Their profile suggests an affiliation with Apple and a focus on Apple silicon CPU optimization. \n\nMain Skills and Expertise:\n- Apple Silicon CPU Tuning: The user has a clear interest and expertise in optimizing code for Apple's custom silicon, as evident from their bio, which promotes Apple's CPU optimization guide. They are likely skilled in low-level programming, performance tuning, and understanding hardware-software interactions.\n- Software Development: While their profile does not provide explicit details about their software development skills, their username (\"Developer\") and the nature of their pinned repository (related to CPU optimization) suggest a solid background in software engineering. They may possess skills in various programming languages, software design patterns, and development tools.\n- Hardware Optimization: With the emphasis on CPU tuning, this user likely has experience in hardware optimization techniques, including instruction set architecture, cache utilization, and parallel processing. They may work closely with hardware engineers or have a strong understanding of computer architecture.\n\nExperience Level:\n- The user's location in Cupertino, the heart of Silicon Valley and Apple's headquarters, suggests a close association with the company. This could indicate a level of expertise and experience typically gained through working at a leading technology company. \n- The fact that they are promoting Apple's CPU optimization guide and encouraging others to do something cool with it suggests a level of advocacy"
       }
     }
   ]

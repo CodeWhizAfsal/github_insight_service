@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template, g
+from flask import Flask, request, jsonify, g
 from github_scraper import scrape_github_users
 from ai_processor import get_insights
 from storage import store_data
@@ -33,12 +33,12 @@ def log_response(response):
     logging.info(f"RESPONSE - {request.method} {request.url} | STATUS: {response.status_code} | TIME: {duration}s | BODY: {response.get_data(as_text=True)}")
     return response
 
-# ----------------- GitHub Scrape Endpoint -----------------
+# ----------------- JSON API Endpoint Only -----------------
 
-@app.route('/scrape', methods=['GET'])
-def scrape():
+@app.route('/api/scrape', methods=['GET'])
+def scrape_api():
     """
-    Scrape GitHub users based on a query.
+    Scrape GitHub users and return structured summaries via JSON.
     ---
     parameters:
       - name: q
@@ -49,12 +49,24 @@ def scrape():
     responses:
       200:
         description: A list of enriched GitHub users
+        examples:
+          application/json: {
+            "results": [
+              {
+                "username": "octocat",
+                "profile_url": "https://github.com/octocat",
+                "followers": 100,
+                "public_repos": 50,
+                "insights": "An active contributor..."
+              }
+            ]
+          }
     """
     query = request.args.get("q", "javascript developer")
     users = scrape_github_users(query)
     enriched_users = [get_insights(user) for user in users]
     store_data(users, enriched_users)
-    return render_template("results.html", results=enriched_users)
+    return jsonify({"results": enriched_users})
 
 # ----------------- Main Entry Point -----------------
 
