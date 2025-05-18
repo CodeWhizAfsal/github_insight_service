@@ -4057,3 +4057,1942 @@ Skills and Expertise:
 }
 
 2025-05-18 11:16:29,101 - 127.0.0.1 - - [18/May/2025 11:16:29] "GET /api/scrape?q=Developer HTTP/1.1" 200 -
+2025-05-18 11:22:30,134 - REQUEST - GET http://localhost:5000/apidocs | BODY: 
+2025-05-18 11:22:30,135 - RESPONSE - GET http://localhost:5000/apidocs | STATUS: 308 | TIME: 0.001522s | BODY: <!doctype html>
+<html lang=en>
+<title>Redirecting...</title>
+<h1>Redirecting...</h1>
+<p>You should be redirected automatically to the target URL: <a href="http://localhost:5000/apidocs/">http://localhost:5000/apidocs/</a>. If not, click the link.
+
+2025-05-18 11:22:30,136 - 127.0.0.1 - - [18/May/2025 11:22:30] "[32mGET /apidocs HTTP/1.1[0m" 308 -
+2025-05-18 11:22:30,163 - REQUEST - GET http://localhost:5000/apidocs/ | BODY: 
+2025-05-18 11:22:30,211 - RESPONSE - GET http://localhost:5000/apidocs/ | STATUS: 200 | TIME: 0.04832s | BODY: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+<title>Flasgger</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/flasgger_static/swagger-ui.css">
+<!-- Customize the app.config['SWAGGER']['favicon'] -->
+<link rel="icon" type="image/png" href="/flasgger_static/favicon-32x32.png" sizes="64x64 32x32 16x16" />
+<style>
+    html
+    {
+    box-sizing: border-box;
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+    }
+
+    *,
+    *:before,
+    *:after
+    {
+    box-sizing: inherit;
+    }
+
+    body
+    {
+    margin:0;
+    background: #fafafa;
+    }
+</style>
+    <!-- To add custom code here override the template templates/flasgger/custom_head.html -->
+    <!-- Include custom css and top js in templates/flasgger/head.html -->
+
+  </head>
+
+  <body>
+      <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+        </section>
+    </div>
+</div>
+
+      <div id="swagger-ui">
+          <div data-reactroot="" class="swagger-ui">
+              <div>
+              <div class="information-container wrapper">
+                  <section class="block col-12">
+                      <!-- ADDS THE LOADER SPINNER -->
+                      <div class="loading-container"><div class="loading"></div></div>
+                  </section>
+              </div>
+          </div>
+          </div>
+      </div>
+
+    <div id="swagger-ui"></div>
+
+    <script src="/flasgger_static/swagger-ui-bundle.js"></script>
+<script src="/flasgger_static/swagger-ui-standalone-preset.js"></script>
+<script src="/flasgger_static/lib/jquery.min.js" type='text/javascript'></script>
+
+  <!-- To customize the script that loads swagger, override templates/flasgger/swagger.html -->
+  <script>
+window.onload = function() {
+
+    
+
+    // Build a system
+    const ui = SwaggerUIBundle(
+    Object.assign(
+    {
+
+    
+    url: "/apispec_1.json",
+    
+    dom_id: '#swagger-ui',
+    validatorUrl: null,
+    displayOperationId: true,
+    deepLinking: true,
+    jsonEditor: true,
+    
+    apisSorter: "alpha",
+    presets: [
+        SwaggerUIBundle.presets.apis,
+        SwaggerUIStandalonePreset
+    ],
+    plugins: [
+        SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    
+    layout: "StandaloneLayout",
+    
+    },
+    {}
+    
+    )
+    
+    )
+
+    let auth_config = None;
+
+    ui.initOAuth(auth_config);
+
+    window.ui = ui
+
+    $(".topbar-wrapper .link span").replaceWith("<span>Flasgger</span>");
+}
+</script>
+
+  <!-- To customize the footer and include custom script on templates/flasgger/footer.html -->
+  <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+            <span style="float: right;">
+                [Powered by <a target="_blank" href="https://github.com/rochacbruno/flasgger">Flasgger</a> 0.9.7.1]
+                <br>
+            </span>
+        </section>
+    </div>
+</div>
+  </body>
+</html>
+2025-05-18 11:22:30,211 - 127.0.0.1 - - [18/May/2025 11:22:30] "GET /apidocs/ HTTP/1.1" 200 -
+2025-05-18 11:22:30,235 - REQUEST - GET http://localhost:5000/flasgger_static/swagger-ui.css | BODY: 
+2025-05-18 11:22:30,236 - REQUEST - GET http://localhost:5000/flasgger_static/swagger-ui-bundle.js | BODY: 
+2025-05-18 11:22:30,238 - REQUEST - GET http://localhost:5000/flasgger_static/swagger-ui-standalone-preset.js | BODY: 
+2025-05-18 11:22:30,267 - REQUEST - GET http://localhost:5000/flasgger_static/lib/jquery.min.js | BODY: 
+2025-05-18 11:22:30,291 - 127.0.0.1 - - [18/May/2025 11:22:30] "[35m[1mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 500 -
+2025-05-18 11:22:30,294 - 127.0.0.1 - - [18/May/2025 11:22:30] "[35m[1mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 500 -
+2025-05-18 11:22:30,304 - 127.0.0.1 - - [18/May/2025 11:22:30] "[35m[1mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 500 -
+2025-05-18 11:22:30,309 - 127.0.0.1 - - [18/May/2025 11:22:30] "[35m[1mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 500 -
+2025-05-18 11:22:30,458 - REQUEST - GET http://localhost:5000/flasgger_static/favicon-32x32.png | BODY: 
+2025-05-18 11:22:30,466 - 127.0.0.1 - - [18/May/2025 11:22:30] "[35m[1mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 500 -
+2025-05-18 11:22:59,738 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-18 11:22:59,739 - [33mPress CTRL+C to quit[0m
+2025-05-18 11:22:59,745 -  * Restarting with watchdog (inotify)
+2025-05-18 11:23:01,295 -  * Debugger is active!
+2025-05-18 11:23:01,296 -  * Debugger PIN: 950-730-442
+2025-05-18 11:23:09,578 - REQUEST - GET http://localhost:5000/apidocs/ | BODY: 
+2025-05-18 11:23:09,644 - RESPONSE - GET http://localhost:5000/apidocs/ | STATUS: 200 | TIME: 0.066359s | BODY: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+<title>Flasgger</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/flasgger_static/swagger-ui.css">
+<!-- Customize the app.config['SWAGGER']['favicon'] -->
+<link rel="icon" type="image/png" href="/flasgger_static/favicon-32x32.png" sizes="64x64 32x32 16x16" />
+<style>
+    html
+    {
+    box-sizing: border-box;
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+    }
+
+    *,
+    *:before,
+    *:after
+    {
+    box-sizing: inherit;
+    }
+
+    body
+    {
+    margin:0;
+    background: #fafafa;
+    }
+</style>
+    <!-- To add custom code here override the template templates/flasgger/custom_head.html -->
+    <!-- Include custom css and top js in templates/flasgger/head.html -->
+
+  </head>
+
+  <body>
+      <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+        </section>
+    </div>
+</div>
+
+      <div id="swagger-ui">
+          <div data-reactroot="" class="swagger-ui">
+              <div>
+              <div class="information-container wrapper">
+                  <section class="block col-12">
+                      <!-- ADDS THE LOADER SPINNER -->
+                      <div class="loading-container"><div class="loading"></div></div>
+                  </section>
+              </div>
+          </div>
+          </div>
+      </div>
+
+    <div id="swagger-ui"></div>
+
+    <script src="/flasgger_static/swagger-ui-bundle.js"></script>
+<script src="/flasgger_static/swagger-ui-standalone-preset.js"></script>
+<script src="/flasgger_static/lib/jquery.min.js" type='text/javascript'></script>
+
+  <!-- To customize the script that loads swagger, override templates/flasgger/swagger.html -->
+  <script>
+window.onload = function() {
+
+    
+
+    // Build a system
+    const ui = SwaggerUIBundle(
+    Object.assign(
+    {
+
+    
+    url: "/apispec_1.json",
+    
+    dom_id: '#swagger-ui',
+    validatorUrl: null,
+    displayOperationId: true,
+    deepLinking: true,
+    jsonEditor: true,
+    
+    apisSorter: "alpha",
+    presets: [
+        SwaggerUIBundle.presets.apis,
+        SwaggerUIStandalonePreset
+    ],
+    plugins: [
+        SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    
+    layout: "StandaloneLayout",
+    
+    },
+    {}
+    
+    )
+    
+    )
+
+    let auth_config = None;
+
+    ui.initOAuth(auth_config);
+
+    window.ui = ui
+
+    $(".topbar-wrapper .link span").replaceWith("<span>Flasgger</span>");
+}
+</script>
+
+  <!-- To customize the footer and include custom script on templates/flasgger/footer.html -->
+  <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+            <span style="float: right;">
+                [Powered by <a target="_blank" href="https://github.com/rochacbruno/flasgger">Flasgger</a> 0.9.7.1]
+                <br>
+            </span>
+        </section>
+    </div>
+</div>
+  </body>
+</html>
+2025-05-18 11:23:09,645 - 127.0.0.1 - - [18/May/2025 11:23:09] "GET /apidocs/ HTTP/1.1" 200 -
+2025-05-18 11:23:09,700 - REQUEST - GET http://localhost:5000/flasgger_static/swagger-ui.css | BODY: 
+2025-05-18 11:23:09,701 - REQUEST - GET http://localhost:5000/flasgger_static/swagger-ui-bundle.js | BODY: 
+2025-05-18 11:23:09,704 - REQUEST - GET http://localhost:5000/flasgger_static/swagger-ui-standalone-preset.js | BODY: 
+2025-05-18 11:23:09,706 - REQUEST - GET http://localhost:5000/flasgger_static/lib/jquery.min.js | BODY: 
+2025-05-18 11:23:09,783 - 127.0.0.1 - - [18/May/2025 11:23:09] "[35m[1mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 500 -
+2025-05-18 11:23:09,790 - 127.0.0.1 - - [18/May/2025 11:23:09] "[35m[1mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 500 -
+2025-05-18 11:23:09,796 - 127.0.0.1 - - [18/May/2025 11:23:09] "[35m[1mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 500 -
+2025-05-18 11:23:09,798 - 127.0.0.1 - - [18/May/2025 11:23:09] "[35m[1mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 500 -
+2025-05-18 11:23:09,934 - REQUEST - GET http://localhost:5000/flasgger_static/favicon-32x32.png | BODY: 
+2025-05-18 11:23:09,943 - 127.0.0.1 - - [18/May/2025 11:23:09] "[35m[1mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 500 -
+2025-05-18 11:25:02,595 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:25:02,596 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:25:02,598 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:25:03,188 -  * Restarting with watchdog (inotify)
+2025-05-18 11:25:05,415 -  * Debugger is active!
+2025-05-18 11:25:05,416 -  * Debugger PIN: 950-730-442
+2025-05-18 11:25:08,880 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-18 11:25:08,881 - [33mPress CTRL+C to quit[0m
+2025-05-18 11:25:08,887 -  * Restarting with watchdog (inotify)
+2025-05-18 11:25:09,949 -  * Debugger is active!
+2025-05-18 11:25:09,950 -  * Debugger PIN: 950-730-442
+2025-05-18 11:25:16,482 - REQUEST - GET http://localhost:5000/apidocs/ | BODY: 
+2025-05-18 11:25:16,549 - 127.0.0.1 - - [18/May/2025 11:25:16] "[35m[1mGET /apidocs/ HTTP/1.1[0m" 500 -
+2025-05-18 11:25:16,638 - 127.0.0.1 - - [18/May/2025 11:25:16] "GET /apidocs/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-18 11:25:16,640 - 127.0.0.1 - - [18/May/2025 11:25:16] "GET /apidocs/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-18 11:25:16,703 - 127.0.0.1 - - [18/May/2025 11:25:16] "GET /apidocs/?__debugger__=yes&cmd=resource&f=console.png&s=n3KMbRt1M7xdgVleRgxY HTTP/1.1" 200 -
+2025-05-18 11:25:16,772 - 127.0.0.1 - - [18/May/2025 11:25:16] "GET /apidocs/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-18 11:25:58,576 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:25:58,579 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:25:59,713 -  * Restarting with watchdog (inotify)
+2025-05-18 11:26:01,862 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-18 11:26:01,862 - [33mPress CTRL+C to quit[0m
+2025-05-18 11:26:01,868 -  * Restarting with watchdog (inotify)
+2025-05-18 11:26:03,673 -  * Debugger is active!
+2025-05-18 11:26:03,673 -  * Debugger PIN: 950-730-442
+2025-05-18 11:26:04,297 - REQUEST - GET http://localhost:5000/apidocs/ | BODY: 
+2025-05-18 11:26:04,359 - 127.0.0.1 - - [18/May/2025 11:26:04] "[35m[1mGET /apidocs/ HTTP/1.1[0m" 500 -
+2025-05-18 11:26:04,403 - 127.0.0.1 - - [18/May/2025 11:26:04] "[36mGET /apidocs/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-18 11:26:04,404 - 127.0.0.1 - - [18/May/2025 11:26:04] "[36mGET /apidocs/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-18 11:26:04,437 - 127.0.0.1 - - [18/May/2025 11:26:04] "GET /apidocs/?__debugger__=yes&cmd=resource&f=console.png&s=7XuJhoEvL9ej3Df9rHor HTTP/1.1" 200 -
+2025-05-18 11:26:04,482 - 127.0.0.1 - - [18/May/2025 11:26:04] "[36mGET /apidocs/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-18 11:26:51,595 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:26:51,596 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:26:51,605 -  * Detected change in '/home/afsal/github_insight_service/app.py', reloading
+2025-05-18 11:26:52,542 -  * Restarting with watchdog (inotify)
+2025-05-18 11:26:54,765 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-18 11:26:54,765 - [33mPress CTRL+C to quit[0m
+2025-05-18 11:26:54,770 -  * Restarting with watchdog (inotify)
+2025-05-18 11:26:56,438 -  * Debugger is active!
+2025-05-18 11:26:56,438 -  * Debugger PIN: 950-730-442
+2025-05-18 11:26:57,687 - RESPONSE - GET http://localhost:5000/apidocs/ | STATUS: 200 | TIME: 0.050s | BODY: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+<title>Flasgger</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/flasgger_static/swagger-ui.css">
+<!-- Customize the app.config['SWAGGER']['favicon'] -->
+<link rel="icon" type="image/png" href="/flasgger_static/favicon-32x32.png" sizes="64x64 32x32 16x16" />
+<style>
+    html
+    {
+    box-sizing: border-box;
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+    }
+
+    *,
+    *:before,
+    *:after
+    {
+    box-sizing: inherit;
+    }
+
+    body
+    {
+    margin:0;
+    background: #fafafa;
+    }
+</style>
+    <!-- To add custom code here override the template templates/flasgger/custom_head.html -->
+    <!-- Include custom css and top js in templates/flasgger/head.html -->
+
+  </head>
+
+  <body>
+      <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+        </section>
+    </div>
+</div>
+
+      <div id="swagger-ui">
+          <div data-reactroot="" class="swagger-ui">
+              <div>
+              <div class="information-container wrapper">
+                  <section class="block col-12">
+                      <!-- ADDS THE LOADER SPINNER -->
+                      <div class="loading-container"><div class="loading"></div></div>
+                  </section>
+              </div>
+          </div>
+          </div>
+      </div>
+
+    <div id="swagger-ui"></div>
+
+    <script src="/flasgger_static/swagger-ui-bundle.js"></script>
+<script src="/flasgger_static/swagger-ui-standalone-preset.js"></script>
+<script src="/flasgger_static/lib/jquery.min.js" type='text/javascript'></script>
+
+  <!-- To customize the script that loads swagger, override templates/flasgger/swagger.html -->
+  <script>
+window.onload = function() {
+
+    
+
+    // Build a system
+    const ui = SwaggerUIBundle(
+    Object.assign(
+    {
+
+    
+    url: "/apispec_1.json",
+    
+    dom_id: '#swagger-ui',
+    validatorUrl: null,
+    displayOperationId: true,
+    deepLinking: true,
+    jsonEditor: true,
+    
+    apisSorter: "alpha",
+    presets: [
+        SwaggerUIBundle.presets.apis,
+        SwaggerUIStandalonePreset
+    ],
+    plugins: [
+        SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    
+    layout: "StandaloneLayout",
+    
+    },
+    {}
+    
+    )
+    
+    )
+
+    let auth_config = None;
+
+    ui.initOAuth(auth_config);
+
+    window.ui = ui
+
+    $(".topbar-wrapper .link span").replaceWith("<span>Flasgger</span>");
+}
+</script>
+
+  <!-- To customize the footer and include custom script on templates/flasgger/footer.html -->
+  <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+            <span style="float: right;">
+                [Powered by <a target="_blank" href="https://github.com/rochacbruno/flasgger">Flasgger</a> 0.9.7.1]
+                <br>
+            </span>
+        </section>
+    </div>
+</div>
+  </body>
+</html>
+2025-05-18 11:26:57,687 - 127.0.0.1 - - [18/May/2025 11:26:57] "GET /apidocs/ HTTP/1.1" 200 -
+2025-05-18 11:26:57,726 - RESPONSE - GET http://localhost:5000/flasgger_static/swagger-ui-bundle.js | STATUS: 200 | TIME: 0.007s | BODY: [direct passthrough — not logged]
+2025-05-18 11:26:57,728 - RESPONSE - GET http://localhost:5000/flasgger_static/swagger-ui-standalone-preset.js | STATUS: 200 | TIME: 0.001s | BODY: [direct passthrough — not logged]
+2025-05-18 11:26:57,730 - RESPONSE - GET http://localhost:5000/flasgger_static/swagger-ui.css | STATUS: 200 | TIME: 0.018s | BODY: [direct passthrough — not logged]
+2025-05-18 11:26:57,731 - 127.0.0.1 - - [18/May/2025 11:26:57] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2025-05-18 11:26:57,731 - 127.0.0.1 - - [18/May/2025 11:26:57] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2025-05-18 11:26:57,733 - 127.0.0.1 - - [18/May/2025 11:26:57] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2025-05-18 11:26:57,735 - RESPONSE - GET http://localhost:5000/flasgger_static/lib/jquery.min.js | STATUS: 200 | TIME: 0.001s | BODY: [direct passthrough — not logged]
+2025-05-18 11:26:57,737 - 127.0.0.1 - - [18/May/2025 11:26:57] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2025-05-18 11:26:58,072 - RESPONSE - GET http://localhost:5000/apispec_1.json | STATUS: 200 | TIME: 0.007s | BODY: {
+  "components": {
+    "securitySchemes": {}
+  },
+  "definitions": {},
+  "info": {
+    "description": "A service that scrapes GitHub profiles based on keyword and generates AI summaries using Cohere's language models.\n",
+    "title": "GitHub Insight Service API",
+    "version": "1.0.0"
+  },
+  "openapi": "3.0.0",
+  "paths": {
+    "/api/scrape": {
+      "get": {
+        "parameters": [
+          {
+            "default": "javascript developer",
+            "in": "query",
+            "name": "q",
+            "required": false,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A list of enriched GitHub users",
+            "examples": {
+              "application/json": {
+                "results": [
+                  {
+                    "followers": 100,
+                    "insights": "An active contributor...",
+                    "profile_url": "https://github.com/octocat",
+                    "public_repos": 50,
+                    "username": "octocat"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "summary": "Scrape GitHub users and return structured summaries via JSON."
+      }
+    },
+    "/summarize": {
+      "post": {
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "username": {
+                    "example": "CodeWhizAfsal",
+                    "type": "string"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "summary": {
+                      "example": "This user is an open-source contributor focused on Python and AI.",
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Summary generated using Cohere"
+          },
+          "400": {
+            "description": "Invalid request body or missing username"
+          }
+        },
+        "summary": "Summarize a GitHub user's profile using Cohere AI"
+      }
+    }
+  },
+  "servers": [
+    {
+      "description": "Local development server",
+      "url": "http://localhost:5000"
+    }
+  ],
+  "swagger": "2.0"
+}
+
+2025-05-18 11:26:58,072 - 127.0.0.1 - - [18/May/2025 11:26:58] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-05-18 11:26:58,092 - RESPONSE - GET http://localhost:5000/flasgger_static/favicon-32x32.png | STATUS: 200 | TIME: 0.001s | BODY: [direct passthrough — not logged]
+2025-05-18 11:26:58,100 - 127.0.0.1 - - [18/May/2025 11:26:58] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2025-05-18 11:28:11,890 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-18 11:28:11,891 - [33mPress CTRL+C to quit[0m
+2025-05-18 11:28:11,897 -  * Restarting with watchdog (inotify)
+2025-05-18 11:28:13,585 -  * Debugger is active!
+2025-05-18 11:28:13,586 -  * Debugger PIN: 950-730-442
+2025-05-18 11:28:14,614 - RESPONSE - GET http://localhost:5000/apidocs/ | STATUS: 200 | TIME: 0.037s | BODY: <!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+<title>Flasgger</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/flasgger_static/swagger-ui.css">
+<!-- Customize the app.config['SWAGGER']['favicon'] -->
+<link rel="icon" type="image/png" href="/flasgger_static/favicon-32x32.png" sizes="64x64 32x32 16x16" />
+<style>
+    html
+    {
+    box-sizing: border-box;
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+    }
+
+    *,
+    *:before,
+    *:after
+    {
+    box-sizing: inherit;
+    }
+
+    body
+    {
+    margin:0;
+    background: #fafafa;
+    }
+</style>
+    <!-- To add custom code here override the template templates/flasgger/custom_head.html -->
+    <!-- Include custom css and top js in templates/flasgger/head.html -->
+
+  </head>
+
+  <body>
+      <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+        </section>
+    </div>
+</div>
+
+      <div id="swagger-ui">
+          <div data-reactroot="" class="swagger-ui">
+              <div>
+              <div class="information-container wrapper">
+                  <section class="block col-12">
+                      <!-- ADDS THE LOADER SPINNER -->
+                      <div class="loading-container"><div class="loading"></div></div>
+                  </section>
+              </div>
+          </div>
+          </div>
+      </div>
+
+    <div id="swagger-ui"></div>
+
+    <script src="/flasgger_static/swagger-ui-bundle.js"></script>
+<script src="/flasgger_static/swagger-ui-standalone-preset.js"></script>
+<script src="/flasgger_static/lib/jquery.min.js" type='text/javascript'></script>
+
+  <!-- To customize the script that loads swagger, override templates/flasgger/swagger.html -->
+  <script>
+window.onload = function() {
+
+    
+
+    // Build a system
+    const ui = SwaggerUIBundle(
+    Object.assign(
+    {
+
+    
+    url: "/apispec_1.json",
+    
+    dom_id: '#swagger-ui',
+    validatorUrl: null,
+    displayOperationId: true,
+    deepLinking: true,
+    jsonEditor: true,
+    
+    apisSorter: "alpha",
+    presets: [
+        SwaggerUIBundle.presets.apis,
+        SwaggerUIStandalonePreset
+    ],
+    plugins: [
+        SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    
+    layout: "StandaloneLayout",
+    
+    },
+    {}
+    
+    )
+    
+    )
+
+    let auth_config = None;
+
+    ui.initOAuth(auth_config);
+
+    window.ui = ui
+
+    $(".topbar-wrapper .link span").replaceWith("<span>Flasgger</span>");
+}
+</script>
+
+  <!-- To customize the footer and include custom script on templates/flasgger/footer.html -->
+  <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="clear">
+            
+            <span style="float: right;">
+                [Powered by <a target="_blank" href="https://github.com/rochacbruno/flasgger">Flasgger</a> 0.9.7.1]
+                <br>
+            </span>
+        </section>
+    </div>
+</div>
+  </body>
+</html>
+2025-05-18 11:28:14,615 - 127.0.0.1 - - [18/May/2025 11:28:14] "GET /apidocs/ HTTP/1.1" 200 -
+2025-05-18 11:28:14,658 - RESPONSE - GET http://localhost:5000/flasgger_static/swagger-ui-standalone-preset.js | STATUS: 304 | TIME: 0.001s | BODY: [direct passthrough — not logged]
+2025-05-18 11:28:14,659 - 127.0.0.1 - - [18/May/2025 11:28:14] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-05-18 11:28:14,664 - RESPONSE - GET http://localhost:5000/flasgger_static/lib/jquery.min.js | STATUS: 304 | TIME: 0.001s | BODY: [direct passthrough — not logged]
+2025-05-18 11:28:14,664 - 127.0.0.1 - - [18/May/2025 11:28:14] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-05-18 11:28:14,665 - RESPONSE - GET http://localhost:5000/flasgger_static/swagger-ui.css | STATUS: 304 | TIME: 0.022s | BODY: [direct passthrough — not logged]
+2025-05-18 11:28:14,666 - 127.0.0.1 - - [18/May/2025 11:28:14] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-05-18 11:28:14,669 - RESPONSE - GET http://localhost:5000/flasgger_static/swagger-ui-bundle.js | STATUS: 304 | TIME: 0.018s | BODY: [direct passthrough — not logged]
+2025-05-18 11:28:14,670 - 127.0.0.1 - - [18/May/2025 11:28:14] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-05-18 11:28:14,872 - RESPONSE - GET http://localhost:5000/apispec_1.json | STATUS: 200 | TIME: 0.007s | BODY: {
+  "basePath": "/",
+  "definitions": {},
+  "host": "localhost:5000",
+  "info": {
+    "description": "A service that scrapes GitHub profiles based on keyword and generates AI summaries using Cohere's language models.\n",
+    "title": "GitHub Insight Service API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api/scrape": {
+      "get": {
+        "parameters": [
+          {
+            "default": "javascript developer",
+            "in": "query",
+            "name": "q",
+            "required": false,
+            "type": "string"
+          }
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "A list of enriched GitHub users",
+            "examples": {
+              "application/json": {
+                "results": [
+                  {
+                    "followers": 100,
+                    "insights": "An active contributor...",
+                    "profile_url": "https://github.com/octocat",
+                    "public_repos": 50,
+                    "username": "octocat"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "summary": "Scrape GitHub users and return structured summaries via JSON."
+      }
+    },
+    "/summarize": {
+      "post": {
+        "consumes": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "required": true,
+            "schema": {
+              "properties": {
+                "username": {
+                  "example": "CodeWhizAfsal",
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            }
+          }
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Summary generated using Cohere",
+            "schema": {
+              "properties": {
+                "summary": {
+                  "example": "This user is an open-source contributor focused on Python and AI.",
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            }
+          },
+          "400": {
+            "description": "Invalid request body or missing username"
+          }
+        },
+        "summary": "Summarize a GitHub user's profile using Cohere AI"
+      }
+    }
+  },
+  "schemes": [
+    "http"
+  ],
+  "swagger": "2.0"
+}
+
+2025-05-18 11:28:14,873 - 127.0.0.1 - - [18/May/2025 11:28:14] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-05-18 11:28:14,880 - RESPONSE - GET http://localhost:5000/flasgger_static/favicon-32x32.png | STATUS: 304 | TIME: 0.001s | BODY: [direct passthrough — not logged]
+2025-05-18 11:28:14,881 - 127.0.0.1 - - [18/May/2025 11:28:14] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+2025-05-18 11:30:18,356 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:30:20,798 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:30:26,169 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:30:31,900 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:30:43,789 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:30:45,014 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:30:47,740 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:30:54,627 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:00,374 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:06,413 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:15,656 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:19,223 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:24,464 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:27,662 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:34,267 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:40,516 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:45,975 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:52,705 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:31:55,278 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:32:00,587 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:32:00,597 - RESPONSE - GET http://localhost:5000/api/scrape?q=Developer | STATUS: 200 | TIME: 115.962s | BODY: {
+  "results": [
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"developerrahulofficial\" has little public information available on their profile, including a missing name, bio, and location. This lack of information makes it challenging to infer their skills, experience level, and expertise directly.\n\nHowever, by examining their pinned repositories, we can gain some insights into their interests and areas of expertise:\n\n- Pinned Repositories: The user has not pinned any repositories to their profile.\n\nWithout additional information or repositories to reference, it is difficult to make a comprehensive assessment of their skills and experience level. However, the lack of pinned repositories suggests that this user is either new to GitHub or prefers to keep their projects private or unadvertised.\n\nIn summary, \"developerrahulofficial\" appears to be an enigmatic GitHub user, and without further details, their skills, experience level, and technical expertise remain largely unknown."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developerrahulofficial",
+      "public_repos": null,
+      "username": "developerrahulofficial"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the information provided, there is not enough context to comprehensively summarize the GitHub user \"developer-guy\" or infer their skills, experience level, and technical expertise. A username, with no additional details like a bio, location, or pinned repositories, offers minimal insight into the user's profile.\n\nHowever, from the username \"developer-guy,\" it can be inferred that the individual has an interest in development or programming. The hyphenated name suggests a preference for a unique online identity. Without further information, it is challenging to determine their main skills, experience level, or specific areas of technical expertise."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developer-guy",
+      "public_repos": null,
+      "username": "developer-guy"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the information provided, it is challenging to comprehensively summarize the GitHub user \"developerfred\" or infer their skills, experience, and expertise in detail. However, here is an attempt to analyze their profile:\n\nSummary:\n\nThe GitHub profile of \"developerfred\" lacks personal information, including a name, bio, and location. Without additional context, it is difficult to form a complete picture of their background and expertise. However, their pinned repositories, if available, could offer some insights into their interests and areas of focus.\n\nSkills and Expertise:\n\nWithout further details, it is hard to pinpoint specific skills or areas of expertise. The absence of a bio or project descriptions limits the ability to assess their technical proficiency. However, by examining their pinned repositories, we might be able to gain a better understanding of their interests and technical inclinations.\n\nExperience Level:\n\nWith the limited information at hand, determining developerfred's experience level is challenging. Their lack of a detailed profile suggests they prefer privacy or have not yet established a comprehensive online presence. It is possible that they are an entry-level developer or someone who is still in the process of building their professional profile.\n\nTechnical Expertise:\n\nWithout further context, it is difficult to ascertain developerfred's technical expertise. Their pinned repositories, if available, might provide clues about the technologies they work with or the types of projects that capture their interest.\n\nIn summary, the profile of"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developerfred",
+      "public_repos": null,
+      "username": "developerfred"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "developernaimul is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests an interest in development and programming.\n\nIn terms of skills and expertise, developernaimul has pinned a variety of repositories to their profile, indicating their knowledge and experience in several areas:\n\n- Web Development: They have pinned repositories related to HTML, CSS, and JavaScript, suggesting a solid understanding of front-end web development.\n- Python: There are pinned repositories that showcase Python code and projects, indicating proficiency in this versatile programming language.\n- Machine Learning: developernaimul has pinned repositories related to machine learning, demonstrating an interest and some experience in this field.\n- Data Science: They have also pinned repositories related to data analysis and visualization, indicating skills in data handling and interpretation.\n- Version Control: Their GitHub profile management, including pinning repositories, demonstrates a grasp of version control systems like Git.\n\nBased on the pinned repositories, developernaimul appears to be an experienced developer with a broad range of technical skills. They have a particular interest in web development, Python programming, machine learning, and data science. The level of experience is difficult to ascertain without further information, but their knowledge in these areas appears to be solid and they actively curate their profile to showcase their expertise."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developernaimul",
+      "public_repos": null,
+      "username": "developernaimul"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Developer-Y is a GitHub user who has not provided any personal information such as a name, bio, or location. Therefore, their experience level and expertise are challenging to ascertain. However, by examining their pinned repositories, we can gain some insights into their skills and areas of interest.\n\nDeveloper-Y has pinned a variety of repositories, showcasing a range of skills and expertise in software development and machine learning. They appear to have a solid understanding of various programming languages, including Python, C++, and JavaScript, as well as web development frameworks like React and Flask.\n\nOne of their pinned repositories, \"machine-learning-resources,\" suggests that they have a strong interest in machine learning and artificial intelligence. This repository contains a curated list of resources, tutorials, and books related to machine learning, deep learning, and data science. It indicates that Developer-Y is either experienced in this field or is actively learning and exploring these topics.\n\nAnother pinned repository, \"web-development-bootcamp,\" demonstrates their knowledge of web development. This repository includes a collection of web development resources, covering topics such as HTML/CSS, JavaScript, Node.js, and React. It suggests that Developer-Y is well-versed in front-end and back-end web development technologies and may have experience building web applications.\n\nAdditionally, Developer-Y has pinned repositories related to data structures and algorithms, indicating a solid foundation in computer science fundamentals. They also seem to have an interest in"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developer-Y",
+      "public_repos": null,
+      "username": "Developer-Y"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Unfortunately, without any information on the GitHub user's profile, such as a bio, repositories, or previous contributions, there is not enough data to summarize their skills, experience level, or technical expertise."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developerayo",
+      "public_repos": null,
+      "username": "Developerayo"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user developergtm24 is a developer with a focus on Python programming. They have a number of Python projects in their pinned repositories, indicating that they are experienced and skilled in this language. The user also has a repository related to web development, suggesting they have some knowledge and experience in this field as well. However, without further information such as a bio, work experience, or contributions to public projects, it is difficult to determine their exact skill level and expertise. They appear to be an independent developer or a hobbyist based on the available information."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developergtm24",
+      "public_repos": null,
+      "username": "developergtm24"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"DeveloperAcademy-POSTECH\" appears to be an organization or a group associated with POSTECH (Pohang University of Science and Technology), a renowned university in South Korea. Unfortunately, the profile lacks personal information such as a name, bio, or location, making it challenging to infer specific details about the individual(s) managing this account.\n\nMain Skills and Technical Expertise:\n\n- The pinned repositories indicate a focus on software development, computer science, and programming languages.\n- The user has experience with various programming languages, including Python, C, Java, and JavaScript, as evidenced by the repository contents.\n- They seem to have a strong background in data structures and algorithms, as suggested by the \"Data-Structures-and-Algorithms\" repository, which covers fundamental CS topics.\n- The user is likely proficient in web development, particularly with React and Node.js, as seen from the \"Web-Development\" repository.\n- There is an interest in machine learning and artificial intelligence, as the \"Machine-Learning-Study\" repository suggests, covering topics like neural networks and deep learning.\n\nExperience Level:\n\n- It is challenging to determine the exact experience level without personal information. However, the variety and depth of topics covered in the repositories suggest that the user(s) possess a good level of expertise and experience in software development and computer science.\n- The account has been active since May 2020, suggesting"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/DeveloperAcademy-POSTECH",
+      "public_repos": null,
+      "username": "DeveloperAcademy-POSTECH"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"developersancho\" has not shared any personal details such as their real name, biography, or location. Therefore, an inference of their skills, experience level, and expertise can only be made from their pinned repositories. \n\nSkills and Technical Expertise:\n\n- Web Development: The user has pinned repositories related to web development frameworks like React and Next.js, indicating knowledge and interest in building web applications. They seem familiar with JavaScript and its ecosystem, including tools like TypeScript, Jest, and ESLint.\n- Software Architecture: developersancho has pinned repositories that discuss software architecture patterns and best practices, suggesting an interest in designing scalable and maintainable software systems.\n- Open Source Contribution: They have pinned repositories from other users, which likely indicates an appreciation for open-source software and a willingness to learn from and contribute to the community.\n- Version Control: Their activity on GitHub demonstrates a solid understanding of version control systems, as they use GitHub to manage and share their projects.\n\nExperience Level: \n\nWithout any explicit indicators like work experience or project descriptions, it's challenging to determine developersancho's precise experience level. However, their interest in software architecture and web development frameworks suggests they are likely beyond the beginner stage and may have some practical experience building and designing web applications. Their engagement with the GitHub community and pinning of open-source projects also indicate a level of maturity in their software development journey. \n\nIn"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developersancho",
+      "public_repos": null,
+      "username": "developersancho"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "ShabnamDeveloper is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests a preference for development and programming.\n\nFrom their pinned repositories, it's evident that ShabnamDeveloper has a strong interest in web development, particularly in building responsive and interactive web applications. They have experience with various front-end technologies and frameworks, indicating a focus on the user interface and user experience.\n\nPinned Repositories:\n\n1. \"Awesome-Web-Development-Resources\": This repository suggests that ShabnamDeveloper is experienced and well-versed in web development. It contains a curated list of resources, tutorials, and tools covering a wide range of web development topics, including HTML, CSS, JavaScript, React, and Vue.js. The user has taken the time to organize and share valuable resources, indicating a willingness to contribute to the developer community.\n\n2. \"Responsive-Web-Design-Examples\": Here, ShabnamDeveloper showcases their understanding of responsive design principles. The repository contains examples and code snippets demonstrating how to create responsive layouts, navigate breakpoints, and utilize media queries effectively. This indicates a proficiency in making websites adaptable to different screen sizes and devices.\n\n3. \"JavaScript-Project-Ideas\": This collection of project ideas for beginners and intermediate JavaScript developers shows ShabnamDeveloper's interest in both learning and teaching. It covers a range of topics, including games, utilities, and web applications, indicating a desire"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/ShabnamDeveloper",
+      "public_repos": null,
+      "username": "ShabnamDeveloper"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "DeveloperLx is a GitHub user who has not provided personal information such as a name, bio, or location. However, their pinned repositories offer some insight into their skills and areas of expertise. \n\nSkills:\n- DeveloperLx appears to be skilled in Python programming, as evidenced by their pinned repositories related to web development, data analysis, and machine learning. \n- They have experience with web development frameworks such as Django and Flask, and have also pinned a repository related to HTML/CSS/JavaScript, indicating a solid understanding of front-end development. \n- In terms of data analysis and machine learning, DeveloperLx has pinned repositories related to data visualization using Matplotlib and Pandas, as well as machine learning algorithms and natural language processing. \n- Additionally, they have an interest in cybersecurity, as indicated by a pinned repository on ethical hacking. \n\nExperience Level:\n- It's difficult to ascertain DeveloperLx's exact experience level without more information. However, the variety of pinned repositories suggests they have a broad range of skills and are likely an experienced developer. They seem to be well-versed in several programming languages and technologies, indicating a mid-to-senior level of expertise. \n\nTechnical Expertise:\n- Python: DeveloperLx's pinned repositories showcase their proficiency in Python, particularly in web development, data analysis, and machine learning contexts. \n- Web Development: They have a solid understanding of both back-end (Django, Flask) and front-end"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/DeveloperLx",
+      "public_repos": null,
+      "username": "DeveloperLx"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, here is a summary of the GitHub user \"Ramseyxlil\":\n\nRamseyxlil seems to be a relatively new or inexperienced user on GitHub. They have not provided any personal information such as a name, bio, or location, which suggests they prefer anonymity or have not yet completed their profile.\n\nIn terms of skills and expertise, the user has not pinned any repositories to their profile, which could indicate that they are still exploring different areas of technology or have not yet found a specific area of focus. However, this lack of information makes it challenging to infer their main skills or technical expertise accurately.\n\nOverall, Ramseyxlil appears to be an entry-level or novice user on GitHub, and without additional details or contributions, it is difficult to assess their experience level and technical proficiency confidently."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Ramseyxlil",
+      "public_repos": null,
+      "username": "Ramseyxlil"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"uprockcom\" appears to be a seasoned software developer with a strong background in web development and related tools. They have a particular interest in JavaScript and its ecosystem, as evidenced by their pinned repositories. Here's a summary:\n\nSkills:\n- JavaScript expert, with a focus on frontend development using React, Redux, and related tools.\n- Proficient in web development frameworks and libraries, including Gatsby, Next.js, and Material-UI.\n- Familiarity with CSS preprocessors like Sass and CSS-in-JS approaches.\n- Experience with static site generation and headless CMS, as shown by their work with Gatsby and Storyblok.\n- Understanding of testing frameworks like Jest and Enzyme.\n- Knowledge of state management patterns, as indicated by their use of Redux and Recoil.\n\nExperience Level:\n- Seasoned Developer: The user has a good understanding of modern frontend development practices and a solid grasp of JavaScript and its related tools. They have likely worked on multiple projects, as suggested by the variety of pinned repositories.\n\nTechnical Expertise:\n- Web Development: uprockcom's main area of expertise is web development, specifically building dynamic and interactive web applications using React and its ecosystem.\n- Static Site Generation: They have experience with static site generators like Gatsby, which are used for building fast and secure websites.\n- Headless CMS: The user has worked with a headless CMS (Storyblok), indicating an understanding"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/uprockcom",
+      "public_repos": null,
+      "username": "uprockcom"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"aplus-developer\" appears to be a highly skilled and experienced software developer, despite the lack of personal information provided in their profile. \n\nFrom their username and the fact that they have no personal bio or other identifying information, one can infer that this user values privacy and prefers to let their coding skills and contributions speak for themselves. \n\nTheir pinned repositories are not available, so I cannot provide insights based on that. However, by analyzing their past contributions and activities on GitHub, one could gain a better understanding of their specific areas of expertise and technical skills. \n\nIn summary, \"aplus-developer\" seems to be a seasoned developer with a strong foundation in software development, and further investigation into their GitHub activities and projects would provide a more comprehensive understanding of their technical expertise and specialties."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/aplus-developer",
+      "public_repos": null,
+      "username": "aplus-developer"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"developersdigest\" has no visible bio, name, or location specified in their profile, which makes it challenging to infer personal details or background. \n\nHowever, analyzing their pinned repositories can give a glimpse into their skills, experience, and technical expertise:\n\n1. **Pinned Repositories (Skills and Expertise):**\n\n   - The user has a diverse range of pinned repositories, suggesting a broad set of skills and interests.\n\n   - Languages and Frameworks:\n\n     - JavaScript (Node.js, React, Vue.js, Angular)\n     - Python (Django, Flask)\n     - HTML/CSS\n     - Java\n     - Swift\n     - Ruby\n\n   - Web Development:\n\n     - Front-end web development with a focus on JavaScript frameworks like React, Vue.js, and Angular.\n     - Proficiency in back-end development using Node.js and Python frameworks (Django, Flask).\n\n   - Mobile Development:\n\n     - Experience with iOS development using Swift.\n     - Knowledge of Ruby for mobile development.\n\n   - Version Control and Tools:\n\n     - Familiarity with Git and GitHub for version control and collaboration.\n     - Usage of tools like Webpack, Babel, and NPM indicates an understanding of the web development ecosystem.\n\n2. **Experience Level:**\n\n   - The variety and number of pinned repositories suggest that \"developersdigest\" is likely an experienced developer. They seem to have a solid grasp of multiple programming languages, frameworks, and tools, indicating"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developersdigest",
+      "public_repos": null,
+      "username": "developersdigest"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"Developer-DAO\" appears to be a community-driven profile representing a decentralized autonomous organization (DAO) of developers. Without additional details such as a personal bio, work experience, or location, the inference about their skills, experience level, and expertise is based on the pinned repositories on their profile.\n\nMain Skills and Technical Expertise:\n\n- Smart Contract Development: The pinned repositories primarily focus on smart contract development, indicating advanced skills and expertise in this area. They seem well-versed in Solidity, the programming language used for writing smart contracts on Ethereum.\n- Blockchain and Web3 Technologies: Developer-DAO demonstrates a strong understanding of blockchain concepts and Web3 technologies. They have repositories related to decentralized finance (DeFi), non-fungible tokens (NFTs), and blockchain security, showcasing their proficiency in this domain.\n- Open Source Contributions: They actively contribute to open-source projects and have created educational resources related to blockchain development. This suggests a commitment to the open-source community and a willingness to share knowledge.\n- Software Development: While the primary focus is on blockchain, Developer-DAO also showcases proficiency in general software development practices, version control with Git, and collaboration through GitHub.\n\nExperience Level:\n\n- Advanced: Based on the nature of their pinned repositories, Developer-DAO seems to possess an advanced level of experience in blockchain development, particularly in the realm of smart contracts and Web3 technologies. They have likely worked on complex"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developer-DAO",
+      "public_repos": null,
+      "username": "Developer-DAO"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "developer-junaid is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests an association with software development.\n\nSkills and Expertise:\n\nBased on the pinned repositories, developer-junaid appears to have a strong interest and experience in web development, particularly in the Python ecosystem. They have pinned repositories related to web scraping, data analysis, and web application development.\n\n- Web Scraping: developer-junaid has pinned a repository called \"Web-Scraping-with-Python,\" indicating proficiency in extracting data from websites using Python libraries like BeautifulSoup and Selenium.\n- Data Analysis: They have also pinned a repository related to data analysis with Python, suggesting skills in data manipulation, visualization, and machine learning.\n- Web Development: The user has shown an interest in web development by pinning repositories related to building web applications using Python frameworks like Django and Flask.\n- Python: Python is clearly their primary programming language, as evidenced by the pinned repositories and the nature of the projects they have worked on.\n\nExperience Level:\n\nIt is difficult to ascertain developer-junaid's exact experience level without any explicit information. However, the variety and depth of the pinned repositories suggest that they are likely an intermediate to advanced-level developer. They appear to have a solid understanding of web development concepts, data handling, and Python programming.\n\nTechnical Expertise:\n\ndeveloper-juna"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developer-junaid",
+      "public_repos": null,
+      "username": "developer-junaid"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"developer9998\" has chosen to remain anonymous and not disclose personal information such as their real name, biography, or location. Therefore, an inference of their skills, experience level, and expertise has to rely solely on the pinned repositories on their profile.\n\nMain Skills and Technical Expertise:\n\n- Web Development: The user has pinned repositories related to web development frameworks such as React, Vue.js, and Angular. They seem to have a good understanding of building web applications and have worked on projects using these technologies.\n\n- JavaScript and TypeScript: \"developer9998\" has a strong proficiency in JavaScript, as evidenced by their pinned repositories. They have also shown interest in TypeScript, which is a typed superset of JavaScript, indicating a desire for stronger type checking and improved developer experience.\n\n- Front-end Development: In addition to web frameworks, the user has pinned repositories related to front-end development tools like Webpack and Babel. This suggests that they have knowledge of bundling, transpiling, and setting up development workflows.\n\n- Design and UI: There is a focus on design and user interface, as indicated by pinned repositories related to UI frameworks such as Material-UI and Ant Design. They seem interested in creating visually appealing and user-friendly interfaces.\n\nExperience Level:\n\nWithout any explicit information about the user's experience level, it is challenging to determine their exact expertise. However"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developer9998",
+      "public_repos": null,
+      "username": "developer9998"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"extreme-assistant\" appears to be a relatively experienced programmer with a focus on machine learning and data science. They have a number of repositories pinned to their profile, mostly related to building AI assistants and chatbots. The user seems to have a good understanding of natural language processing and deep learning frameworks, as evidenced by their work on projects such as \"Extreme Assistant\" and \"AI-Chatbot-Framework\". They also have experience with Python programming and version control using Git. While their exact skill level is hard to determine without more information, the complexity of their projects suggests an advanced level of technical expertise in the field of artificial intelligence and its applications."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/extreme-assistant",
+      "public_repos": null,
+      "username": "extreme-assistant"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub profile \"Developer-Ecosystem-Engineering\" appears to belong to a team or organization rather than an individual user, as is common for groups that collaborate on open-source projects or manage organizational accounts. Unfortunately, without additional information such as a bio, public activity, or repositories, it is challenging to infer specific details about their skills, experience level, or technical expertise. However, based on the username and the context, we can make some educated inferences:\n\n- **Skills and Technical Expertise:** The username suggests that the team focuses on developer tools, ecosystems, and engineering tasks. This could encompass a broad range of skills, including software development, API design, developer relations, community management, and creating or improving developer experiences and tools. They may have expertise in programming languages, frameworks, version control systems (like Git), and continuous integration/continuous deployment (CI/CD) practices.\n\n- **Experience Level:** Without any further context, it is difficult to ascertain the experience level of the team members. However, the term \"engineering\" in the username implies a level of technical proficiency and professional experience. It is safe to assume that the team includes individuals with varying levels of experience, from junior to senior contributors, each bringing their own unique skills and perspectives to the table.\n\n- **Specializations:** The term \"ecosystem\" in the username hints at a focus on the broader developer community and the interactions between different tools, platforms, and services. This could"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developer-Ecosystem-Engineering",
+      "public_repos": null,
+      "username": "Developer-Ecosystem-Engineering"
+    }
+  ]
+}
+
+2025-05-18 11:32:00,599 - 127.0.0.1 - - [18/May/2025 11:32:00] "GET /api/scrape?q=Developer HTTP/1.1" 200 -
+2025-05-18 11:32:48,066 - RESPONSE - POST http://localhost:5000/summarize | STATUS: 404 | TIME: 0.000s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-18 11:32:48,067 - 127.0.0.1 - - [18/May/2025 11:32:48] "[33mPOST /summarize HTTP/1.1[0m" 404 -
+2025-05-18 11:32:51,418 - RESPONSE - POST http://localhost:5000/summarize | STATUS: 404 | TIME: 0.000s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-18 11:32:51,418 - 127.0.0.1 - - [18/May/2025 11:32:51] "[33mPOST /summarize HTTP/1.1[0m" 404 -
+2025-05-18 11:32:52,145 - RESPONSE - POST http://localhost:5000/summarize | STATUS: 404 | TIME: 0.000s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-18 11:32:52,146 - 127.0.0.1 - - [18/May/2025 11:32:52] "[33mPOST /summarize HTTP/1.1[0m" 404 -
+2025-05-18 11:32:53,079 - RESPONSE - POST http://localhost:5000/summarize | STATUS: 404 | TIME: 0.000s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-18 11:32:53,079 - 127.0.0.1 - - [18/May/2025 11:32:53] "[33mPOST /summarize HTTP/1.1[0m" 404 -
+2025-05-18 11:33:25,561 - RESPONSE - POST http://localhost:5000/summarize | STATUS: 404 | TIME: 0.000s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-18 11:33:25,561 - 127.0.0.1 - - [18/May/2025 11:33:25] "[33mPOST /summarize HTTP/1.1[0m" 404 -
+2025-05-18 11:34:31,122 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:34:31,125 - RESPONSE - GET http://localhost:5000/api/scrape?q=CodeWhizAfsal | STATUS: 200 | TIME: 11.237s | BODY: {
+  "results": [
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "CodeWhizAfsal is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests a connection to coding and programming.\n\nBased on their pinned repositories, CodeWhizAfsal appears to have a strong interest in web development, particularly in building interactive and responsive websites and web applications. They have pinned repositories related to HTML, CSS, and JavaScript, indicating a focus on front-end development.\n\nOne of their pinned repositories, \"Web-Dev-Project-Ideas,\" suggests that CodeWhizAfsal is experienced in web development and is looking to explore new projects and enhance their skills. This repository contains a collection of project ideas, resources, and tutorials, indicating that CodeWhizAfsal is proactive in learning and improving their craft.\n\nAnother pinned repository, \"JavaScript-Study-Guide-Projects,\" further emphasizes their interest in JavaScript and front-end development. This repository likely serves as a study guide or a collection of projects to practice and master JavaScript concepts.\n\nOverall, CodeWhizAfsal seems to be an experienced web developer with a strong inclination towards front-end technologies. They appear to be self-driven and eager to learn, as evidenced by their curated list of resources and project ideas. Their main skills include HTML, CSS, and JavaScript, and they likely have experience in building and designing websites or web applications."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/CodeWhizAfsal",
+      "public_repos": null,
+      "username": "CodeWhizAfsal"
+    }
+  ]
+}
+
+2025-05-18 11:34:31,126 - 127.0.0.1 - - [18/May/2025 11:34:31] "GET /api/scrape?q=CodeWhizAfsal HTTP/1.1" 200 -
+2025-05-18 11:35:11,777 - RESPONSE - POST http://localhost:5000/summarize | STATUS: 404 | TIME: 0.000s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-18 11:35:11,777 - 127.0.0.1 - - [18/May/2025 11:35:11] "[33mPOST /summarize HTTP/1.1[0m" 404 -
+2025-05-18 11:35:14,347 - RESPONSE - POST http://localhost:5000/summarize | STATUS: 404 | TIME: 0.000s | BODY: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2025-05-18 11:35:14,348 - 127.0.0.1 - - [18/May/2025 11:35:14] "[33mPOST /summarize HTTP/1.1[0m" 404 -
+2025-05-18 11:44:33,746 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:44:39,074 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:44:48,785 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:44:50,384 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:44:58,899 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:04,660 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:07,851 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:10,712 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:11,610 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:16,328 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:17,785 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:20,956 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:21,901 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:26,206 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:27,919 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:27,920 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:33,244 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:33,861 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:37,951 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:39,084 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:42,472 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:44,310 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:48,659 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:49,515 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:54,748 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:56,282 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:45:59,254 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:00,687 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:04,826 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:08,333 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:24,520 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:29,359 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:33,573 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:35,826 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:39,550 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:39,561 - RESPONSE - GET http://localhost:5000/api/scrape?q=PYTHON | STATUS: 200 | TIME: 138.208s | BODY: {
+  "results": [
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, here is a summary of the GitHub user's profile:\n\nUsername: python\n\nThis GitHub user appears to have an affinity for the Python programming language, as indicated by their username. Without additional information such as a bio, repositories, or previous contributions, it is challenging to infer their skills, experience level, and technical expertise accurately. However, given the choice of username, it can be assumed that they have some interest or involvement with Python programming. Their experience level and technical expertise remain unknown.\n\nSkills:\n- Python programming language knowledge\n\nExperience Level:\n- Unable to determine\n\nTechnical Expertise:\n- Unable to determine"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/python",
+      "public_repos": null,
+      "username": "python"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Python-Repository-Hub is a GitHub user who appears to be a Python enthusiast, based on their username and pinned repositories. Their profile lacks personal information such as a name, bio, or location, indicating a desire to remain anonymous or a sole focus on the technical aspect of their work.\n\nMain Skills and Technical Expertise:\n- Python Programming: The user's profile strongly suggests expertise in Python programming. All the pinned repositories are related to Python and its various applications, indicating a deep knowledge of the language.\n- Data Science and Machine Learning: Many of the pinned repositories are related to data science and machine learning, including projects on data analysis, natural language processing (NLP), and computer vision. This suggests that Python-Repository-Hub has a strong background in these fields and is well-versed in using Python for data-related tasks.\n- Web Development: There are also repositories related to web development frameworks like Django and Flask, indicating experience in building web applications and RESTful APIs using Python.\n- Open-Source Contributions: Python-Repository-Hub has pinned repositories that are popular open-source projects, showing an interest in contributing to and supporting the Python community.\n\nExperience Level:\n- Intermediate to Advanced: The variety and complexity of the pinned repositories suggest an intermediate to advanced level of experience. The user seems comfortable with various Python libraries and frameworks and has likely worked on multiple real-world projects, given the diverse range of topics covered.\n\nOverall, Python"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Python-Repository-Hub",
+      "public_repos": null,
+      "username": "Python-Repository-Hub"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Pythondeveloper6 is a GitHub user with a profile that does not reveal much information. Their username suggests a focus on Python development, and their pinned repositories are primarily related to web development and data analysis projects. Based on the variety and complexity of the projects, this user likely has an intermediate level of experience and a broad range of technical skills.\n\nSkills:\n- Python programming: This is indicated by the username and the projects, which showcase Python scripts and applications.\n- Web Development: They have experience with web frameworks like Flask and Django, as evidenced by their pinned repositories.\n- Data Analysis and Visualization: They seem proficient in using Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.\n- Machine Learning: They have explored machine learning algorithms and techniques using TensorFlow and Scikit-learn.\n- Version Control: They are familiar with Git and GitHub for version control and collaboration.\n\nExperience Level:\nPythondeveloper6 appears to be an intermediate-level developer. Their projects demonstrate a solid understanding of Python and its related tools, and they have experience with various libraries and frameworks. However, without more detailed information or a comprehensive work history, it is challenging to ascertain their exact level of expertise.\n\nTechnical Expertise:\nThis user's technical expertise lies in Python development, particularly in the web development and data analysis domains. They have a good grasp of industry-standard tools and frameworks and can build functional applications and data pipelines. Their machine learning"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Pythondeveloper6",
+      "public_repos": null,
+      "username": "Pythondeveloper6"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"realpython\" appears to be an organization or a community dedicated to the Python programming language, as the username suggests. Unfortunately, without additional information such as a bio, repositories, or contributions, it is challenging to provide a comprehensive summary of their skills and expertise. However, the name \"realpython\" indicates an association with Python-related content."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/realpython",
+      "public_repos": null,
+      "username": "realpython"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"pythontoday\" appears to be a Python enthusiast or a resource account focused on sharing Python-related content. Without additional information such as a bio, repositories, or starred projects, I can only make inferences based on their username and pinned repositories. \n\nMain Skills and Technical Expertise:\n- Python Programming: The username \"pythontoday\" suggests a strong interest in Python programming. It is likely that this user has a good understanding of the language and its ecosystem.\n- Data Science and Machine Learning: The pinned repositories primarily focus on data science and machine learning topics, indicating that this is an area of expertise or interest for pythontoday. They have pinned repositories related to Python libraries like TensorFlow, scikit-learn, and Pandas, which are commonly used in data analysis and machine learning tasks.\n- Open-Source and Community Engagement: By pinning repositories related to contributing to open-source projects and Python community events, pythontoday demonstrates an interest in open-source software and community engagement. They seem to value collaboration and knowledge sharing within the Python ecosystem.\n\nExperience Level:\n- Intermediate to Advanced: Based on the focus on data science and machine learning topics, which often require a higher level of proficiency, I would estimate pythontoday to be at an intermediate to advanced level of programming experience. They seem to have a solid grasp of Python and its applications in these domains.\n\nOverall, the GitHub user pyth"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/pythontoday",
+      "public_repos": null,
+      "username": "pythontoday"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user pycodebr appears to be a Python enthusiast based on their username. Unfortunately, there is minimal information available on their profile, with no bio, location, or personal details provided. \n\nFrom the pinned repositories, it can be inferred that this user has a strong interest in web development, particularly in the Python ecosystem. They have pinned repositories related to web scraping, web application development, and working with APIs. \n\n**Main Skills:**\n- Python Programming: User's primary skill is Python programming, as evidenced by the repositories and username. They are proficient in using Python for various tasks, including web scraping and building web applications.\n- Web Development: They have a good understanding of web development concepts, including HTML, CSS, and JavaScript, as seen in the pinned repositories related to web application development.\n- Web Scraping: User has experience in web scraping using Python libraries like BeautifulSoup and Requests, as indicated by one of the pinned repositories.\n- API Integration: They have worked with APIs, as suggested by another pinned repository, showing an understanding of API integration and data retrieval.\n\n**Experience Level:**\n- Intermediate to Advanced: While the exact experience level cannot be determined, the user's knowledge of various Python-related topics and web development tools suggests an intermediate to advanced level of proficiency. They appear to be comfortable with different aspects of Python programming and web development.\n\n**Technical Expertise:**\n- Python Web Frameworks: User has expertise in"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/pycodebr",
+      "public_repos": null,
+      "username": "pycodebr"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Python3WebSpider is a GitHub user who appears to be a seasoned programmer with a particular interest in web scraping and data extraction techniques. Their pinned repositories showcase their proficiency in using Python and related frameworks/libraries such as BeautifulSoup, Selenium, and Requests, indicating an advanced level of skill in web scraping and data manipulation. \n\nThe user's main skills include:\n- Python Programming: Python3WebSpider demonstrates a strong command of the Python language, utilizing its flexibility and powerful libraries to build web scraping solutions.\n- Web Scraping: They have an advanced understanding of web scraping techniques, employing tools like BeautifulSoup for HTML parsing and Selenium for dynamic website interaction.\n- Data Extraction: Python3WebSpider is adept at extracting data from various sources, including websites, and likely possesses knowledge of data cleaning and preprocessing techniques.\n- Data Manipulation: With a focus on web scraping, they are skilled in manipulating and transforming extracted data for further analysis or use.\n- Automation: Their projects suggest an interest in automating tasks, which is a key aspect of web scraping to efficiently gather data at scale.\n\nExperience Level:\nPython3WebSpider's expertise in web scraping and data extraction tools suggests an advanced level of programming experience. They appear to have a deep understanding of the Python ecosystem and how to leverage its capabilities for specific tasks. \n\nTechnical Expertise:\n- Programming Languages: Python (Advanced)\n- Web Scraping Libraries/Frameworks: BeautifulSoup, Selenium, Requests"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Python3WebSpider",
+      "public_repos": null,
+      "username": "Python3WebSpider"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user harry1080 appears to be a relatively experienced and skilled software developer, based on their pinned repositories. While their profile lacks a personal biography, location, or other descriptive information, their pinned projects offer some insight into their technical background and areas of expertise.\n\nSkills and Expertise:\n- Web Development: This user has a strong focus on web development, particularly using JavaScript and related technologies. They have pinned projects related to React, Node.js, and TypeScript, indicating proficiency in building modern web applications.\n- Front-End Development: harry1080 demonstrates a solid understanding of front-end technologies. Their pinned repositories showcase knowledge of HTML, CSS, and JavaScript frameworks like React. They also have experience with UI/UX design and web accessibility.\n- Back-End Development: While the profile doesn't provide extensive details on back-end skills, the user's familiarity with Node.js and TypeScript suggests they have worked on server-side development. They may have experience building APIs, microservices, or working with databases.\n- Version Control and Collaboration: Given their presence on GitHub, it's evident that harry1080 understands the importance of version control and collaborative development. They likely have experience using Git for managing projects and working with teams.\n- Open-Source Contribution: The user has pinned a repository related to open-source contribution, suggesting an interest or involvement in contributing to open-source projects. This indicates a willingness to"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/harry1080",
+      "public_repos": null,
+      "username": "harry1080"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Abdur-rahmaanJ is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their pinned repositories offer some insight into their skills and areas of expertise. \n\nSkills:\n- Abdur-rahmaanJ possesses a strong background in Python programming, as evidenced by their pinned repositories which primarily feature Python-based projects.\n- They have experience with web development, specifically using the Django web framework. This suggests knowledge of HTML, CSS, JavaScript, and server-side programming for building dynamic web applications.\n- Abdur-rahmaanJ is interested in machine learning and has worked on projects related to natural language processing (NLP) and computer vision. They have experience with popular machine learning libraries such as TensorFlow and PyTorch.\n- Version control is clearly understood, as they use GitHub to manage and collaborate on projects.\n\nExperience Level:\n- It's difficult to ascertain Abdur-rahmaanJ's exact experience level without explicit information about their professional background. However, based on the variety and complexity of their pinned repositories, it can be inferred that they are at least an intermediate-level programmer with a solid grasp of Python and web development concepts.\n\nTechnical Expertise:\n- Abdur-rahmaanJ's technical expertise lies in Python programming, web development with Django, and machine learning. They have a particular interest in NLP and computer vision, and have worked on projects that utilize these technologies. Additionally,"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Abdur-rahmaanJ",
+      "public_repos": null,
+      "username": "Abdur-rahmaanJ"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user pythonpeixun appears to be a beginner-to-intermediate level programmer with a focus on Python programming and related technologies. Their pinned repositories include projects related to web development, machine learning, and data analysis using Python.\n\nSkills:\n- Python programming: This user has a strong interest in Python and its applications, as evidenced by their username (\"peixun\" means \"training\" or \"practice\" in Chinese) and the content of their pinned repositories. They seem to have a good understanding of the language and its popular libraries and frameworks.\n- Web development: They have pinned a project related to building web applications using the Django framework. This suggests they have experience with web development, including creating backend APIs and possibly frontend development as well.\n- Machine learning: One of their pinned repositories is related to machine learning, indicating that they have some knowledge of this field. They may have experience with training and deploying machine learning models, particularly using Python libraries such as TensorFlow.\n- Data analysis: Another pinned repository suggests an interest in data analysis and visualization using Python libraries like Pandas and Matplotlib. They likely have skills in data manipulation, cleaning, and exploration.\n\nExperience level:\nThe user's profile suggests they are at the early-to-mid stage of their programming career. They have a number of pinned repositories, indicating some level of experience and involvement in the Python community. However, the lack of detailed information in their profile bio and the focus on a"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/pythonpeixun",
+      "public_repos": null,
+      "username": "pythonpeixun"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"python-discord\" appears to be a community-managed organization account associated with the Python Discord community. While the profile lacks personal information such as a name, bio, or location, their pinned repositories offer some insight into their skills and expertise. \n\nThe pinned repositories of python-discord mainly revolve around the Python programming language and its applications: \n1. \"Python-discord.github.io\": This repository contains the source code for the Python Discord community's website. It showcases the user's knowledge of web development, specifically in creating and maintaining community platforms. \n2. \"Python-Discord\": This repository serves as the central hub for the Python Discord community. It includes resources, guidelines, and information for members. The content suggests that python-discord is experienced in community management and has a strong understanding of Python and its ecosystem. \n3. \"Python-Bot\": This repository is for a Python-based Discord bot, indicating that python-discord has skills in bot development, automation, and potentially natural language processing. \n4. \"Python-Discord-Scrapper\": This repository is a web scraper specifically designed for the Python Discord server. Its presence suggests that python-discord has intermediate to advanced Python skills and is familiar with web scraping techniques. \n\nOverall, python-discord seems to be an experienced Python developer, well-versed in community management and web development. They are likely an advanced user, given the scope and complexity of their projects. Their technical"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/python-discord",
+      "public_repos": null,
+      "username": "python-discord"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user pythonbrasil appears to be a Python enthusiast or organization, likely based in Brazil, given the username and the fact that they have no personal information or repositories pinned to their profile. \n\nFrom their profile, it is difficult to ascertain their skill level or expertise, as there is no information about their experience, projects, or contributions. However, based on the username and the fact that Python is a widely used programming language, we can infer that this user has some level of knowledge and interest in Python programming. \n\nIt is possible that this user is a beginner or someone who is still in the process of learning and exploring Python, hence the lack of detailed information on their profile. Alternatively, they may simply prefer to remain anonymous and not disclose personal details online. \n\nTo gain a better understanding of pythonbrasil's skills and expertise, it would be useful to explore their contributions to other repositories, any public activity on GitHub such as commits, pull requests, or issues, and any other public profiles or websites they may have linked."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/pythonbrasil",
+      "public_repos": null,
+      "username": "pythonbrasil"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, here is a summary of the GitHub user \"Pythonando\":\n\nPythonando seems to be a GitHub user who prefers to keep their personal information private, as their name, bio, and location are not available. However, their username suggests an affinity for the Python programming language, indicating that they are likely skilled in this area.\n\nFrom their pinned repositories, it appears that Pythonando has experience working with various technologies and programming languages, including Python, HTML, CSS, and JavaScript. They have pinned repositories related to web development, Python programming, and open-source contributions.\n\nIn terms of experience level and expertise, it is difficult to determine an exact level without further information. However, based on their pinned repositories and their apparent knowledge of multiple programming languages, Pythonando can be considered an experienced developer with a strong background in web development and Python programming. They seem to be proficient in front-end technologies like HTML, CSS, and JavaScript, as well as back-end development with Python.\n\nOverall, Pythonando appears to be a skilled and experienced developer with a particular interest in Python programming and web development technologies. Their pinned repositories showcase their knowledge in these areas and their willingness to contribute to open-source projects."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Pythonando",
+      "public_repos": null,
+      "username": "Pythonando"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "micropython is a GitHub user who appears to be highly skilled in the area of MicroPython programming and embedded systems development. They have a strong interest in creating and optimizing code for microcontrollers and have likely been working in this field for several years.\n\nWhile their profile lacks personal information, their pinned repositories provide insight into their expertise. These repositories include:\n\n1. **micropython/micropython**: This is the main repository for the MicroPython project, a lean and efficient implementation of the Python 3 programming language for microcontrollers and constrained systems. The user has made numerous contributions to this project, suggesting an in-depth understanding of low-level programming, hardware interactions, and the Python language itself.\n\n2. **micropython/stmhal**: A specific port of MicroPython to the ST STM32 ARM Cortex-M3 microcontroller. This repository indicates that the user has hands-on experience with this particular microcontroller family and has contributed to making MicroPython run efficiently on it.\n\n3. **micropython/lib**: A collection of libraries for MicroPython, including drivers for various sensors, displays, and other peripherals. The user's involvement here showcases their proficiency in peripheral interfacing and their commitment to expanding the capabilities of MicroPython for the benefit of the entire community.\n\n4. **micropython/examples**: A repository containing various examples and demos showcasing the usage of MicroPython on different microcontrollers. The user's contributions here imply a"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/micropython",
+      "public_repos": null,
+      "username": "micropython"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user pythonlessons appears to be a beginner to intermediate-level programmer with a focus on Python programming. They have a number of repositories, mostly related to Python programming tutorials and projects. The user's profile suggests that they are experienced in Python programming and have a range of skills in software development, version control, and programming language instruction. They seem to be interested in sharing their knowledge and providing resources for others to learn Python as well. Some of their main skills include:\n\n- Python Programming: The user has a strong background in Python and has created multiple repositories focused on teaching others how to code in Python, covering various topics from beginner to advanced level.\n\n- Software Development: They demonstrate an understanding of software development practices by utilizing version control systems like GitHub and creating well-structured repositories with documentation and examples.\n\n- Data Analysis and Visualization: Several repositories are dedicated to data analysis and visualization using Python libraries such as Pandas, Matplotlib, and Seaborn, indicating a proficiency in handling and interpreting data.\n\n- Web Development: While not their primary focus, pythonlessons has repositories related to web development frameworks like Django and Flask, suggesting some experience or interest in building web applications.\n\n- Machine Learning: They have explored machine learning algorithms and techniques using Python libraries such as TensorFlow and Scikit-learn, indicating a basic understanding of this field.\n\nOverall, pythonlessons seems to be an experienced Python programmer with a passion for teaching and sharing knowledge,"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/pythonlessons",
+      "public_repos": null,
+      "username": "pythonlessons"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"talkpython\" appears to be an organization or entity dedicated to Python programming and related technologies. Without additional information such as a bio, repositories, or previous contributions, I can only provide a summary based on the available data.\n\nMain Skills and Technical Expertise:\n- Python Programming: Based on the username and the fact that the account is named \"talkpython,\" it is safe to assume that this user has a strong association with Python programming. They likely possess skills in Python development, including knowledge of various libraries, frameworks, and tools within the Python ecosystem.\n\nExperience Level:\n- Unknown: Without any further details, it is challenging to determine the experience level of this user. They could be a group of Python enthusiasts, a company specializing in Python-related services, or an individual with a strong interest in Python programming.\n\nIt is worth noting that the username \"talkpython\" may also be associated with the \"Talk Python To Me\" podcast, which is a popular Python-focused podcast. However, without additional context or information on their profile, I cannot confirm if this is the same entity."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/talkpython",
+      "public_repos": null,
+      "username": "talkpython"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user fluentpython appears to be an advanced programmer with a particular interest in the Python programming language. Their profile lacks personal information such as a name, bio, or location, suggesting a desire for anonymity or a focus on showcasing their technical skills and contributions only.\n\nMain Skills and Technical Expertise:\n- Python Programming: Given the username and the nature of their pinned repositories, Python programming is clearly their primary skill and area of expertise. They have an advanced understanding of the language and its ecosystem.\n- Open Source Contributions: They have made significant contributions to the popular Python library, requests-html, which is a powerful tool for web scraping and HTML parsing. Their contributions suggest a strong understanding of web technologies and how to interact with them programmatically.\n- Web Scraping and HTML Parsing: The user's contributions to requests-html, as well as their pinned repository \"python-cheatsheet\", which includes a section on web scraping, indicate a deep knowledge of web scraping techniques and HTML parsing using Python libraries like BeautifulSoup and requests.\n- Software Development: They have experience in software development practices, including version control (Git), testing, and documentation. Their pinned repository \"python-cheatsheet\" covers various aspects of Python development, showing their familiarity with the entire software development lifecycle.\n- Data Science: While not directly evident from their pinned repositories, the user's contributions to the requests-html library, which is commonly used in data collection for data science projects, suggest"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/fluentpython",
+      "public_repos": null,
+      "username": "fluentpython"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"apholdings\" appears to be an organization or entity rather than an individual. From their profile and pinned repositories, I can infer the following skills, experience, and expertise:\n\nSkills:\n\n- Software development, especially in the fields of blockchain technology and cryptocurrency.\n- Smart contract development, as evidenced by their work in the \"smart-contracts\" repository.\n- Web development, including building decentralized applications (DApps) and integrating blockchain technology.\n\nExperience:\n\n- Apholdings has been active on GitHub since January 2021, indicating a relatively new presence in the open-source community.\n- Their pinned repositories suggest a focus on building and maintaining blockchain-related projects.\n- The organization has experience working with various blockchain platforms and smart contract languages, such as Solidity.\n\nTechnical Expertise:\n\n- Blockchain technology: Apholdings has a strong understanding of blockchain concepts, including smart contracts, token standards (ERC-20, ERC-721), and decentralized finance (DeFi).\n- Smart contract development: They have expertise in writing secure and efficient smart contracts, as shown by their \"smart-contracts\" repository.\n- Web development: Apholdings is proficient in building web-based interfaces for blockchain applications, likely using HTML, CSS, JavaScript, and web3.js integration.\n- Decentralized systems: The organization demonstrates knowledge of decentralized systems, including consensus mechanisms and peer"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/apholdings",
+      "public_repos": null,
+      "username": "apholdings"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "PythonNut is a GitHub user who appears to be a Python enthusiast, as their username suggests. Without additional information such as a bio, repositories, or starred projects, it is challenging to infer their skill level, experience, or areas of expertise precisely. However, based on the username and the fact that they have none of the typical content on their profile, it suggests they are either new to GitHub or prefer to remain discreet about their projects and contributions."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/PythonNut",
+      "public_repos": null,
+      "username": "PythonNut"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"pythontester192\" has a username that suggests a focus on Python programming and testing. However, without any additional details such as a bio, repositories, or previous contributions, it is challenging to infer their skills, experience level, or technical expertise accurately.\n\nIt appears that the user has not provided any public information or activity on GitHub that could be used to assess their background or expertise further. Therefore, I cannot provide a comprehensive summary or inference about their skills and experience level at this time."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/pythontester192",
+      "public_repos": null,
+      "username": "pythontester192"
+    }
+  ]
+}
+
+2025-05-18 11:46:39,562 - 127.0.0.1 - - [18/May/2025 11:46:39] "GET /api/scrape?q=PYTHON HTTP/1.1" 200 -
+2025-05-18 11:46:39,662 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:41,135 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:46,917 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:52,502 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:56,697 - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-05-18 11:46:56,708 - RESPONSE - GET http://127.0.0.1:5000/api/scrape?q=Developer | STATUS: 200 | TIME: 124.008s | BODY: {
+  "results": [
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"developerrahulofficial\" appears to be a software developer, judging from their username and the pinned repositories on their profile. Unfortunately, they have not provided any additional information in their bio or location, so the inference is based solely on the pinned repositories. \n\nThe user has pinned four repositories, three of which are related to web development and one to machine learning. This suggests that their main skills are in web development, with an interest or some experience in machine learning as well. \n\nThe web development repositories cover building web pages using HTML, CSS, and JavaScript, indicating a focus on front-end development. One of the pinned repositories is a simple website example, while another is a more complex project involving the creation of a responsive navigation bar. This suggests that the user is likely an entry- to mid-level developer, as they are still honing their skills in fundamental web development technologies. \n\nIn terms of technical expertise, the user demonstrates an understanding of version control by utilizing GitHub and has some knowledge of responsive design and navigation implementation. They also seem to be interested in learning new technologies, as one of the pinned repositories is a collection of resources for self-study. \n\nOverall, \"developerrahulofficial\" seems to be an aspiring web developer with a basic to intermediate skill level, eager to learn and improve their skills in front-end web development and explore machine learning topics."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developerrahulofficial",
+      "public_repos": null,
+      "username": "developerrahulofficial"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the information provided, it is difficult to infer any specific details about the GitHub user \"developer-guy.\" Without a bio, work history, or any pinned repositories, there is limited information to draw conclusions from. \n\nHowever, the username itself, \"developer-guy,\" suggests that this person identifies as a developer or programmer. This could indicate a range of skills in software development, coding, and building applications or systems. \n\nThe lack of further details makes it challenging to determine their experience level or technical expertise. They might be a beginner who has recently created a GitHub account or an experienced developer who prefers to maintain a low profile. \n\nIn summary, while we can speculate that \"developer-guy\" possesses some programming or development skills, there is insufficient information in the profile to make a comprehensive assessment of their skills, experience, or technical expertise."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developer-guy",
+      "public_repos": null,
+      "username": "developer-guy"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, here is a summary of the GitHub user \"developerfred\":\n\nUsername: developerfred\n\nProfile Summary: Unfortunately, without a bio or any additional details provided, it is challenging to construct a comprehensive summary for this user. It appears that \"developerfred\" has chosen to keep their profile minimal and discreet, opting not to disclose personal information or professional backgrounds.\n\nSkills and Expertise: The user's skills and expertise cannot be directly ascertained from the given information. Usually, skills can be inferred from the projects a user works on, the languages and tools they use, and the contributions they make to open-source software. However, without access to such information, it is not possible to determine developerfred's technical capabilities or areas of specialization.\n\nExperience Level: Similarly, assessing the experience level of \"developerfred\" is difficult due to the lack of publicly available data on their profile. Experience is often reflected in a user's commitment history, project complexity, and engagement with the GitHub community, but without these insights, it is challenging to make an accurate judgment.\n\nTechnical Proficiency: The absence of pinned repositories or other public activities on the profile makes it difficult to gauge developerfred's technical proficiency and areas of interest. Pinned repositories often showcase a user's proudest work, most important projects, or contributions that best represent their skills, so not having access to these repositories limits the insight into their technical expertise.\n\nIn summary,"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developerfred",
+      "public_repos": null,
+      "username": "developerfred"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, here is a summary of the GitHub user \"developernaimul\":\n\nUser \"developernaimul\" appears to be a developer who has not shared much information on their GitHub profile. They have not provided a name, bio, or location. As a result, their experience level and specific areas of expertise are challenging to ascertain.\n\nHowever, from their username and the absence of other details, we can infer that they might have an interest in software development and coding. Their pinned repositories are empty, so we don't have insight into the projects they are currently working on or consider important.\n\nWithout further information or contributions, it is difficult to determine developernaimul's main skills, experience level, and technical expertise accurately."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developernaimul",
+      "public_repos": null,
+      "username": "developernaimul"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"Developer-Y\" appears to be a relatively experienced software developer, based on their pinned repositories, which showcase a range of skills and technical expertise. While their profile lacks a personal bio or location, their pinned projects provide insight into their areas of focus and proficiency.\n\nSkills and Expertise:\n- **Web Development**: Developer-Y has a strong background in web development, particularly in building responsive and interactive web applications. They have worked with modern front-end frameworks like React, Vue.js, and Angular, as well as back-end technologies such as Node.js and Express.js. Their projects demonstrate a good understanding of web fundamentals, including HTML5, CSS3, and JavaScript.\n\n- **Mobile Development**: They have also ventured into mobile development, specifically with the React Native framework. This indicates a familiarity with building cross-platform mobile applications for both iOS and Android devices.\n\n- **Cloud Computing**: There is evidence of experience with cloud platforms, particularly Amazon Web Services (AWS). They have utilized AWS services such as Lambda, API Gateway, and DynamoDB, suggesting knowledge of serverless architecture and cloud-native development practices.\n\n- **Software Architecture**: Developer-Y showcases an understanding of software design patterns and architecture. Their projects often involve modular and scalable architectures, demonstrating a grasp of design principles and best practices.\n\n- **DevOps and Automation**: They have worked with tools like Docker and Kubernetes, indicating a familiarity with containerization and"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developer-Y",
+      "public_repos": null,
+      "username": "Developer-Y"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Unfortunately, without access to the GitHub user's profile, bio, repositories, or any other information, there is insufficient data to generate a summary or infer their skills, experience, and technical expertise. Please provide additional details or grant access to the GitHub profile so that I can provide a comprehensive response."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developerayo",
+      "public_repos": null,
+      "username": "Developerayo"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "developergtm24 is a GitHub user with a mysterious profile that lacks personal information such as a name, bio, or location. Despite this, their pinned repositories offer a glimpse into their skills and expertise. \n\nSkills:\n- developergtm24 demonstrates proficiency in various programming languages, including Python, JavaScript, and Java. They have experience with web development frameworks like React and Django, indicating a solid understanding of front-end and back-end technologies.\n- This user has a strong interest in machine learning and artificial intelligence. They have pinned repositories related to natural language processing (NLP), computer vision, and deep learning frameworks such as TensorFlow and PyTorch. This suggests an advanced skill set in building and training AI models.\n- Additionally, developergtm24 has experience with blockchain technology and smart contract development, showcasing a diverse range of skills across different domains. \n\nExperience Level:\n- It is difficult to ascertain developergtm24's exact experience level without explicit information. However, the variety and depth of the pinned repositories indicate a solid understanding of multiple technologies. They appear to be an experienced developer, comfortable with different programming paradigms and complex topics. \n\nTechnical Expertise:\n- developergtm24's technical expertise lies in the fields of artificial intelligence, machine learning, and web development. They have a particular interest in NLP and computer vision, as evidenced by their pinned repositories. \n- This user is well-versed in building and deploying machine learning"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developergtm24",
+      "public_repos": null,
+      "username": "developergtm24"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"DeveloperAcademy-POSTECH\" appears to be an organization or a group associated with POSTECH (Pohang University of Science and Technology), a renowned university in South Korea. Unfortunately, there is limited personal or descriptive information provided in the profile, including a missing bio and location. \n\nHowever, from the pinned repositories, we can infer that this user is experienced in software development and computer science education. The repositories suggest that DeveloperAcademy-POSTECH focuses on providing educational resources, sample projects, and programming assignments for students or aspiring developers. \n\nMain Skills and Technical Expertise:\n\n- **Software Development**: The pinned repositories cover a range of programming languages and technologies, indicating a broad knowledge base. These include Python, Java, C++, HTML/CSS, JavaScript, and R.\n- **Web Development**: There is an emphasis on web development, with multiple repositories dedicated to HTML/CSS/JavaScript projects, Node.js, and React.\n- **Data Science and Machine Learning**: The user has pinned repositories related to data analysis with Python and R, as well as machine learning fundamentals.\n- **Version Control and Collaboration**: By utilizing GitHub, the user demonstrates an understanding of version control systems and collaborative development practices.\n- **Computer Science Fundamentals**: The pinned repositories also cover basic computer science concepts such as data structures, algorithms, and operating systems.\n\nExperience Level:\n\nWithout personal information or a detailed bio, it's challenging to determine the exact"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/DeveloperAcademy-POSTECH",
+      "public_repos": null,
+      "username": "DeveloperAcademy-POSTECH"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"developersancho\" has no visible bio, name, or location specified on their profile, which makes it challenging to infer personal details or background. \n\nHowever, by examining their pinned repositories, we can gain some insights into their skills, experience, and areas of expertise:\n\n1. **Pinned Repositories:**\n   - *Awesome-APIs:* A curated list of APIs across web, mobile, and enterprise domains. This repository suggests that \"developersancho\" has an interest or expertise in API development, integration, and usage. They may possess knowledge of API design principles, documentation, and best practices.\n   - *Python-for-Data-Science:* This repository contains resources and tutorials for learning Python for data science. The user likely has experience with Python programming and its application in data analysis, data manipulation, and possibly machine learning.\n   - *Web-Development-Resources:* A collection of web development resources, including frameworks, libraries, and tools. This indicates familiarity with web development technologies and an interest in sharing knowledge about front-end and back-end development.\n   - *Data-Structures-and-Algorithms:* This repository covers basic and advanced data structures and algorithms implementations in multiple languages. \"developersancho\" likely has a solid understanding of computer science fundamentals and may be proficient in various programming languages.\n   - *Machine-Learning-Projects:* A repository showcasing machine learning projects built with Python. This demonstrates practical experience in applying"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developersancho",
+      "public_repos": null,
+      "username": "developersancho"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "ShabnamDeveloper is a GitHub user who has not provided any personal information such as a name, bio, or location on their profile. However, their username suggests a connection to software development.\n\nFrom their pinned repositories, it can be inferred that ShabnamDeveloper has a strong interest in web development, particularly in building responsive websites and web applications using HTML, CSS, and JavaScript. They also seem to have experience with version control systems like Git and GitHub, as they have a few repositories that appear to be for learning purposes or collaborative projects.\n\nIn terms of skill level, it's challenging to determine ShabnamDeveloper's experience level without any explicit information. However, based on the nature of the pinned repositories, they seem to be at least an intermediate-level developer with a solid understanding of front-end web development. They appear to be proficient in HTML and CSS, as well as having some knowledge of JavaScript and related frameworks like React.\n\nTechnical expertise includes:\n- Web Development: Strong skills in HTML, CSS, and JavaScript, with an emphasis on creating responsive and interactive web pages.\n- Version Control: Familiarity with Git and GitHub for collaborative development and version control practices.\n- Frameworks: Some exposure to React, which suggests an understanding of modern front-end frameworks and their usage.\n\nOverall, ShabnamDeveloper seems to be a skilled front-end web developer with a focus on creating user-friendly and visually appealing websites, and they are actively"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/ShabnamDeveloper",
+      "public_repos": null,
+      "username": "ShabnamDeveloper"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, here is a summary of the GitHub user \"DeveloperLx\":\n\nUser Profile Summary:\n\nUsername: DeveloperLx\n\nSkills and Expertise:\n\n   - Proficient in Python programming language, demonstrated through their pinned repositories.\n   - Experienced with web development technologies, including React, Django, and Flask frameworks.\n   - Knowledgeable about machine learning and artificial intelligence, as evidenced by their repository related to AI-powered chatbots.\n   - Familiar with version control systems like Git and GitHub for collaboration and project management.\n\nExperience Level:\n\n   - The user's experience level appears to be intermediate to advanced. They have a good understanding of various programming languages and frameworks and have worked on multiple projects.\n\nTechnical Expertise:\n\n   - Web Development: Demonstrated proficiency in building web applications using React, Django, and Flask.\n   - Machine Learning: Showcased interest and experience in machine learning, particularly in creating AI-powered chatbots.\n   - Open-Source Contributions: Actively contributes to open-source projects, as seen by their forks and contributions to other repositories.\n\nOverall, DeveloperLx seems to be a skilled and experienced Python developer with a focus on web development and machine learning applications. They actively contribute to open-source projects and have a good understanding of industry-standard tools and technologies."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/DeveloperLx",
+      "public_repos": null,
+      "username": "DeveloperLx"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"Ramseyxlil\" has an enigmatic profile with no personal details disclosed. Their bio, name, and location are all absent, offering no insights into their background. However, we can attempt to decipher their skills and expertise from their pinned repositories:\n\n- Pinned Repositories: Unfortunately, the response did not include any information about the user's pinned repositories. Pinned repositories are projects that a user considers important or wants to highlight. They can provide insights into the technologies the user works with and the types of projects they are involved in. Without this information, I am unable to provide an in-depth analysis of Ramseyxlil's skills and expertise.\n\nIn summary, without additional context or content from the user's profile, it is challenging to ascertain Ramseyxlil's skills, experience level, and technical expertise accurately. The absence of a bio, name, location, and details about pinned repositories makes a comprehensive assessment difficult."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Ramseyxlil",
+      "public_repos": null,
+      "username": "Ramseyxlil"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"uprockcom\" appears to be a seasoned software developer with a strong background in web development and open-source contributions. While their profile lacks personal information such as name, bio, and location, their pinned repositories provide insights into their technical expertise and experience.\n\nMain Skills and Technical Expertise:\n\n- Web Development: The user has a strong grasp of web development, particularly in the Python ecosystem. They have experience with web frameworks such as Django and Flask, and have worked on projects related to content management systems (CMS) and web application development.\n- Open-Source Contributions: uprockcom is an active contributor to open-source projects. They have made notable contributions to the Django CMS project, demonstrating their proficiency in this area.\n- Python Development: Python seems to be their primary programming language of choice. They have experience with various Python-based tools and frameworks, including Django REST Framework and Celery.\n- Software Architecture and Design: The user has a good understanding of software architecture and design patterns. Their repositories showcase projects that follow best practices and utilize design patterns such as MVC (Model-View-Controller).\n- Version Control and Collaboration: uprockcom is proficient in using Git for version control and has experience collaborating on projects with other developers, as evidenced by their contributions to various repositories.\n\nExperience Level:\n\nBased on the information available, uprockcom appears to be an experienced developer, likely with several years of industry experience."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/uprockcom",
+      "public_repos": null,
+      "username": "uprockcom"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the information provided, the GitHub user \"aplus-developer\" has no public bio, location, or personal information shared on their profile. Therefore, an inference of their skills, experience level, and expertise can only be made based on their username and pinned repositories. \n\nFrom the username \"aplus-developer\", it can be inferred that this user considers themselves a skilled and talented developer, perhaps suggesting a confident and experienced programmer. \n\nHowever, without any repositories or other contributions visible, it is challenging to make an accurate assessment of their technical expertise and experience level. The user may be new to GitHub or prefers to keep their projects private. \n\nIn summary, while the username hints at a confident developer, there is insufficient information to determine aplus-developer's skills, experience, and technical expertise accurately. More context, such as their repositories, contributions, or other online presence, would be needed for a more comprehensive assessment."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/aplus-developer",
+      "public_repos": null,
+      "username": "aplus-developer"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"developersdigest\" has no visible bio, name, or location specified in their profile, which makes it challenging to infer personal details or background.\n\nHowever, analyzing their pinned repositories can provide some insights into their skills, experience, and areas of technical expertise:\n\n1. **Pinned Repositories (if available):**\n   - The user has not pinned any repositories to their profile, which suggests they either have not found projects worth highlighting or they are new to GitHub and have not had the opportunity to contribute to projects that they deem noteworthy.\n\n2. **Skills and Technical Expertise:**\n   - Without further information, it is difficult to ascertain specific skills or technical expertise. However, the username \"developersdigest\" suggests an interest in curating or digesting development-related content. This could indicate a focus on content creation, curation, or an interest in sharing knowledge and resources with the developer community.\n\n3. **Experience Level:**\n   - Given the lack of personal information, project contributions, or other indicators of experience, it is challenging to determine the user's experience level. It appears they are either new to GitHub or prefer to maintain a low profile on the platform.\n\nIn summary, the GitHub user \"developersdigest\" remains somewhat enigmatic due to the absence of personal details and limited activity on their profile. The lack of pinned repositories makes it challenging to assess their specific skills and experience level. However, the username hints at an interest"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developersdigest",
+      "public_repos": null,
+      "username": "developersdigest"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "Based on the provided information, the GitHub user \"Developer-DAO\" has an anonymous profile with no personal details disclosed. They have also not provided a bio or any self-description. Therefore, their skill set, experience level, and technical expertise cannot be directly inferred from the usual sources.\n\nHowever, analyzing their pinned repositories might offer some insights into their areas of interest and expertise:\n\n- The user seems to be involved in the \"developer-dao\" repository, which suggests an interest in or association with decentralized autonomous organizations (DAO). This indicates knowledge of blockchain technology, smart contracts, and possibly governance structures.\n\n- The \"developer-funding\" repository suggests an interest in developer funding and grants, possibly indicating experience in the open-source community and a familiarity with funding mechanisms and grant writing.\n\n- The \"developer-events\" repository could imply an involvement in organizing or participating in developer events, hackathons, or meetups, showcasing organizational and community engagement skills.\n\n- The \"developer-resources\" repository likely indicates a willingness to share knowledge and resources with the developer community, suggesting a good understanding of various tools, frameworks, and resources across different programming languages and technologies.\n\nOverall, while the specific details of Developer-DAO's skill set and experience remain obscure, they seem to be well-versed in blockchain technology, particularly in the context of DAOs. They demonstrate an interest in developer empowerment, funding, and community building. Their pinned repositories suggest a"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developer-DAO",
+      "public_repos": null,
+      "username": "Developer-DAO"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "developer-junaid is a GitHub user who has not provided any personal information such as a name, bio, or location. However, their username suggests an association with software development. Unfortunately, without further details or repository data, I cannot provide a comprehensive summary or infer their skills, experience level, and technical expertise."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developer-junaid",
+      "public_repos": null,
+      "username": "developer-junaid"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "developer9998 is a mysterious GitHub user who has chosen to remain anonymous, with no personal information disclosed. From their profile, one can infer that they are a skilled and experienced developer, well-versed in multiple programming languages and tools. \n\nSkills: \n- developer9998 appears to be proficient in a range of programming languages, including Python, JavaScript, and Java, as well as web development frameworks such as React and Django. \n- They also demonstrate an understanding of version control systems, given their activity on GitHub, and may have experience with CI/CD pipelines and testing frameworks. \n- Additionally, this user seems to have an interest or expertise in data science and machine learning, with repositories related to natural language processing and computer vision. \n\nExperience Level: \n- It is difficult to ascertain developer9998's exact experience level without any explicit information. However, the variety and complexity of the repositories they have pinned suggest that they are likely an intermediate to advanced developer. \n- They appear to have a solid understanding of software development practices and architectures, as evidenced by their work on projects involving microservices and REST APIs. \n\nTechnical Expertise: \n- developer9998's technical expertise appears to lie in web development, particularly in building full-stack applications. They have experience with front-end technologies like React and Redux, as well as back-end frameworks such as Django and Flask. \n- They also demonstrate"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/developer9998",
+      "public_repos": null,
+      "username": "developer9998"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"extreme-assistant\" appears to be a bot or an automated assistant account rather than a human user. There is no personal information provided in the profile, such as a name, bio, or location. This user primarily focuses on creating and maintaining automated bots and tools to assist with various tasks.\n\nSkills:\n- Automation and Bot Development: This is the user's primary skill set, as they have created multiple bots and tools to automate different processes. These bots are designed to assist with tasks, hence the term \"assistant\" in the username.\n- Programming Languages: The user has demonstrated proficiency in Python, as most of their repositories contain Python code. They also seem to have some knowledge of JavaScript and HTML/CSS, as these languages are used in their web-based tools.\n- Web Development: They have developed web-based tools and interfaces, indicating a working knowledge of web development.\n- Version Control: Proficient in using GitHub for version control and collaboration, as evidenced by their public repositories and contributions.\n\nExperience Level:\n- Intermediate to Advanced: While the user has not provided any explicit information about their experience level, the quality and complexity of their projects suggest an intermediate to advanced level of proficiency in programming and automation. They have multiple repositories with well-structured code and seem comfortable with various technologies.\n\nTechnical Expertise:\n- Automation and Bot Creation: extreme-assistant specializes in creating automated solutions and bots to streamline tasks. Their repositories"
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/extreme-assistant",
+      "public_repos": null,
+      "username": "extreme-assistant"
+    },
+    {
+      "bio": null,
+      "extra": {
+        "pinned_repositories": []
+      },
+      "followers": null,
+      "following": null,
+      "insights": {
+        "summary": "The GitHub user \"Developer-Ecosystem-Engineering\" appears to be a team or organization, as suggested by their username. Unfortunately, there is minimal information provided in the profile, with no personal name, bio, or location specified. \n\nIn terms of skills and expertise, the profile owners seem to specialize in the field of developer relations, developer experience, and ecosystem development. They are likely experienced in building and nurturing developer communities, designing developer-focused programs, and creating tools and resources to support developers using certain products or technologies. \n\nTechnical expertise may include software development, API design, and documentation. The team probably has a good understanding of the developer journey and the tools and practices that can enhance developer productivity and satisfaction. \n\nHowever, without further details or a list of repositories, it is challenging to determine the specific technologies or programming languages they work with or their experience level. They may have a broad understanding of multiple technologies rather than deep expertise in a specific area, which is common for developer relations professionals."
+      },
+      "location": null,
+      "name": null,
+      "profile_url": "https://github.com/Developer-Ecosystem-Engineering",
+      "public_repos": null,
+      "username": "Developer-Ecosystem-Engineering"
+    }
+  ]
+}
+
+2025-05-18 11:46:56,710 - 127.0.0.1 - - [18/May/2025 11:46:56] "GET /api/scrape?q=Developer HTTP/1.1" 200 -
+2025-05-18 11:49:06,493 -  * Detected change in '/home/afsal/github_insight_service/github_scraper.py', reloading
+2025-05-18 11:49:06,494 -  * Detected change in '/home/afsal/github_insight_service/github_scraper.py', reloading
+2025-05-18 11:49:06,504 -  * Detected change in '/home/afsal/github_insight_service/github_scraper.py', reloading
+2025-05-18 11:49:07,406 -  * Restarting with watchdog (inotify)
+2025-05-18 11:49:09,303 -  * Debugger is active!
+2025-05-18 11:49:09,304 -  * Debugger PIN: 950-730-442
+2025-05-18 11:49:14,345 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-18 11:49:14,345 - [33mPress CTRL+C to quit[0m
+2025-05-18 11:49:14,352 -  * Restarting with watchdog (inotify)
+2025-05-18 11:49:15,888 -  * Debugger is active!
+2025-05-18 11:49:15,888 -  * Debugger PIN: 950-730-442
+2025-05-18 11:49:43,249 - RESPONSE - GET http://localhost:5000/api/scrape?q=CodeWhizAfsal | STATUS: 200 | TIME: 0.896s | BODY: {
+  "results": []
+}
+
+2025-05-18 11:49:43,250 - 127.0.0.1 - - [18/May/2025 11:49:43] "GET /api/scrape?q=CodeWhizAfsal HTTP/1.1" 200 -
+2025-05-18 11:49:56,538 - RESPONSE - GET http://localhost:5000/api/scrape?q=CodeWhizAfsal | STATUS: 200 | TIME: 1.035s | BODY: {
+  "results": []
+}
+
+2025-05-18 11:49:56,538 - 127.0.0.1 - - [18/May/2025 11:49:56] "GET /api/scrape?q=CodeWhizAfsal HTTP/1.1" 200 -

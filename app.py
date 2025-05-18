@@ -6,6 +6,7 @@ from flasgger import Swagger
 from datetime import datetime
 import logging
 import os
+from datetime import datetime, timezone
 
 # Create logs directory if not exists
 os.makedirs('logs', exist_ok=True)
@@ -22,16 +23,30 @@ swagger = Swagger(app, template_file='swagger/swagger.yaml')
 
 # ---------- Request/Response Logging Middleware ----------
 
+from datetime import datetime, timezone
+
 @app.before_request
-def log_request():
-    g.start_time = datetime.utcnow()
-    logging.info(f"REQUEST - {request.method} {request.url} | BODY: {request.get_data(as_text=True)}")
+def before_request():
+    g.start_time = datetime.now(timezone.utc)
+
 
 @app.after_request
 def log_response(response):
-    duration = (datetime.utcnow() - g.start_time).total_seconds()
-    logging.info(f"RESPONSE - {request.method} {request.url} | STATUS: {response.status_code} | TIME: {duration}s | BODY: {response.get_data(as_text=True)}")
+    end_time = datetime.now(timezone.utc)
+    duration = (end_time - g.start_time).total_seconds()
+    
+    if response.direct_passthrough:
+        body = "[direct passthrough — not logged]"
+    else:
+        body = response.get_data(as_text=True)
+
+    logging.info(
+        f"RESPONSE - {request.method} {request.url} | "
+        f"STATUS: {response.status_code} | TIME: {duration:.3f}s | BODY: {body}"
+    )
     return response
+
+
 
 # ----------------- JSON API Endpoint Only -----------------
 

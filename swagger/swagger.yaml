@@ -1,67 +1,82 @@
-
-openapi: 3.0.0
+swagger: "2.0"
 info:
   title: GitHub Insight Service API
   description: >
-    A service that scrapes GitHub profiles based on keywords and summarizes them using an AI model (e.g., Cohere).
+    A service that scrapes GitHub profiles based on keyword and generates AI summaries using Cohere's language models.
   version: 1.0.0
-servers:
-  - url: http://localhost:5000
-    description: Local development server
+
+host: localhost:5000
+basePath: /
+schemes:
+  - http
 
 paths:
+  /api/scrape:
+    get:
+      summary: Scrape GitHub users by keyword and return enriched summaries (JSON)
+      produces:
+        - application/json
+      parameters:
+        - name: q
+          in: query
+          required: false
+          type: string
+          default: javascript developer
+          description: Keyword used to search GitHub users
+      responses:
+        200:
+          description: A list of enriched GitHub user profiles
+          schema:
+            type: object
+            properties:
+              results:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    username:
+                      type: string
+                      example: octocat
+                    profile_url:
+                      type: string
+                      example: https://github.com/octocat
+                    followers:
+                      type: integer
+                      example: 120
+                    public_repos:
+                      type: integer
+                      example: 42
+                    insights:
+                      type: string
+                      example: An experienced open-source contributor...
+        400:
+          description: Invalid or missing query parameter
+
   /summarize:
     post:
-      summary: Summarize a GitHub user's profile
-      requestBody:
-        required: true
-        content:
-          application/json:
-            schema:
-              type: object
-              properties:
-                username:
-                  type: string
-                  example: CodeWhizAfsal
-      responses:
-        '200':
-          description: Summary generated
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  summary:
-                    type: string
-                    example: "This user is an open-source contributor focused on Python and AI."
-        '400':
-          description: Invalid request
-
-  /scrape:
-    get:
-      summary: Scrape GitHub users by keyword
+      summary: Summarize a GitHub user's profile using Cohere AI
+      consumes:
+        - application/json
+      produces:
+        - application/json
       parameters:
-        - name: keyword
-          in: query
+        - in: body
+          name: body
           required: true
           schema:
-            type: string
-          example: robotics
+            type: object
+            properties:
+              username:
+                type: string
+                example: CodeWhizAfsal
       responses:
-        '200':
-          description: List of usernames matching the keyword
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  users:
-                    type: array
-                    items:
-                      type: string
-                      example: github_user123
-        '400':
-          description: Missing or invalid keyword
-
-components:
-  securitySchemes: {}
+        200:
+          description: Summary generated using Cohere
+          schema:
+            type: object
+            properties:
+              summary:
+                type: string
+                example: "This user is an open-source contributor focused on Python and AI."
+        400:
+          description: Invalid request body or missing username

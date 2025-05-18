@@ -1,54 +1,52 @@
 import requests
 from time import sleep
 
-HEADERS = {
-    "Accept": "application/vnd.github+json",
-    "User-Agent": "GitHub-Profile-Scraper",
-}
+
 
 BASE_URL = "https://api.github.com"
 
-def scrape_github_users(query, pages=2, per_page=10, delay=2):
+import requests
+import os
+
+GITHUB_PAT = os.getenv("GITHUB_PAT")  # Set this in your .env or OS
+HEADERS = {
+    "Authorization": f"token {GITHUB_PAT}",
+    "Accept": "application/vnd.github.v3+json"
+}
+
+def scrape_github_users(query):
     users = []
+    for page in range(1, 3):  # Fetch first 2 pages
+        search_url = f"https://api.github.com/search/users?q={query}&page={page}&per_page=10"
+        response = requests.get(search_url, headers=HEADERS)
+        if response.status_code != 200:
+            print(f"[ERROR] GitHub Search API failed: {response.status_code}")
+            continue
 
-    for page in range(1, pages + 1):
-        print(f"[INFO] Fetching page {page} for query: '{query}'")
-
-        params = {
-            "q": query,
-            "page": page,
-            "per_page": per_page,
-        }
-
-        resp = requests.get(f"{BASE_URL}/search/users", headers=HEADERS, params=params)
-
-        if resp.status_code != 200:
-            print(f"[ERROR] API call failed: {resp.status_code} - {resp.text}")
-            break
-
-        data = resp.json()
+        data = response.json()
         for item in data.get("items", []):
             username = item["login"]
-            profile_url = item["html_url"]
+            user_url = f"https://api.github.com/users/{username}"
+            user_response = requests.get(user_url, headers=HEADERS)
 
-            user_detail = fetch_user_profile(username)
+            if user_response.status_code != 200:
+                print(f"[ERROR] Failed to fetch profile for {username}")
+                continue
 
-            users.append({
+            user_data = user_response.json()
+            user_profile = {
                 "username": username,
-                "profile_url": profile_url,
-                "name": user_detail.get("name"),
-                "bio": user_detail.get("bio"),
-                "location": user_detail.get("location"),
-                "public_repos": user_detail.get("public_repos"),
-                "followers": user_detail.get("followers"),
-                "following": user_detail.get("following"),
-                "extra": {
-                    "pinned_repositories": []  # GitHub API doesn't expose pinned repos
-                }
-            })
+                "profile_url": user_data.get("html_url"),
+                "followers": user_data.get("followers"),
+                "public_repos": user_data.get("public_repos"),
+                "name": user_data.get("name"),
+                "bio": user_data.get("bio"),
+                "location": user_data.get("location"),
+            }
+            users.append(user_profile)
 
-        sleep(delay)
     return users
+
 
 def fetch_user_profile(username):
     resp = requests.get(f"{BASE_URL}/users/{username}", headers=HEADERS)
